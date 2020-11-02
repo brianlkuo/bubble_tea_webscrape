@@ -7,9 +7,9 @@ import re
 class bubbletea(Spider):
     name = 'bubbletea_spider'
     start_urls = [
-    # 'https://www.yelp.com/search?find_desc=Bubble%20Tea&find_loc=New%20York'
+    'https://www.yelp.com/search?find_desc=Bubble%20Tea&find_loc=New%20York'
     # 'https://www.yelp.com/search?find_desc=bubble%20tea&find_loc=San%20Francisco'
-    'https://www.yelp.com/search?find_desc=bubble%20tea&find_loc=Los%20Angeles'
+    #'https://www.yelp.com/search?find_desc=bubble%20tea&find_loc=Los%20Angeles'
     ]
     allowed_urls = ['https://www.yelp.com/']
 
@@ -17,7 +17,12 @@ class bubbletea(Spider):
       # with open('TopCities.txt', 'rb') as cities:
         
         cities = pd.read_csv('TopCities.csv')
-        cities = cities['name'][:5].values.tolist()
+        cities = cities['name'][6:7].values.tolist()
+
+        print('='*55)
+        print(cities)
+        print('='*55)
+
 
         for url in cities:
             urls = url.replace(' ','%20')
@@ -74,6 +79,7 @@ class bubbletea(Spider):
         try:
             review_num = response.xpath('//div[@class="lemon--div__373c0__1mboc arrange-unit__373c0__o3tjT border-color--default__373c0__3-ifU nowrap__373c0__35McF"]/p/text()').extract()[0] 
             review_num = int(re.findall('\d+', review_num)[0])
+        
         except:
             print('*****no review numbers!*****')
             print(f'Offending URL: {response.url}')
@@ -92,7 +98,7 @@ class bubbletea(Spider):
             street = address[0]
             city = address[-1].split(',')[0]
             state = re.findall('[A-Z]+', address[-1].split(',')[1])[0]
-            zip5 = int(re.findall('\d+', address[-1].split(',')[1])[0])
+            zip5 = re.findall('\d+', address[-1].split(',')[1])[0]
         except:
             print('*****Address issue!!*****')
             print(f'Offending URL: {response.url}')
