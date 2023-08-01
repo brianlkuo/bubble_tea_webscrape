@@ -1,0 +1,238 @@
+address,business_name,city,first_review_date,food_tags,last_review_date,rating,review_num,state,street,zip5
+"2468 N Clark St,Chicago, IL 60614",Taiyaki Chicago,Chicago,5/9/2019,Desserts/Bubble Tea/Ice Cream & Frozen Yogurt,10/30/2020,4,98,IL,2468 N Clark St,60614
+"20 E Golf Rd,Schaumburg, IL 60173",Tous Les Jours,Schaumburg,11/20/2015,Coffee & Tea/Bakeries/Desserts,9/24/2020,4,249,IL,20 E Golf Rd,60173
+"4999 Old Orchard Ctr,Ste F6,Skokie, IL 60077",Adagio Teas,Skokie,5/14/2011,Coffee & Tea/Tea Rooms,8/14/2020,4,251,IL,4999 Old Orchard Ctr,60077
+"4637 N Damen Ave,Chicago, IL 60625",Siam Country,Chicago,8/19/2005,Thai,8/18/2020,4,128,IL,4637 N Damen Ave,60625
+"1240 W Dundee Rd,Buffalo Grove, IL 60089",Yofruito,Buffalo Grove,8/29/2013,Ice Cream & Frozen Yogurt/Coffee & Tea/Juice Bars & Smoothies,8/11/2020,3,18,IL,1240 W Dundee Rd,60089
+"1971 Bloomingdale Rd,Glendale Heights, IL 60139",Pho Ha,Glendale Heights,8/11/2006,Vietnamese/Coffee & Tea/Breakfast & Brunch,10/24/2020,4,400,IL,1971 Bloomingdale Rd,60139
+"5 Woodfield Mall,Ste KI-01,Schaumburg, IL 60173",Chill Bubble Tea,Schaumburg,12/22/2018,Bubble Tea,1/18/2020,5,3,IL,5 Woodfield Mall,60173
+"1624 W Belmont Ave,Chicago, IL 60657",Late Night Thai & Sushi,Chicago,8/6/2015,Thai/Sushi Bars/Japanese,9/5/2020,2,99,IL,1624 W Belmont Ave,60657
+"1649 E 55th St,Chicago, IL 60615",The Snail Thai Cuisine,Chicago,11/7/2005,Thai/Salad/Soup,8/26/2020,3,252,IL,1649 E 55th St,60615
+"1025 Lake St,Oak Park, IL 60301",Poke Burrito,Oak Park,6/22/2018,Poke/Japanese/Hawaiian,10/2/2020,4,74,IL,1025 Lake St,60301
+"2453 N Halsted St,Chicago, IL 60614",Noodles In the Pot,Chicago,7/8/2005,Thai/Noodles,10/16/2020,4,701,IL,2453 N Halsted St,60614
+"5150 Main St,Downers Grove, IL 60515",Cocomero,Downers Grove,11/21/2012,Ice Cream & Frozen Yogurt/Bubble Tea/Coffee & Tea,9/25/2019,4,48,IL,5150 Main St,60515
+"7601 S Cicero Ave,Chicago, IL 60652",Tasty Freeze Rolled Ice Cream and Bubble Tea,Chicago,8/9/2019,Ice Cream & Frozen Yogurt/Bubble Tea/Juice Bars & Smoothies,8/9/2019,3,1,IL,7601 S Cicero Ave,60652
+"4953 N Broadway,Chicago, IL 60640",Tank Noodle,Chicago,7/12/2005,Vietnamese/Noodles,11/1/2020,4,1784,IL,4953 N Broadway,60640
+"2529 N Milwaukee Ave,Chicago, IL 60647",The Crab Pad,Chicago,7/13/2016,Seafood/Cajun/Creole/Desserts,10/16/2020,4,519,IL,2529 N Milwaukee Ave,60647
+"520 Chicago Ridge Mall,Chicago Ridge, IL 60415",Tasty Freeze Custom Gourmet Ice Cream,Chicago Ridge,4/30/2017,Ice Cream & Frozen Yogurt/Bubble Tea/Juice Bars & Smoothies,2/27/2020,4,9,IL,520 Chicago Ridge Mall,60415
+"2253 S Wentworth Ave,Chicago, IL 60616",Chiu Quon Bakery & Dim Sum,Chicago,8/27/2005,Bakeries/Dim Sum,10/30/2020,4,359,IL,2253 S Wentworth Ave,60616
+"2932 N Broadway St,Chicago, IL 60657",Red Pig Asian Kitchen,Chicago,11/29/2012,Thai,9/26/2020,4,155,IL,2932 N Broadway St,60657
+"3222 W Foster Ave,Chicago, IL 60625",2 Asian Brothers,Chicago,8/19/2011,Sandwiches/Vietnamese/Asian Fusion,10/21/2020,4,204,IL,3222 W Foster Ave,60625
+"2227 S Wentworth Ave,Chicago, IL 60616",Ice Max,Chicago,7/13/2017,Desserts/Creperies/Ice Cream & Frozen Yogurt,10/25/2020,4,145,IL,2227 S Wentworth Ave,60616
+"2158 S Archer Ave,Chicago, IL 60616",Saint Anna Bakery & Cafe,Chicago,7/26/2005,Bakeries/Cantonese/Hong Kong Style Cafe,3/10/2020,4,243,IL,2158 S Archer Ave,60616
+"1373 E 53rd St,Chicago, IL 60615",Eto'o Modern Asian Cuisine,Chicago,8/29/2017,Asian Fusion/Japanese/Noodles,11/1/2020,3,73,IL,1373 E 53rd St,60615
+"4720 N Kedzie Ave,Chicago, IL 60625",Wabi Sabi,Chicago,9/29/2015,Sushi Bars/Ramen/Bubble Tea,10/11/2020,4,227,IL,4720 N Kedzie Ave,60625
+"1465 W Irving Park Rd,Chicago, IL 60613",Min Min Asian Cafe,Chicago,7/22/2016,Chinese/Thai/Asian Fusion,10/2/2020,3,84,IL,1465 W Irving Park Rd,60613
+"711 W Jackson Blvd,Chicago, IL 60661",H Mart - Chicago,Chicago,2/1/2018,Grocery/Korean/Food Court,10/22/2020,4,204,IL,711 W Jackson Blvd,60661
+"5819 W Belmont Ave,Chicago, IL 60634",Jess Cafe,Chicago,,Chinese/Korean/Thai,10/30/2020,4,430,IL,5819 W Belmont Ave,60634
+"877 S Roselle Rd,Schaumburg, IL 60193",GraviTea,Schaumburg,2/20/2018,Bubble Tea/Desserts/Coffee & Tea,10/4/2020,4,84,IL,877 S Roselle Rd,60193
+"1846-48 N Milwaukee Ave,Ste 48,Chicago, IL 60647",Silom 12,Chicago,1/23/2011,Thai,10/23/2020,4,433,IL,1846-48 N Milwaukee Ave,60647
+"20530 North Rand Rd,Ste 442,Deer Park, IL 60010",Poke Burrito,Deer Park,7/12/2019,Poke/Bubble Tea/Ramen,10/30/2020,4,58,IL,20530 North Rand Rd,60010
+"9109 N Milwaukee,Niles, IL 60714",TeaRex Bubble Tea Cafe,Niles,11/24/2018,Bubble Tea,8/25/2020,3,31,IL,9109 N Milwaukee,60714
+"601 S Wabash Ave,Chicago, IL 60605",Thai Spoon & Sushi,Chicago,12/31/2015,Sushi Bars/Thai/Bubble Tea,10/17/2020,3,229,IL,601 S Wabash Ave,60605
+"1568 E Lake Cook Rd,Wheeling, IL 60090",Sweet Cafe,Wheeling,11/4/2018,Ice Cream & Frozen Yogurt/Bubble Tea/Juice Bars & Smoothies,8/10/2020,4,18,IL,1568 E Lake Cook Rd,60090
+"726 Clark St,Evanston, IL 60201",Kung Fu Tea,Evanston,9/6/2014,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/13/2020,3,157,IL,726 Clark St,60201
+"1010 W Argyle St,Chicago, IL 60640",Uptown Pho,Chicago,7/18/2014,Vietnamese/Vegetarian/Desserts,8/20/2020,4,322,IL,1010 W Argyle St,60640
+"12 S NW Hwy,Park Ridge, IL 60068",Poke Burrito - Park Ridge,Park Ridge,8/21/2020,Poke/Ramen/Hawaiian,10/29/2020,4,13,IL,12 S NW Hwy,60068
+"3900 N Lincoln Ave,Chicago, IL 60613",C'est Bien Thai,Chicago,10/20/2016,Thai,9/20/2020,4,136,IL,3900 N Lincoln Ave,60613
+"100 East Algonquin Rd,Arlington Heights, IL 60005",B-Bee Crepe & Boba,Arlington Heights,5/28/2016,Bubble Tea/Creperies,10/5/2020,3,56,IL,100 East Algonquin Rd,60005
+"2161 S China Pl,Fl 2,Chicago, IL 60616",Mango Mango Dessert,Chicago,8/17/2019,Desserts,10/18/2020,4,89,IL,2161 S China Pl,60616
+"3946 N Central Ave,Chicago, IL 60634",Ninja Sushi & Thai Restaurant,Chicago,12/16/2016,Asian Fusion/Sushi Bars/Thai,10/25/2020,4,132,IL,3946 N Central Ave,60634
+"100 E Algonquin Rd,Mitsuwa Marketplace,Arlington Heights, IL 60005",releaf,Arlington Heights,7/23/2007,Ice Cream & Frozen Yogurt/Coffee & Tea/Bubble Tea,8/15/2020,4,155,IL,100 E Algonquin Rd,60005
+"2229 S Wentworth Ave,Chicago, IL 60616",Wentworth Seafood House,Chicago,2/5/2018,Bubble Tea/Seafood/Cantonese,9/2/2020,4,108,IL,2229 S Wentworth Ave,60616
+"275 Parkway Dr,Ste 315,Lincolnshire, IL 60069",Liquid Fusion,Lincolnshire,10/2/2012,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/20/2020,4,138,IL,275 Parkway Dr,60069
+"1549 W Chicago Ave,Chicago, IL 60642",SPICY FINGERS  Seafood Kitchen,Chicago,8/10/2019,Seafood/Cajun/Creole/Asian Fusion,8/28/2020,4,63,IL,1549 W Chicago Ave,60642
+"711 W Jackson Blvd,Chicago, IL 60661",Cafe L'ami,Chicago,6/30/2018,Bakeries/Desserts/Cafes,10/27/2019,3,11,IL,711 W Jackson Blvd,60661
+"3736 N Broadway St,Chicago, IL 60613",Jai-Yen,Chicago,7/14/2006,Sushi Bars/Japanese/Noodles,9/18/2020,3,436,IL,3736 N Broadway St,60613
+"4635 N Lincoln Ave,Chicago, IL 60625",Rolls N Bowls,Chicago,5/20/2010,Sushi Bars/Japanese/Asian Fusion,9/7/2020,4,403,IL,4635 N Lincoln Ave,60625
+"5033 N Elston Ave,Chicago, IL 60630",Jollibee,Chicago,12/27/2016,Filipino/Fast Food,10/22/2020,3,111,IL,5033 N Elston Ave,60630
+"3709 N Harlem Ave,Chicago, IL 60634",Yummy,Chicago,11/4/2012,Japanese/Chinese,9/2/2020,3,69,IL,3709 N Harlem Ave,60634
+"3257 N Broadway,Chicago, IL 60657",Joy's Noodles & Rice,Chicago,8/5/2005,Thai/Noodles,10/28/2020,4,914,IL,3257 N Broadway,60657
+"1375 E 53rd St,Chicago, IL 60615",Shinju Sushi,Chicago,10/16/2008,Japanese/Sushi Bars,10/26/2020,3,320,IL,1375 E 53rd St,60615
+"203 Yorktown Shopping Ctr,Lombard, IL 60148",Chill Bubble Tea,Lombard,6/23/2016,Bubble Tea/Juice Bars & Smoothies/Tea Rooms,10/30/2020,3,41,IL,203 Yorktown Shopping Ctr,60148
+"608 Davis St,Evanston, IL 60201",Shang Noodle & Chinese,Evanston,9/13/2017,Chinese/Noodles/Bubble Tea,10/25/2020,4,138,IL,608 Davis St,60201
+"28 E NW Hwy,Arlington Heights, IL 60004",Around Cafe,Arlington Heights,9/10/2016,Bubble Tea/Coffee & Tea,10/8/2020,4,235,IL,28 E NW Hwy,60004
+"7221 Forest Preserve Dr,Norridge, IL 60706",Viet Taste,Norridge,6/29/2017,Vietnamese,10/29/2020,4,158,IL,7221 Forest Preserve Dr,60706
+"8530 Waukegan Rd,Morton Grove, IL 60053",Boba Burger,Morton Grove,3/12/2015,Burgers/Asian Fusion/Bubble Tea,10/28/2020,4,505,IL,8530 Waukegan Rd,60053
+"5112 W Fullerton Ave,Chicago, IL 60639",Somethin' Sweet Donuts,Chicago,12/8/2012,Donuts/Coffee & Tea,10/10/2020,4,252,IL,5112 W Fullerton Ave,60639
+"5914 W Lawrence Ave,Chicago, IL 60630",Pho No.1,Chicago,6/18/2014,Vietnamese,9/16/2020,4,242,IL,5914 W Lawrence Ave,60630
+"3456 N Sheffield Ave,Chicago, IL 60657",Cozy Noodles & Rice,Chicago,8/25/2005,Thai/Noodles/Desserts,10/27/2020,4,1105,IL,3456 N Sheffield Ave,60657
+"461 Lake Cook Rd,Deerfield, IL 60015",Liquid Fusion,Deerfield,11/21/2018,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/9/2020,4,17,IL,461 Lake Cook Rd,60015
+"1639 E 55th St,Chicago, IL 60615",Siam Thai,Chicago,9/19/2006,Thai,10/30/2020,3,151,IL,1639 E 55th St,60615
+"1811 W North Ave,Chicago, IL 60622",Thee Asian Restaurant,Chicago,10/24/2011,Chinese/Asian Fusion,9/13/2020,3,187,IL,1811 W North Ave,60622
+"215 E Grand Ave,Chicago, IL 60611",Grandee Cuisine,Chicago,5/2/2018,Dim Sum/Seafood/Cantonese,10/25/2020,4,288,IL,215 E Grand Ave,60611
+"1401 N Ashland Ave,Chicago, IL 60622",Mott St,Chicago,6/11/2013,Asian Fusion/Bars,10/31/2020,4,783,IL,1401 N Ashland Ave,60622
+"727 Lake St,Oak Park, IL 60301",New Pot Rice & Noodles,Oak Park,10/18/2005,Thai/Noodles/Bubble Tea,6/27/2020,3,155,IL,727 Lake St,60301
+"1658 W Belmont Ave,Chicago, IL 60657",Scooter's Frozen Custard,Chicago,8/24/2005,Ice Cream & Frozen Yogurt,9/17/2020,4,603,IL,1658 W Belmont Ave,60657
+"5525 N Broadway,Chicago, IL 60640",Simply Pasteur,Chicago,1/20/2007,Vietnamese/Wine Bars/Cocktail Bars,10/2/2020,4,986,IL,5525 N Broadway,60640
+"3945 N Broadway,Chicago, IL 60613",Asian Mix Cafe,Chicago,9/1/2007,Thai/Bubble Tea/Noodles,10/28/2020,3,125,IL,3945 N Broadway,60613
+"2820 S Highland Ave,Lombard, IL 60148",Kai Sushi,Lombard,6/8/2017,Conveyor Belt Sushi/Sushi Bars/Chinese,10/30/2020,4,168,IL,2820 S Highland Ave,60148
+"6744 N Sheridan Rd,Chicago, IL 60626",Rice Thai Cafe,Chicago,8/21/2007,Thai,6/19/2020,3,162,IL,6744 N Sheridan Rd,60626
+"6255 N McCormick Rd,Chicago, IL 60659",Simple Delights,Chicago,6/2/2009,Filipino/Bakeries/Bubble Tea,6/5/2020,3,32,IL,6255 N McCormick Rd,60659
+"100 E Algonquin Rd,Arlington Heights, IL 60005",Mitsuwa Marketplace,Arlington Heights,10/4/2005,Japanese/Sushi Bars/International Grocery,10/26/2020,4,1151,IL,100 E Algonquin Rd,60005
+"6 W Hubbard St,Chicago, IL 60654",Imperial Lamian,Chicago,2/28/2016,Dim Sum/Noodles/Cocktail Bars,10/25/2020,4,1335,IL,6 W Hubbard St,60654
+"338 W Armitage Ave,Chicago, IL 60614",SaiMai Thai,Chicago,,Thai,10/25/2020,4,151,IL,338 W Armitage Ave,60614
+"4825 N Western Ave,Chicago, IL 60625",Rainbow Cuisine,Chicago,9/17/2012,Thai,10/23/2020,4,145,IL,4825 N Western Ave,60625
+"1333 E 57th St,Chicago, IL 60637",Noodles Etc,Chicago,9/28/2005,Noodles,9/13/2020,3,319,IL,1333 E 57th St,60637
+"400 S Michigan Ave,Chicago, IL 60605",Osaka Sushi Express & Fresh Fruit Smoothies,Chicago,10/31/2006,Sushi Bars/Japanese/Juice Bars & Smoothies,10/31/2020,4,476,IL,400 S Michigan Ave,60605
+"533 Davis St,Evanston, IL 60201",Joy Yee's Noodle Kitchen,Evanston,7/8/2005,Noodles/Pan Asian,11/1/2020,3,829,IL,533 Davis St,60201
+"4104 N Harlem Ave,Norridge, IL 60706",Touhy Fruity,Norridge,7/16/2017,Juice Bars & Smoothies/Coffee & Tea/Creperies,10/6/2020,3,34,IL,4104 N Harlem Ave,60706
+"797 Civic Center Dr,Niles, IL 60714",Cafe L’ami,Niles,2/8/2019,Bakeries/Bubble Tea/Macarons,8/28/2020,2,10,IL,797 Civic Center Dr,60714
+"3253 W Lawrence Ave,Chicago, IL 60625",Great Sea Restaurant,Chicago,7/13/2005,Chinese/Chicken Wings,10/25/2020,4,717,IL,3253 W Lawrence Ave,60625
+"1021 W Argyle St,Chicago, IL 60640",Pho Xe Lua,Chicago,12/15/2006,Vietnamese,10/11/2020,4,110,IL,1021 W Argyle St,60640
+"1307 S Wabash Ave,Chicago, IL 60605",My Place,Chicago,12/10/2012,Chinese/Juice Bars & Smoothies/Seafood,10/8/2020,3,198,IL,1307 S Wabash Ave,60605
+"4722 N Kedzie Ave,Chicago, IL 60625",LD Pho,Chicago,4/20/2015,Vietnamese,10/27/2020,4,178,IL,4722 N Kedzie Ave,60625
+"3313 N Clark St,Chicago, IL 60657",BITES asian kitchen + bar,Chicago,11/14/2013,Japanese/Sushi Bars/Chinese,10/26/2020,4,533,IL,3313 N Clark St,60657
+"857 W Fulton Market,Chicago, IL 60607",Duck Duck Goat,Chicago,3/23/2016,Chinese,10/23/2020,4,1390,IL,857 W Fulton Market,60607
+"76 South Arlington Heights Rd,Arlington Heights, IL 60005",Prairie Moo,Arlington Heights,12/26/2016,Bubble Tea/Ice Cream & Frozen Yogurt/Juice Bars & Smoothies,6/3/2020,4,59,IL,76 South Arlington Heights Rd,60005
+"1137 W Argyle St,Chicago, IL 60640",Pho 888,Chicago,11/26/2005,Vietnamese,10/8/2020,4,355,IL,1137 W Argyle St,60640
+"801 Civic Center Dr.,Niles, IL 60714",H Mart - Niles,Niles,8/26/2006,Korean/International Grocery/Food Court,10/19/2020,4,522,IL,801 Civic Center Dr.,60714
+"245 Golf Mill Ctr,Niles, IL 60714",Tea Nation,Niles,1/24/2019,Coffee & Tea,10/24/2020,4,5,IL,245 Golf Mill Ctr,60714
+"42 E Chicago Ave,Chicago, IL 60611",Forever Yogurt,Chicago,5/28/2011,Ice Cream & Frozen Yogurt,11/18/2019,4,140,IL,42 E Chicago Ave,60611
+"2638 N Milwaukee Ave,Chicago, IL 60647",Choi's Chinese Restaurant,Chicago,8/7/2007,Chinese,9/11/2020,3,72,IL,2638 N Milwaukee Ave,60647
+"11061 W Touhy Ave,Gate L2A,Terminal 3,Chicago, IL 60666",Argo Tea,Chicago,6/17/2009,Coffee & Tea,2/13/2020,3,127,IL,11061 W Touhy Ave,60666
+"5414 W Devon Ave,Chicago, IL 60646",King Pho,Chicago,2/1/2014,Vietnamese/Asian Fusion,10/28/2020,3,323,IL,5414 W Devon Ave,60646
+"3051 N California Ave,Chicago, IL 60618",Wok! You Want,Chicago,4/17/2020,Chinese,10/11/2020,4,17,IL,3051 N California Ave,60618
+"233 W Golf Rd,Schaumburg, IL 60195",Knead Bakery and Cafe,Schaumburg,1/7/2019,Cafes/Bakeries,10/21/2020,3,54,IL,233 W Golf Rd,60195
+"7230 W North Ave,Ste 210,Elmwood Park, IL 60707",Lotus Chinese Restaurant,Elmwood Park,1/24/2008,Chinese/Taiwanese,10/10/2020,4,94,IL,7230 W North Ave,60707
+"726 Lake St,Oak Park, IL 60130",Saigon Pho & Cafe,Oak Park,5/11/2016,Vietnamese,10/24/2020,3,148,IL,726 Lake St,60130
+"6148 N Lincoln Ave,Chicago, IL 60659",Hoanh Long,Chicago,10/19/2007,Vietnamese/Chinese,10/19/2020,4,330,IL,6148 N Lincoln Ave,60659
+"1222 W Madison St,Chicago, IL 60607",Talay Chicago,Chicago,2/13/2013,Thai/Sushi Bars,10/28/2020,4,249,IL,1222 W Madison St,60607
+"5754 W Belmont Ave,Chicago, IL 60634",Li Hing,Chicago,6/28/2014,Chinese/Asian Fusion,10/18/2020,4,143,IL,5754 W Belmont Ave,60634
+"1685 Milwaukee Ave,Glenview, IL 60025",Tous Les Jours,Glenview,10/18/2014,Bakeries/Coffee & Tea/Desserts,9/28/2020,4,258,IL,1685 Milwaukee Ave,60025
+"719 W Maxwell St,Chicago, IL 60607",Lotus Cafe & Bánh Mì Sandwiches,Chicago,9/20/2012,Vietnamese/Sandwiches,11/1/2020,4,479,IL,719 W Maxwell St,60607
+"116 W Park Ave,Elmhurst, IL 60126",Ni Hao Asian Cafe,Elmhurst,8/28/2018,Sushi Bars/Chinese/Japanese,10/19/2020,4,58,IL,116 W Park Ave,60126
+"4925 N Broadway St,Ste E,Chicago, IL 60640",Thai Pastry & Restaurant,Chicago,7/27/2005,Thai/Salad/Soup,10/14/2020,4,308,IL,4925 N Broadway St,60640
+"251 E Huron St,Chicago, IL 60611",Saigon Sisters,Chicago,9/12/2013,Coffee & Tea/Vietnamese/Sandwiches,10/13/2020,3,116,IL,251 E Huron St,60611
+"2020 N California Ave,Chicago, IL 60647",China Fast Wok,Chicago,9/21/2006,Chinese,8/30/2020,3,149,IL,2020 N California Ave,60647
+"2017 S Wells St,Fl 2,Chicago, IL 60616",Daebak Korean BBQ,Chicago,3/9/2017,Korean/Barbeque,11/1/2020,4,530,IL,2017 S Wells St,60616
+"1032 W Argyle St,Chicago, IL 60640",Nha Hang Viet Nam,Chicago,11/12/2011,Vietnamese,9/12/2020,4,312,IL,1032 W Argyle St,60640
+"3337 W Belmont Ave,Chicago, IL 60618",Eat First,Chicago,1/24/2006,Chinese,10/13/2020,3,105,IL,3337 W Belmont Ave,60618
+"2168 S Archer Ave,Chicago, IL 60616",MingHin Cuisine,Chicago,11/11/2010,Seafood/Dim Sum/Cantonese,11/1/2020,4,2286,IL,2168 S Archer Ave,60616
+"4999 Old Orchard Ctr,Skokie, IL 60077",Chill Bubble Tea,Skokie,9/1/2018,Bubble Tea/Tea Rooms/Juice Bars & Smoothies,9/1/2020,3,14,IL,4999 Old Orchard Ctr,60077
+"333 E Benton Pl,Ste 300,Chicago, IL 60601",MingHin Cuisine,Chicago,9/18/2015,Dim Sum/Cantonese/Asian Fusion,10/22/2020,4,863,IL,333 E Benton Pl,60601
+"7300 N Western Ave,Chicago, IL 60645",Eng's Asian Cuisine,Chicago,12/11/2005,Chinese,9/10/2020,3,115,IL,7300 N Western Ave,60645
+"1285 E Higgins Rd,Schaumburg, IL 60173",Fresh International Market,Schaumburg,4/12/2019,International Grocery,9/30/2020,3,85,IL,1285 E Higgins Rd,60173
+"1540 N Clark St,Chicago, IL 60610",Tiparos,Chicago,8/9/2005,Thai/Sushi Bars,10/20/2020,3,266,IL,1540 N Clark St,60610
+"4104 N Harlem Ave,space 30,Harlem Irving Plaza,Norridge, IL 60706",Yogen Fruz,Norridge,5/31/2012,Ice Cream & Frozen Yogurt/Bubble Tea/Juice Bars & Smoothies,2/20/2019,3,14,IL,4104 N Harlem Ave,60706
+"1050-52 W Argyle St,Chicago, IL 60640",La Patisserie P,Chicago,2/26/2006,Bakeries/Cupcakes/Breakfast & Brunch,10/24/2020,4,165,IL,1050-52 W Argyle St,60640
+"71 S La Grange Rd,La Grange, IL 60525",Forever Yogurt,La Grange,4/5/2014,Ice Cream & Frozen Yogurt,10/18/2020,4,47,IL,71 S La Grange Rd,60525
+"810 W Jackson Blvd,Chicago, IL 60607",WJ Noodles,Chicago,2/24/2018,Noodles/Chinese/Ramen,10/20/2020,4,225,IL,810 W Jackson Blvd,60607
+"1139 W Grand Ave,Chicago, IL 60642",Butterfly Sushi Bar & Thai Cuisine,Chicago,5/22/2006,Thai/Sushi Bars,10/25/2020,4,1082,IL,1139 W Grand Ave,60642
+"1123 W Granville Ave,Chicago, IL 60660",Summer,Chicago,11/13/2007,Asian Fusion/Thai,9/2/2020,3,216,IL,1123 W Granville Ave,60660
+"2138 South Archer Ave,Chicago, IL 60616",MCCB Chicago 时尚食谱,Chicago,9/8/2017,Chinese,10/22/2020,4,425,IL,2138 South Archer Ave,60616
+"11061 West Touhy Ave,O'Hare Airport, Terminal 2, Concourse E, Gate E3,Chicago, IL 60666",Argo Tea,Chicago,12/13/2011,Coffee & Tea,3/6/2020,3,85,IL,11061 West Touhy Ave,60666
+"8357 W Golf Rd,Niles, IL 60714",Bakersville,Niles,3/2/2007,Bakeries/Coffee & Tea/Korean,10/30/2020,4,139,IL,8357 W Golf Rd,60714
+"6966 N Glenwood Ave,Chicago, IL 60626",Far East Kitchen,Chicago,9/3/2012,Vietnamese/Chinese/American (New),9/13/2020,3,77,IL,6966 N Glenwood Ave,60626
+"180 N Wabash,Chicago, IL 60601",Panda Express,Chicago,12/16/2015,Chinese/Fast Food/Bubble Tea,8/10/2020,2,31,IL,180 N Wabash,60601
+"1055 W Argyle St,Chicago, IL 60640",Hai Yen,Chicago,4/20/2005,Vietnamese,10/8/2020,4,409,IL,1055 W Argyle St,60640
+"8901 N Milwaukee,Unit 117,Niles, IL 60714",Crescent Bakery,Niles,6/11/2015,Bakeries/Bubble Tea,7/11/2020,3,6,IL,8901 N Milwaukee,60714
+"1138 W Taylor St,Chicago, IL 60607",ML Kitchen,Chicago,5/3/2017,Chinese/Asian Fusion/Chicken Wings,10/31/2020,4,160,IL,1138 W Taylor St,60607
+"683 N York St,Elmhurst, IL 60126",Nathan's Noodles,Elmhurst,1/22/2007,Thai/Noodles,10/21/2020,3,139,IL,683 N York St,60126
+"3533 N Western Ave,Chicago, IL 60618",New China 2,Chicago,2/14/2012,Chinese/Seafood,8/28/2020,3,53,IL,3533 N Western Ave,60618
+"85 W Algonquin Rd,Ste 140,Arlington Heights, IL 60005",B Happy Cafe,Arlington Heights,8/2/2016,Sandwiches/Bubble Tea/Noodles,6/28/2018,4,3,IL,85 W Algonquin Rd,60005
+"2230 Western Ave,Chicago, IL 60608",Canton Star,Chicago,6/1/2013,Chinese/Thai,5/25/2019,3,10,IL,2230 Western Ave,60608
+"1065 W Argyle St,Chicago, IL 60640",Pho 777,Chicago,11/29/2005,Vietnamese,10/9/2020,3,525,IL,1065 W Argyle St,60640
+"1040 W Granville Ave,Chicago, IL 60660",The Thai Grill & Noodle Bar,Chicago,2/27/2006,Thai/Noodles,10/30/2020,3,187,IL,1040 W Granville Ave,60660
+"2015 W Rice St,Melrose Park, IL 60160",La Dulce Vida Neveria,Melrose Park,1/8/2012,Ice Cream & Frozen Yogurt/Juice Bars & Smoothies,10/30/2020,4,56,IL,2015 W Rice St,60160
+"2428 N Ashland Ave,Chicago, IL 60614",Asian Cajun,Chicago,1/24/2016,Cajun/Creole/Seafood/Asian Fusion,10/31/2020,4,263,IL,2428 N Ashland Ave,60614
+"1624 W Belmont Ave,Chicago, IL 60657",Asian Avenue,Chicago,9/23/2006,Thai/Sushi Bars,4/19/2019,3,83,IL,1624 W Belmont Ave,60657
+"2547 W Lawrence Ave,Suite# B,Chicago, IL 60625",Kimberli Sushi Bar & Thai Cuisine,Chicago,9/28/2011,Sushi Bars/Thai/Ramen,10/31/2020,3,137,IL,2547 W Lawrence Ave,60625
+"844 N Roselle Rd,Hoffman Estates, IL 60194",Asian Noodle House,Hoffman Estates,9/4/2006,Chinese/Malaysian/Noodles,10/30/2020,4,486,IL,844 N Roselle Rd,60194
+"665 Pasquinelli Dr,Ste 106,Westmont, IL 60559",Oriental Food House,Westmont,7/29/2010,Taiwanese/Chinese/Seafood,11/17/2019,4,28,IL,665 Pasquinelli Dr,60559
+"1608 E Algonquin Rd,Schaumburg, IL 60173",Hong Kong Cafe,Schaumburg,1/23/2007,Chinese/Noodles/Soup,10/26/2020,4,193,IL,1608 E Algonquin Rd,60173
+"11061 W Touhy Ave,Concourse H, Gate H1,Terminal 3,Chicago, IL 60666",Argo Tea,Chicago,4/13/2014,Coffee & Tea,11/17/2019,3,34,IL,11061 W Touhy Ave,60666
+"520 N Michigan Ave,Ste 420,Chicago, IL 60611",Lao Sze Chuan,Chicago,12/19/2014,Szechuan/Dim Sum,10/31/2020,3,884,IL,520 N Michigan Ave,60611
+"230 E Ohio St,Chicago, IL 60611",Dao Thai,Chicago,8/20/2005,Thai,9/12/2020,3,623,IL,230 E Ohio St,60611
+"2148 S Archer Ave,Chicago, IL 60616",BBQ King House,Chicago,11/19/2005,Chinese/Barbeque/Juice Bars & Smoothies,11/1/2020,3,225,IL,2148 S Archer Ave,60616
+"8000 N Waukegan Rd,Niles, IL 60714",Village Creamery,Niles,9/22/2005,Ice Cream & Frozen Yogurt,10/22/2020,4,223,IL,8000 N Waukegan Rd,60714
+"2121B S China Pl,Fl 2,Chicago, IL 60616",Chicago Chinese Cultural Institute,Chicago,7/12/2007,Walking Tours,6/14/2017,5,6,IL,2121B S China Pl,60616
+"3558 N Pulaski Rd,Chicago, IL 60641",Manee Thai Restaurant,Chicago,12/20/2005,Thai/Japanese/Asian Fusion,,3,316,IL,3558 N Pulaski Rd,60641
+"2438 W Division St,Chicago, IL 60622",New China,Chicago,6/21/2007,Chinese,10/11/2020,3,107,IL,2438 W Division St,60622
+"8901 N Milwaukee Ave,Niles, IL 60714",Assi Plaza,Niles,3/28/2008,International Grocery,9/19/2020,4,166,IL,8901 N Milwaukee Ave,60714
+"807 W Chicago Ave,East Chicago, IN 46312",China Wok,East Chicago,2/10/2010,Chinese,9/13/2019,3,12,IN,807 W Chicago Ave,46312
+"3333 W Touhy Ave,Fl 2,Lincolnwood, IL 60712",Touhy Fruity,Lincolnwood,,Juice Bars & Smoothies/Coffee & Tea/Creperies,2/8/2020,3,4,IL,3333 W Touhy Ave,60712
+"2706 W Peterson Ave,Chicago, IL 60659",Pride Sushi and Thai,Chicago,3/18/2014,Japanese/Thai/Sushi Bars,10/19/2020,4,217,IL,2706 W Peterson Ave,60659
+"2228 S Wentworth Ave,Chicago, IL 60616",Feida Bakery,Chicago,8/27/2005,Bakeries,10/5/2020,3,71,IL,2228 S Wentworth Ave,60616
+"6044 N Broadway Ave,Chicago, IL 60660",Lavo Asian Grill,Chicago,7/29/2012,Asian Fusion,7/8/2013,3,7,IL,6044 N Broadway Ave,60660
+"5114 -16 Museum Dr,Oak Lawn, IL 60453",La Michoacana Premium Oak Lawn,Oak Lawn,5/18/2018,Ice Cream & Frozen Yogurt,9/23/2020,3,20,IL,5114 -16 Museum Dr,60453
+"2141 S Archer Ave,Chicago, IL 60616",Strings Ramen Shop,Chicago,1/30/2014,Ramen,11/1/2020,3,958,IL,2141 S Archer Ave,60616
+"F-319 Woodfield Mall,Schaumburg, IL 60173",Chill Bubble Tea,Schaumburg,5/17/2007,Bubble Tea/Tea Rooms,10/1/2020,3,108,IL,F-319 Woodfield Mall,60173
+"5010 N Broadway,Chicago, IL 60640",BAMBU,Chicago,10/28/2016,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/31/2020,4,185,IL,5010 N Broadway,60640
+"1013 W Webster Ave,Chicago, IL 60614",Hubba Bobba,Chicago,2/2/2018,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/17/2020,3,94,IL,1013 W Webster Ave,60614
+"1453 W Taylor St,Chicago, IL 60607",Living Water Tea House,Chicago,6/23/2020,Tea Rooms/Bubble Tea,10/18/2020,4,35,IL,1453 W Taylor St,60607
+"1159 W Taylor St,Chicago, IL 60607",KURIMU,Chicago,10/13/2019,Bubble Tea/Ice Cream & Frozen Yogurt,10/31/2020,4,105,IL,1159 W Taylor St,60607
+"520 N Michigan Ave,Ste 421,Chicago, IL 60611",Te'amo Boba Bar,Chicago,6/13/2018,Bubble Tea/Tea Rooms/Juice Bars & Smoothies,10/8/2020,4,99,IL,520 N Michigan Ave,60611
+"1111 W Randolph St,Chicago, IL 60607",Eat Me Milk Me,Chicago,1/30/2020,Coffee & Tea/Bubble Tea/Themed Cafes,11/1/2020,4,59,IL,1111 W Randolph St,60607
+"333 S State St,Chicago, IL 60604",Vivi Bubble Tea,Chicago,6/20/2015,Bubble Tea,10/11/2020,4,288,IL,333 S State St,60604
+"2002 S Wentworth Ave,Ste B09,Chicago, IL 60616",Elitea,Chicago,8/19/2018,Bubble Tea/Tea Rooms,10/12/2020,4,138,IL,2002 S Wentworth Ave,60616
+"3308 N Western Ave,Chicago, IL 60618",Ten Cafe,Chicago,6/6/2020,Bubble Tea/Ice Cream & Frozen Yogurt,10/11/2020,4,22,IL,3308 N Western Ave,60618
+"937 N Damen Ave,Chicago, IL 60622",Thai Basil,Chicago,8/15/2018,Vietnamese/Thai/Desserts,9/20/2020,4,52,IL,937 N Damen Ave,60622
+"5014 N Broadway St,Chicago, IL 60640",Ba Le Sandwich,Chicago,7/13/2005,Bakeries/Vietnamese/Sandwiches,10/26/2020,4,809,IL,5014 N Broadway St,60640
+"160 S Roselle Rd,Schaumburg, IL 60193",Umbrella Tea House,Schaumburg,7/24/2020,Bubble Tea/Coffee & Tea,10/17/2020,4,39,IL,160 S Roselle Rd,60193
+"1335 S Halsted St,Chicago, IL 60608",Joy Yee's Noodle Shop,Chicago,8/8/2006,Asian Fusion/Chinese,10/18/2020,3,647,IL,1335 S Halsted St,60608
+"1285 N Rand Rd,Arlington Heights, IL 60004",Tugo Tea House,Arlington Heights,1/14/2019,Bubble Tea/Taiwanese,10/30/2020,4,117,IL,1285 N Rand Rd,60004
+"700 E Grand Ave,Chicago, IL 60611",Snow Dragon Shavery,Chicago,7/22/2016,Shaved Ice/Bubble Tea/Ice Cream & Frozen Yogurt,7/18/2020,3,58,IL,700 E Grand Ave,60611
+"5237 Golf Rd,Skokie, IL 60077",TeaRex Bubble Tea Cafe,Skokie,12/16/2017,Bubble Tea/Waffles,9/16/2020,4,194,IL,5237 Golf Rd,60077
+"2002 S Wentworth Ave,Apt B11,Chicago, IL 60616",Chi Yatai,Chicago,12/24/2019,Food Court/Japanese/Bubble Tea,10/31/2020,5,46,IL,2002 S Wentworth Ave,60616
+"5220 Fashion Outlets Way,Rosemont, IL 60018",Tea Ninja,Rosemont,2/5/2017,Bubble Tea/Juice Bars & Smoothies,5/24/2020,4,43,IL,5220 Fashion Outlets Way,60018
+"1825 Waukegan Rd,Glenview, IL 60025",Boba Club,Glenview,8/29/2018,Coffee & Tea/Waffles/Bubble Tea,10/16/2020,4,149,IL,1825 Waukegan Rd,60025
+"1062 Lee St,Des Plaines, IL 60016",Brew Lounge,Des Plaines,6/19/2019,Bubble Tea/Coffee & Tea,10/25/2020,4,85,IL,1062 Lee St,60016
+"1158 W Taylor St,Chicago, IL 60607",Tai Chi Bubble Tea,Chicago,3/1/2020,Bubble Tea/Ramen/Sushi Bars,10/31/2020,3,13,IL,1158 W Taylor St,60607
+"1424 W Taylor St,Chicago, IL 60607",L'Ours Bakery Cafe,Chicago,12/26/2018,Cafes/Bakeries/Coffee & Tea,10/26/2020,4,132,IL,1424 W Taylor St,60607
+"6604 Roosevelt Rd,Store,Oak Park, IL 60304",Sweet Monster,Oak Park,6/20/2019,Ice Cream & Frozen Yogurt/Bubble Tea/Desserts,10/18/2020,4,18,IL,6604 Roosevelt Rd,60304
+"2215 N Halsted St,Chicago, IL 60614",Juiceez Cafe,Chicago,10/2/2020,Juice Bars & Smoothies,10/2/2020,5,1,IL,2215 N Halsted St,60614
+"215 E Grand Ave,Chicago, IL 60611",Hitea,Chicago,5/22/2020,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,9/7/2020,4,7,IL,215 E Grand Ave,60611
+"3257 W Bryn Mawr Ave,Chicago, IL 60659",Outdoor Café,Chicago,10/21/2005,Ice Cream & Frozen Yogurt/Coffee & Tea,10/31/2020,4,224,IL,3257 W Bryn Mawr Ave,60659
+"2139 S China Pl,Chicago, IL 60616",Joy Yee Noodle,Chicago,7/8/2005,Noodles/Pan Asian,10/22/2020,3,1625,IL,2139 S China Pl,60616
+"621 Meacham Rd,Elk Grove Village, IL 60007",Bobar,Elk Grove Village,6/16/2019,Bubble Tea/Juice Bars & Smoothies/Waffles,10/30/2020,4,130,IL,621 Meacham Rd,60007
+"5405 W 95th St,Oak Lawn, IL 60453",Tea Yard,Oak Lawn,1/10/2019,Bubble Tea,9/26/2020,4,45,IL,5405 W 95th St,60453
+"7154 Carpenter Rd,Skokie, IL 60077",Chill Bubble Tea,Skokie,11/18/2009,Juice Bars & Smoothies/Bubble Tea,10/1/2020,3,157,IL,7154 Carpenter Rd,60077
+"115 N Dearborn St,Chicago, IL 60602",Tea Monster,Chicago,6/27/2020,Coffee & Tea,10/23/2020,4,6,IL,115 N Dearborn St,60602
+"413 E Roosevelt Rd,Lombard, IL 60148",Chi Tea,Lombard,9/4/2020,Bubble Tea/Sandwiches,10/27/2020,4,42,IL,413 E Roosevelt Rd,60148
+"6317 Dempster St,Morton Grove, IL 60053",Avalanche Bubble Tea,Morton Grove,1/6/2009,Coffee & Tea/Bubble Tea,10/6/2020,4,216,IL,6317 Dempster St,60053
+"3124 W Montrose,Chicago, IL 60618",Naranja Dulce,Chicago,2/23/2019,Ice Cream & Frozen Yogurt/Bubble Tea/Mexican,9/10/2020,4,12,IL,3124 W Montrose,60618
+"209 W Golf Rd,Schaumburg, IL 60195",Coffee Haus,Schaumburg,3/3/2007,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/30/2020,4,481,IL,209 W Golf Rd,60195
+"4956 Main St,Downers Grove, IL 60515",Super Crown Wings,Downers Grove,6/19/2020,Chicken Wings/Bubble Tea/Juice Bars & Smoothies,10/12/2020,4,12,IL,4956 Main St,60515
+"5741 W Irving Park Rd,Chicago, IL 60634",Portage Park Tea,Chicago,11/17/2019,Coffee & Tea/Specialty Food/Bubble Tea,5/5/2020,5,4,IL,5741 W Irving Park Rd,60634
+"6050 W Irving Park Rd,Next to Chicago Public Library,Chicago, IL 60634",Bistro 6050,Chicago,2/4/2017,Empanadas/Creperies/Ice Cream & Frozen Yogurt,10/30/2020,5,285,IL,6050 W Irving Park Rd,60634
+"2234 S Wentworth Ave,Chicago, IL 60616",Tbaar,Chicago,7/26/2016,Juice Bars & Smoothies,7/7/2020,3,145,IL,2234 S Wentworth Ave,60616
+"2159 S China Pl,Chicago, IL 60616",Joy Yee Plus,Chicago,7/12/2009,Japanese/Asian Fusion/Noodles,10/29/2020,3,395,IL,2159 S China Pl,60616
+"1223 W Devon Ave,Chicago, IL 60660",TBaar Loyola-Lakeshore Campus,Chicago,6/3/2018,Bubble Tea/Juice Bars & Smoothies,7/23/2020,4,27,IL,1223 W Devon Ave,60660
+"3900 W Touhy Ave,Lincolnwood, IL 60712",Two Lanterns Cafe,Lincolnwood,7/22/2019,Bubble Tea/Chinese,9/26/2020,5,20,IL,3900 W Touhy Ave,60712
+"2901 N Broadway St,Chicago, IL 60657",Yummy Yummy Asian Cuisine,Chicago,10/24/2006,Chinese/Juice Bars & Smoothies,10/21/2020,4,653,IL,2901 N Broadway St,60657
+"2026 S Clark St,Unit A&B,Chicago, IL 60616",Meet Fresh,Chicago,1/9/2018,Desserts/Shaved Ice,10/29/2020,3,468,IL,2026 S Clark St,60616
+"1285 E Higgins Rd,Schaumburg, IL 60173",Elitea,Schaumburg,11/18/2019,Bubble Tea,10/21/2020,5,15,IL,1285 E Higgins Rd,60173
+"3375 Milwaukee Ave,Northbrook, IL 60062",Liquid Fusion Cafe,Northbrook,9/25/2006,Coffee & Tea/Bubble Tea,10/22/2020,4,214,IL,3375 Milwaukee Ave,60062
+"1937 S Plum Grove Rd,Palatine, IL 60067",Hangout Cafe,Palatine,8/5/2019,Cafes,10/21/2020,4,57,IL,1937 S Plum Grove Rd,60067
+"2333 W North Ave,Chicago, IL 60647",Bon Bon Sandwiches,Chicago,2/11/2009,Vietnamese/Sandwiches/Ramen,10/23/2020,3,536,IL,2333 W North Ave,60647
+"2612 W Lawrence Ave,Chicago, IL 60625",Nhu Lan Saigon Subs,Chicago,3/21/2007,Vietnamese/Bakeries,10/31/2020,4,825,IL,2612 W Lawrence Ave,60625
+"5100 N Broadway,Chicago, IL 60640",Lotus Seed,Chicago,1/17/2019,Vietnamese/Bubble Tea,9/19/2020,4,27,IL,5100 N Broadway,60640
+"4301 N Lincoln Ave,Chicago, IL 60618",Poke Burrito,Chicago,11/30/2017,Poke/Japanese/Bubble Tea,7/15/2020,4,110,IL,4301 N Lincoln Ave,60618
+"2157 S China Pl,Chicago, IL 60616",Saint's Alp Teahouse & Gourmet,Chicago,7/27/2015,Coffee & Tea/Chinese/Taiwanese,8/28/2020,3,149,IL,2157 S China Pl,60616
+"9001 N Milwaukee Ave,Ste C,Niles, IL 60714",Lina's Frozen Treats and Cafe,Niles,5/21/2018,Coffee & Tea/Ice Cream & Frozen Yogurt/Bubble Tea,9/26/2020,4,87,IL,9001 N Milwaukee Ave,60714
+"1139 W Argyle St,Chicago, IL 60640",Hong Xuong Bakery,Chicago,3/16/2009,Bakeries/Vietnamese,11/14/2013,4,9,IL,1139 W Argyle St,60640
+"527 Davis St,Evanston, IL 60201",527 Cafe,Evanston,10/5/2010,Taiwanese/Chinese/Bubble Tea,10/30/2020,4,311,IL,527 Davis St,60201
+"1607 E 55th St,Chicago, IL 60615",Thai 55 Restaurant,Chicago,2/16/2006,Thai/Seafood/Juice Bars & Smoothies,10/22/2020,2,254,IL,1607 E 55th St,60615
+"2160 S Archer Ave,Ste A,Chicago, IL 60616",Chi Cafe,Chicago,11/8/2007,Chinese,10/27/2020,4,1148,IL,2160 S Archer Ave,60616
+"2026 S Clark St,Unit F,Chicago, IL 60616",Meet Noodles,Chicago,8/23/2020,Noodles/Bubble Tea,11/1/2020,4,9,IL,2026 S Clark St,60616
+"2609 S Halsted St,Chicago, IL 60608",Taipei Cafe,Chicago,1/5/2017,Taiwanese/Shaved Ice/Bubble Tea,9/29/2020,4,271,IL,2609 S Halsted St,60608
+"820 W Belmont Ave,Chicago, IL 60657",Okashi,Chicago,3/10/2018,Ice Cream & Frozen Yogurt/Juice Bars & Smoothies/Bubble Tea,7/30/2020,4,80,IL,820 W Belmont Ave,60657
+"2026 S Clark,Unit C,Chicago, IL 60616",Hello Jasmine,Chicago,4/16/2019,Taiwanese/Bubble Tea/Juice Bars & Smoothies,10/17/2020,4,217,IL,2026 S Clark,60616
+"1115 E 55th St,Chicago, IL 60615",Te'amo Boba Bar,Chicago,1/24/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/7/2020,4,75,IL,1115 E 55th St,60615
+"2171 S China Pl,Ste A,Chicago, IL 60616",Uni Uni,Chicago,10/12/2020,Bubble Tea,10/31/2020,4,7,IL,2171 S China Pl,60616
+"3139 N Broadway,Chicago, IL 60657",Tea Ninja,Chicago,8/18/2019,Bubble Tea,9/11/2020,3,50,IL,3139 N Broadway,60657
+"2126B S Archer Ave,Chicago, IL 60616",Kung Fu Tea,Chicago,5/18/2014,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/3/2020,3,369,IL,2126B S Archer Ave,60616
+"3127 N Ashland Ave,Chicago, IL 60657",Freezing Point,Chicago,2/15/2018,Ice Cream & Frozen Yogurt/Bubble Tea/Juice Bars & Smoothies,9/3/2020,4,74,IL,3127 N Ashland Ave,60657
+"5002 N Broadway,Chicago, IL 60640",Top Tao Tea,Chicago,12/29/2019,Bubble Tea/Tea Rooms,10/28/2020,4,40,IL,5002 N Broadway,60640
+"751 E Boughton Rd,Bolingbrook, IL 60440",Snow Factory,Bolingbrook,,Ice Cream & Frozen Yogurt/Bubble Tea/Juice Bars & Smoothies,9/14/2020,4,41,IL,751 E Boughton Rd,60440
+"1311 W Taylor St,Chicago, IL 60607",Gathers Tea Bar,Chicago,11/8/2019,Bubble Tea/Coffee & Tea,10/31/2020,5,58,IL,1311 W Taylor St,60607
+"2026 South Clark St,Unit G,Chicago, IL 60616",TSAôCAA,Chicago,12/5/2018,Bubble Tea/Shaved Ice/Macarons,10/29/2020,4,161,IL,2026 South Clark St,60616
+"2150 S Archer Ave,Chicago, IL 60616",Bingo Tea,Chicago,8/4/2018,Bubble Tea,10/29/2020,4,182,IL,2150 S Archer Ave,60616
+"2959 N Milwaukee Ave,Chicago, IL 60618",Sipping Turtle Cafe,Chicago,2/17/2020,Cafes,,4,25,IL,2959 N Milwaukee Ave,60618
+"1565 Sherman Ave,Evanston, IL 60201",TEAlicious BUBBLE,Evanston,6/7/2019,Bubble Tea/Taiwanese/Juice Bars & Smoothies,10/31/2020,4,72,IL,1565 Sherman Ave,60201
+"3247 W Bryn Mawr Ave,Chicago, IL 60659",Java & Mug Cafe,Chicago,7/24/2007,Coffee & Tea/Bubble Tea,9/26/2020,4,199,IL,3247 W Bryn Mawr Ave,60659
+"6800 N Sheridan Rd,Chicago, IL 60626",Taichi Bubble Tea Chicago,Chicago,10/31/2019,Ramen/Bubble Tea,10/23/2020,4,41,IL,6800 N Sheridan Rd,60626
+"131 N Clinton St,Chicago French Market,Chicago, IL 60661",B.I.Tea & Dim Sum,Chicago,8/20/2016,Bubble Tea/Dim Sum,8/21/2020,4,80,IL,131 N Clinton St,60661
+"953 W Webster Ave,Chicago, IL 60614",Hello Jasmine - Lincoln Park,Chicago,6/19/2020,Bubble Tea/Taiwanese/Chicken Shop,11/1/2020,4,33,IL,953 W Webster Ave,60614
+"4925 N Broadway,Ste D,Chicago, IL 60640",Kung Fu Tea,Chicago,5/25/2015,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/18/2020,3,123,IL,4925 N Broadway,60640

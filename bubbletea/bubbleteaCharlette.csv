@@ -1,0 +1,61 @@
+address,business_name,city,first_review_date,food_tags,last_review_date,rating,review_num,state,street,zip5
+"1204 Central Ave,Ste 102,Charlotte, NC 28204",Sharetea,Charlotte,8/28/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/31/2020,4,92,NC,1204 Central Ave,28204
+"3615 Whitehall Park Dr,Ste I,Charlotte, NC 28273",QC Tea Bar,Charlotte,12/21/2017,Coffee & Tea/Desserts/Juice Bars & Smoothies,11/1/2020,4,151,NC,3615 Whitehall Park Dr,28273
+"5110 Park Rd,Ste 1-K,Charlotte, NC 28209",Around the World Cafe,Charlotte,6/16/2019,Ice Cream & Frozen Yogurt/Bubble Tea/Desserts,10/12/2020,4,49,NC,5110 Park Rd,28209
+"8200 Providence Rd,Ste 1000,,Charlotte, NC 28277",Kung Fu Tea,Charlotte,5/10/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,9/15/2020,4,100,NC,8200 Providence Rd,28277
+"440 E McCollough Dr,Charlotte, NC 28262",Tea Fusion Cafe,Charlotte,8/14/2016,Desserts/Bubble Tea/Cafes,10/19/2020,4,237,NC,440 E McCollough Dr,28262
+"10039 University City Blvd,Ste L,Charlotte, NC 28213",Quickly Bubble Tea,Charlotte,5/21/2016,Bubble Tea/Juice Bars & Smoothies/Fast Food,9/1/2020,4,83,NC,10039 University City Blvd,28213
+"9211 N Tryon St,Ste 5,Charlotte, NC 28262",Binki Cafe,Charlotte,3/15/2019,Bubble Tea/Asian Fusion/Ramen,11/2/2020,4,85,NC,9211 N Tryon St,28262
+"8318 Pineville-Matthews Rd,Ste 703,Charlotte, NC 28226",MiGuo Bubble Tea,Charlotte,12/14/2019,Coffee & Tea/Bubble Tea,9/30/2020,4,9,NC,8318 Pineville-Matthews Rd,28226
+"4620 Piedmont Row Dr,Ste 170A,Charlotte, NC 28210",Milk Cha-Cha,Charlotte,4/6/2020,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/1/2020,5,55,NC,4620 Piedmont Row Dr,28210
+"7211 E Independence Blvd,Charlotte, NC 28227",Pho Huong Que,Charlotte,2/11/2011,Vietnamese,9/2/2020,4,148,NC,7211 E Independence Blvd,28227
+"601 S Kings Dr,Ste K,Charlotte, NC 28204",Gong Cha,Charlotte,1/23/2020,Bubble Tea,10/29/2020,4,35,NC,601 S Kings Dr,28204
+"1825 S New Hope Rd,Gastonia, NC 28054",BooJa Korean and Japanese Restuarant,Gastonia,8/15/2020,Korean/Japanese,10/27/2020,5,15,NC,1825 S New Hope Rd,28054
+"820 Hamilton St,Charlotte, NC 28206",8.2.0 Pizzeria & Bar,Charlotte,8/27/2016,Pizza/Karaoke/Venues & Event Spaces,10/14/2020,4,105,NC,820 Hamilton St,28206
+"7221 Waverly Walk Ave,Charlotte, NC 28277",Genji Sushi Bars,Charlotte,9/27/2017,Ramen/Sushi Bars,8/12/2019,3,5,NC,7221 Waverly Walk Ave,28277
+"4832 Central Ave,Charlotte, NC 28205",Pho An Hoa,Charlotte,9/19/2008,Vietnamese,3/7/2020,4,68,NC,4832 Central Ave,28205
+"440 E McCullough Dr,Ste 206,Charlotte, NC 28262",Pho Real Vietnamese Restaurant and Bar,Charlotte,2/21/2007,Vietnamese/Bubble Tea/Cocktail Bars,10/31/2020,3,366,NC,440 E McCullough Dr,28262
+"7323 E Independence Blvd,Charlotte, NC 28227",Hong Kong Bakery,Charlotte,12/19/2014,Bakeries,7/15/2020,4,25,NC,7323 E Independence Blvd,28227
+"5100 S Blvd,Ste C,Charlotte, NC 28217",Crispy Banh Mi,Charlotte,6/5/2016,Vietnamese/Sandwiches/Juice Bars & Smoothies,10/18/2020,4,311,NC,5100 S Blvd,28217
+"7323 E Independence Blvd,Charlotte, NC 28227",Super G Mart,Charlotte,6/21/2010,International Grocery,10/10/2020,4,199,NC,7323 E Independence Blvd,28227
+"3000 Central Ave,Ste 1,Charlotte, NC 28205",Pho Hoa Noodle Soup,Charlotte,9/28/2008,Vietnamese,10/19/2020,4,317,NC,3000 Central Ave,28205
+"230 E Wt Harris Blvd,Ste A-7,Charlotte, NC 28262",Banh Mi Brothers,Charlotte,5/2/2017,Vietnamese/Bubble Tea/Juice Bars & Smoothies,10/31/2020,4,347,NC,230 E Wt Harris Blvd,28262
+"2130 Ayrsley Town Blvd,Ste C,Charlotte, NC 28273",Banh Mi and Tea Company,Charlotte,10/26/2017,Vietnamese/Bubble Tea/Sandwiches,11/1/2020,4,180,NC,2130 Ayrsley Town Blvd,28273
+"3000 Central Ave,Unit 6,Charlotte, NC 28205",Central Tea House,Charlotte,3/29/2019,Bubble Tea/Vietnamese/Coffee & Tea,11/1/2020,4,44,NC,3000 Central Ave,28205
+"4841 Shopton Rd,Ste E,Charlotte, NC 28278",Ding Tea Charlotte,Charlotte,4/25/2020,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/29/2020,4,22,NC,4841 Shopton Rd,28278
+"2001 Commonwealth Ave,Charlotte, NC 28205",Ocha Time Tea & Creamery,Charlotte,1/26/2020,Bubble Tea/Coffee & Tea/Ice Cream & Frozen Yogurt,10/21/2020,4,28,NC,2001 Commonwealth Ave,28205
+"4200 South Blvd,Charlotte, NC 28209",Kung Fu Tea,Charlotte,3/6/2020,Coffee & Tea/Ice Cream & Frozen Yogurt/Bubble Tea,10/29/2020,5,12,NC,4200 South Blvd,28209
+"4400 Potters Rd,Stallings, NC 28104",New Asia Market,Stallings,12/28/2010,Seafood Markets/Bakeries/International Grocery,10/3/2020,4,127,NC,4400 Potters Rd,28104
+"8111 Concord Mills,Concord, NC 28027",Poke n' Ramen 360,Concord,8/5/2019,Ramen/Poke/Bubble Tea,8/15/2020,3,11,NC,8111 Concord Mills,28027
+"8318 Pineville-Matthews Rd,Ste 703,Charlotte, NC 28226",Bonchon Pineville,Charlotte,6/26/2017,Korean/Asian Fusion/Chicken Wings,10/24/2020,4,163,NC,8318 Pineville-Matthews Rd,28226
+"4201-D Park Rd,Charlotte, NC 28209",CO,Charlotte,11/28/2015,Vietnamese/Asian Fusion/Sushi Bars,11/2/2020,4,477,NC,4201-D Park Rd,28209
+"210 E Trade St,Ste C-248,Charlotte, NC 28202",Fuji Hibachi & Teriyaki Grill,Charlotte,10/21/2013,Japanese/Bubble Tea,9/4/2020,3,66,NC,210 E Trade St,28202
+"616 N Tryon St,Charlotte, NC 28202",Waterbean Coffee,Charlotte,2/17/2017,Coffee & Tea/Sandwiches,10/6/2020,4,45,NC,616 N Tryon St,28202
+"4520 N Tryon St,Charlotte, NC 28213",Le's Sandwiches & Cafe,Charlotte,1/26/2009,Vietnamese/Sandwiches,10/1/2020,4,378,NC,4520 N Tryon St,28213
+"9882 Rea Rd,Ste F,Charlotte, NC 28277",Open Rice Asian Kitchen,Charlotte,5/7/2019,Ramen/Cantonese/Hong Kong Style Cafe,11/3/2020,4,238,NC,9882 Rea Rd,28277
+"9009 Jm Keynes Dr,Ste 3,Charlotte, NC 28262",Fruiticup,Charlotte,6/21/2011,Ice Cream & Frozen Yogurt,8/29/2020,3,68,NC,9009 Jm Keynes Dr,28262
+"1806 Windsor Sq Dr,Matthews, NC 28105",Ben Thanh Restaurant,Matthews,2/6/2016,Vietnamese,10/21/2020,4,107,NC,1806 Windsor Sq Dr,28105
+"7010 Smith Corners Blvd,Charlotte, NC 28269",China Go Go,Charlotte,7/21/2016,Fast Food/Chinese,9/28/2020,4,27,NC,7010 Smith Corners Blvd,28269
+"725 Cherry Rd,Ste 123,Rock Hill, SC 29732",I C Juicy,Rock Hill,8/23/2018,Bubble Tea/Juice Bars & Smoothies/Ice Cream & Frozen Yogurt,11/2/2020,2,12,SC,725 Cherry Rd,29732
+"900 Crossroads Plaza,Fort Mill, SC 29708",Mister Chang’s Coffee House,Fort Mill,11/9/2019,Coffee & Tea,10/20/2020,4,52,SC,900 Crossroads Plaza,29708
+"2215 Ayrsley Town Blvd,Ste D,Charlotte, NC 28273",Pho Ngon,Charlotte,3/26/2016,Vietnamese/Bubble Tea,8/21/2020,3,100,NC,2215 Ayrsley Town Blvd,28273
+"2934 Shamrock Dr,Charlotte, NC 28205",Crispy Banh Mi,Charlotte,4/5/2018,Sandwiches/Vietnamese/Juice Bars & Smoothies,10/21/2020,4,67,NC,2934 Shamrock Dr,28205
+"5215 South Blvd,Charlotte, NC 28217",Saigon Palace,Charlotte,11/6/2006,Vietnamese,9/23/2020,4,248,NC,5215 South Blvd,28217
+"7323 E Independence Blvd,Charlotte, NC 28227",Honey Bun's Cafeteria,Charlotte,6/1/2012,Dim Sum,10/3/2020,4,80,NC,7323 E Independence Blvd,28227
+"4520 N Tryon,Ste 17,Charlotte, NC 28213",Truc Vietnamese Cuisine,Charlotte,9/5/2008,Vietnamese,7/11/2020,4,52,NC,4520 N Tryon,28213
+"4340 Colwick Rd,Charlotte, NC 28211",Shun Lee Palace,Charlotte,11/7/2006,Chinese,10/16/2020,3,103,NC,4340 Colwick Rd,28211
+"5615 South Blvd,Charlotte, NC 28217",Vietnam Grille,Charlotte,5/25/2009,Vietnamese,9/23/2020,4,384,NC,5615 South Blvd,28217
+"5937 South Blvd,Charlotte, NC 28217",Doan's,Charlotte,6/15/2012,Vietnamese/Vegetarian/Asian Fusion,10/30/2020,4,292,NC,5937 South Blvd,28217
+"2001 Commonwealth Ave,Charlotte, NC 28205",Cilantro Noodle,Charlotte,6/8/2019,Vietnamese,11/2/2020,4,179,NC,2001 Commonwealth Ave,28205
+"3019 Shamrock Dr,Charlotte, NC 28215",Lang Van Vietnamese,Charlotte,7/23/2005,Vietnamese,10/19/2020,4,451,NC,3019 Shamrock Dr,28215
+"8625C Lindholm Dr,Huntersville, NC 28078",Kung Foo Noodle,Huntersville,3/19/2016,Chinese/Noodles,10/23/2020,4,385,NC,8625C Lindholm Dr,28078
+"2524 E Franklin Blvd,Ste A,Gastonia, NC 28056",Mẹ Vietnamese Kitchen,Gastonia,12/22/2015,Vietnamese/Noodles,9/1/2020,4,95,NC,2524 E Franklin Blvd,28056
+"1400 S Church St,Ste A,Charlotte, NC 28203",Seoul Food Meat Company,Charlotte,2/20/2016,Korean/Barbeque/Beer Bar,10/27/2020,4,1240,NC,1400 S Church St,28203
+"3629 N Davidson St,Ste 103,Charlotte, NC 28205",Deejai  Noodle Bar,Charlotte,9/8/2017,Thai/Noodles/Cocktail Bars,10/16/2020,4,257,NC,3629 N Davidson St,28205
+"718 W Trade St,Charlotte, NC 28202",Great Wok,Charlotte,6/1/2006,Chinese,7/13/2020,2,98,NC,718 W Trade St,28202
+"845 Church St N,Ste 202,Concord, NC 28025",Wasabi Cafe,Concord,8/26/2011,Sushi Bars/Japanese,,3,59,NC,845 Church St N,28025
+"12905 Rosedale Hill Ave,Ste A,Huntersville, NC 28078",Pho Ginseng,Huntersville,11/29/2014,Vietnamese,10/16/2020,3,157,NC,12905 Rosedale Hill Ave,28078
+"11025 Carolina Place Pkwy,Pineville, NC 28134",Wasabi Sushi,Pineville,,Sushi Bars,10/26/2020,4,38,NC,11025 Carolina Place Pkwy,28134
+"7221 Waverly Walk Ave,Charlotte, NC 28277",Whole Foods Market,Charlotte,5/23/2017,Grocery/Health Markets/Organic Stores,7/29/2020,3,53,NC,7221 Waverly Walk Ave,28277
+"337 S Kings Dr,Charlotte, NC 28204",Emperor Chinese Restaurant,Charlotte,8/5/2008,Chinese,8/26/2020,2,32,NC,337 S Kings Dr,28204
+"19420 Jetton Rd,Ste 104,Cornelius, NC 28031",Pho NC Cafe,Cornelius,2/12/2020,Vietnamese,10/2/2020,4,16,NC,19420 Jetton Rd,28031

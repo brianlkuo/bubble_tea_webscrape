@@ -1,0 +1,128 @@
+address,business_name,city,first_review_date,food_tags,last_review_date,rating,review_num,state,street,zip5
+"11200 Lakeline Mall Dr,Ste 206,Cedar Park, TX 78613",Simon's Sushi,Cedar Park,3/10/2016,Sushi Bars,12/29/2018,3,5,TX,11200 Lakeline Mall Dr,78613
+"3200 Greenlawn Blvd,Ste 300,Round Rock, TX 78664",Misaki - Sushi & Ramen,Round Rock,11/19/2016,Sushi Bars/Ramen,10/1/2020,4,232,TX,3200 Greenlawn Blvd,78664
+"1417 S 1st St,Austin, TX 78704",Sway,Austin,12/4/2012,Thai/Wine Bars/Cocktail Bars,10/10/2020,4,1653,TX,1417 S 1st St,78704
+"251 N Bell Blvd,Cedar Park, TX 78613",Hunan Chef,Cedar Park,1/3/2008,Chinese,10/28/2020,3,91,TX,251 N Bell Blvd,78613
+"315 N Bell Blvd,Cedar Park, TX 78613",Kim Phung Restaurant,Cedar Park,6/20/2015,Vietnamese/Chinese/Thai,10/17/2020,3,166,TX,315 N Bell Blvd,78613
+"10815 Ranch Road 2222,Ste 207,Austin, TX 78730",Tea Haus,Austin,1/31/2015,Bubble Tea/Asian Fusion/Chinese,10/3/2020,4,408,TX,10815 Ranch Road 2222,78730
+"8650 Spicewood Springs Rd,Ste 133D,Austin, TX 78759",A+A Sichuan China,Austin,10/28/2010,Szechuan,9/4/2020,3,300,TX,8650 Spicewood Springs Rd,78759
+"3220 Feathergrass Ct,Ste 136,Austin, TX 78759",Yogurt Planet,Austin,4/18/2010,Ice Cream & Frozen Yogurt,10/2/2019,4,60,TX,3220 Feathergrass Ct,78759
+"2601 S Ih 35,Ste A 500,Round Rock, TX 78664",Pho Lee Vietnamese Restaurant,Round Rock,11/8/2011,Vietnamese,10/11/2020,4,208,TX,2601 S Ih 35,78664
+"11501 Rock Rose Ave,Ste 152,Austin, TX 78758",LOTUS CHINESE,Austin,4/20/2018,Asian Fusion/Chinese/Noodles,10/23/2020,4,161,TX,11501 Rock Rose Ave,78758
+"4211 S Lamar Blvd,Austin, TX 78704",Dong Nai,Austin,11/7/2006,Vietnamese/Chinese,10/12/2020,3,308,TX,4211 S Lamar Blvd,78704
+"202 Walton Way,Ste 150,Cedar Park, TX 78613",Gangnam Zip,Cedar Park,9/15/2015,Korean/Bubble Tea/Ramen,10/9/2020,4,247,TX,202 Walton Way,78613
+"1920 East Riverside Dr,Ste D140,Austin, TX 78741",Pho Please,Austin,1/23/2016,Vietnamese/Noodles/Soup,11/2/2020,4,910,TX,1920 East Riverside Dr,78741
+"11301 Lakeline Blvd,Ste 220,Austin, TX 78717",Teapioca Lounge,Austin,2/4/2019,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,9/30/2020,4,39,TX,11301 Lakeline Blvd,78717
+"2001 Guadalupe St,Ste A2,Austin, TX 78705",Kung Fu Tea,Austin,11/17/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/24/2020,4,20,TX,2001 Guadalupe St,78705
+"1400 E Old Settlers Blvd,Ste 104,Round Rock, TX 78664",Sunrise Teahouse,Round Rock,8/16/2014,Bubble Tea/Coffee & Tea,10/31/2020,4,84,TX,1400 E Old Settlers Blvd,78664
+"2901 S Capital Of Texas Hwy,Barton Creek Square Mall,Austin, TX 78746",Osio,Austin,1/18/2009,Korean/Bubble Tea/Sushi Bars,9/14/2020,4,84,TX,2901 S Capital Of Texas Hwy,78746
+"10300 Anderson Mill Rd,Ste A,Austin, TX 78750",Shanghai Noodle House,Austin,12/18/2015,Noodles,3/9/2020,3,83,TX,10300 Anderson Mill Rd,78750
+"10901 N Lamar Blvd,Austin, TX 78753",BAMBU,Austin,6/13/2014,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,9/6/2020,4,224,TX,10901 N Lamar Blvd,78753
+"3210 Esperanza Crossing,Ste 126,Austin, TX 78758",Gong cha,Austin,6/14/2019,Bubble Tea,10/26/2020,3,40,TX,3210 Esperanza Crossing,78758
+"11220 N Lamar Blvd,Ste B275,Austin, TX 78753",SnoMo,Austin,4/26/2014,Bubble Tea/Ice Cream & Frozen Yogurt/Shaved Snow,10/20/2020,4,484,TX,11220 N Lamar Blvd,78753
+"2021 Guadalupe St,Austin, TX 78705",Gong Cha,Austin,6/9/2018,Bubble Tea,6/12/2020,3,58,TX,2021 Guadalupe St,78705
+"10901 N Lamar Blvd,Ste A 104,Austin, TX 78753",Gen bobabee & coffee house,Austin,2/22/2020,Coffee & Tea/Bubble Tea,10/14/2020,4,26,TX,10901 N Lamar Blvd,78753
+"1700 W Parmer Ln,Ste 600,Austin, TX 78727",Ding Tea,Austin,11/24/2019,Bubble Tea,10/2/2020,4,45,TX,1700 W Parmer Ln,78727
+"4211 S Lamar Blvd,Ste A3,Austin, TX 78704",Zero Degrees,Austin,10/14/2020,Bubble Tea/Coffee & Tea,10/18/2020,3,2,TX,4211 S Lamar Blvd,78704
+"2401 East 6th St,Ste 1004,Austin, TX 78702",Ararat ToGo + Coffee Window,Austin,9/10/2019,Coffee & Tea/Middle Eastern,9/16/2020,5,11,TX,2401 East 6th St,78702
+"201 University Oaks,Ste 560,Round Rock, TX 78665",Adelyn Bakery Boutique,Round Rock,7/22/2019,Bubble Tea/Bakeries/Coffee & Tea,10/25/2020,5,37,TX,201 University Oaks,78665
+"1821 S Lakeline Blvd,Ste 102,Cedar Park, TX 78613",Long Tea Austin,Cedar Park,5/2/2019,Bubble Tea,10/17/2020,4,41,TX,1821 S Lakeline Blvd,78613
+"2002 Guadalupe St,Ste B,Austin, TX 78705",K-Bop,Austin,9/16/2016,Korean/Bubble Tea/Juice Bars & Smoothies,10/17/2020,4,184,TX,2002 Guadalupe St,78705
+"1910 Guadalupe St,Austin, TX 78705",Coco's Cafe,Austin,6/16/2005,Coffee & Tea/Taiwanese/Bubble Tea,10/18/2020,3,404,TX,1910 Guadalupe St,78705
+"10000 Research Blvd,Ste 137,Austin, TX 78759",Teapioca Lounge,Austin,11/4/2017,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/11/2020,3,74,TX,10000 Research Blvd,78759
+"1906 Guadalupe St,Austin, TX 78705",Tapioca House,Austin,1/25/2007,Taiwanese/Bubble Tea,9/8/2020,3,219,TX,1906 Guadalupe St,78705
+"2800 S Ih 35,Round Rock, TX 78681",Ding Tea,Round Rock,6/1/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/9/2020,4,67,TX,2800 S Ih 35,78681
+"2525 W Anderson Ln,Bldg 3-132,Austin, TX 78757",Tea Amo,Austin,2/18/2020,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/12/2020,4,24,TX,2525 W Anderson Ln,78757
+"6929 Airport Blvd,Ste 132,Austin, TX 78752",101 By Teahaus,Austin,10/20/2017,Taiwanese/Bubble Tea/Korean,11/2/2020,4,238,TX,6929 Airport Blvd,78752
+"11501 Rock Rose Ave,Ste 152,Austin, TX 78758",Boba Boyz,Austin,8/18/2018,Bubble Tea,12/1/2019,2,11,TX,11501 Rock Rose Ave,78758
+"13201 Ranch Rd 620 N,Ste 206,Austin, TX 78717",Gong Cha,Austin,9/1/2018,Bubble Tea,10/24/2020,3,62,TX,13201 Ranch Rd 620 N,78717
+"2000 S Interstate 35,Ste N-1,Round Rock, TX 78681",Teapioca Lounge,Round Rock,5/13/2015,Bubble Tea/Tea Rooms/Juice Bars & Smoothies,10/11/2020,4,109,TX,2000 S Interstate 35,78681
+"621 E 7th St,Austin, TX 78701",Koriente,Austin,11/21/2006,Asian Fusion/Gluten-Free/Salad,10/26/2020,4,1683,TX,621 E 7th St,78701
+"5207 Brodie Ln,Ste 115,Sunset Valley, TX 78745",Bao'd Up - Sunset Valley,Sunset Valley,9/26/2019,Chinese/Comfort Food/Noodles,10/23/2020,4,73,TX,5207 Brodie Ln,78745
+"609 Clayton Ln,Ste 110,Austin, TX 78752",IBubbleTea,Austin,8/23/2019,Coffee & Tea/Bubble Tea/Asian Fusion,8/9/2020,2,8,TX,609 Clayton Ln,78752
+"615 W Slaughter Ln,Ste 110,Austin, TX 78748",Filipino Asian Mart,Austin,5/25/2011,Filipino/International Grocery,9/29/2020,4,84,TX,615 W Slaughter Ln,78748
+"1900 University Blvd,Ste 210,Round Rock, TX 78665",Truboba Cafe,Round Rock,1/4/2019,Bubble Tea/Juice Bars & Smoothies/Sandwiches,10/25/2020,4,97,TX,1900 University Blvd,78665
+"8300 N Fm 620,Bldg A, Ste 200,Austin, TX 78726",Angel Donuts & Treats,Austin,10/29/2012,Bakeries/Bubble Tea/Donuts,10/10/2020,4,227,TX,8300 N Fm 620,78726
+"9225 W Parmer Ln,Ste 101,Austin, TX 78717",Cuppa Austin,Austin,2/26/2013,Coffee & Tea,10/12/2020,4,318,TX,9225 W Parmer Ln,78717
+"2051 Cypress Creek Rd,Ste D,Cedar Park, TX 78613",Mr. Boba,Cedar Park,8/10/2016,Bubble Tea/Shaved Ice/Coffee & Tea,8/15/2020,4,67,TX,2051 Cypress Creek Rd,78613
+"6929 Airport Blvd,Ste 197,Austin, TX 78752",85°C Bakery Cafe,Austin,7/11/2018,Coffee & Tea/Bakeries/Patisserie/Cake Shop,10/8/2020,4,181,TX,6929 Airport Blvd,78752
+"900 Ranch Rd 620 S,Ste A109,Lakeway, TX 78734",SnoMo,Lakeway,,Bubble Tea/Ice Cream & Frozen Yogurt/Shaved Snow,10/1/2020,5,55,TX,900 Ranch Rd 620 S,78734
+"609 Clayton Ln,Ste 100,Austin, TX 78752",The Pho,Austin,8/10/2019,Vietnamese/Bubble Tea,10/17/2020,4,38,TX,609 Clayton Ln,78752
+"1701 W Parmer Ln,Ste 105,Austin, TX 78727",Tomunchi,Austin,3/24/2008,Ice Cream & Frozen Yogurt/Bubble Tea/Juice Bars & Smoothies,7/14/2020,4,176,TX,1701 W Parmer Ln,78727
+"2501 W Parmer Ln,Ste 550,Austin, TX 78727",Basil Thai,Austin,8/19/2017,Thai/Bubble Tea/Hot Pot,10/28/2020,4,189,TX,2501 W Parmer Ln,78727
+"6808 N Larmar Blvd,Ste B-115,Austin, TX 78752",Tous Les Jours,Austin,10/28/2012,Bakeries/Coffee & Tea/Desserts,10/24/2020,4,332,TX,6808 N Larmar Blvd,78752
+"3601 W William Cannon Dr,Ste 250,Austin, TX 78749",Pho Thái Son,Austin,8/6/2007,Vietnamese/Bubble Tea/Sushi Bars,10/11/2020,3,262,TX,3601 W William Cannon Dr,78749
+"1911 Aldrich St,Ste A1,Austin, TX 78723",Bao’d Up - Mueller Aldrich,Austin,7/23/2017,Chinese/Comfort Food/Noodles,10/8/2020,3,321,TX,1911 Aldrich St,78723
+"11301 Lakeline Blvd,Austin, TX 78717",H Mart - Austin,Austin,2/13/2018,Korean/Food Court/International Grocery,10/25/2020,4,405,TX,11301 Lakeline Blvd,78717
+"11301 Lakeline Blvd,Austin, TX 78717",SnoMo,Austin,4/8/2018,Bubble Tea/Ice Cream & Frozen Yogurt/Shaved Snow,8/9/2020,3,18,TX,11301 Lakeline Blvd,78717
+"10930 East Crystal Falls Pkwy,Leander, TX 78641",SnoMo,Leander,6/25/2020,Shaved Snow/Bubble Tea/Ice Cream & Frozen Yogurt,7/20/2020,5,2,TX,10930 East Crystal Falls Pkwy,78641
+"11821 Rock Rose Ave,Austin, TX 78758",Gong Cha,Austin,6/23/2019,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,7/28/2020,4,15,TX,11821 Rock Rose Ave,78758
+"800 W Whitestone,Cedar Park, TX 78613",Zero Degrees,Cedar Park,9/17/2019,Bubble Tea/Coffee & Tea,11/1/2020,3,89,TX,800 W Whitestone,78613
+"13776 US-183,Austin, TX 78750",Tsaocaa,Austin,11/1/2020,Bubble Tea,11/1/2020,5,1,TX,13776 US-183,78750
+"6929 Airport Blvd,Ste 135,Austin, TX 78752",Snowy Village Dessert Cafe,Austin,5/29/2018,Desserts,8/26/2020,4,144,TX,6929 Airport Blvd,78752
+"1608 Town Center Dr,Ste 200,Pflugerville, TX 78660",Ding tea,Pflugerville,11/19/2018,Coffee & Tea,9/9/2020,4,69,TX,1608 Town Center Dr,78660
+"8650 Spicewood Springs Rd,Ste 115,Austin, TX 78759",Asia Market,Austin,3/18/2006,Chinese/International Grocery,10/31/2020,4,127,TX,8650 Spicewood Springs Rd,78759
+"114 E 7th St,Ste 116,Georgetown, TX 78626",Mango Tango Asian Restaurant,Georgetown,3/21/2020,Bubble Tea/Cambodian/Asian Fusion,10/23/2020,4,48,TX,114 E 7th St,78626
+"1045 Norwood Park Blvd,Ste 100,Austin, TX 78753",Shipley Do-Nuts,Austin,3/1/2018,Donuts,10/8/2020,3,20,TX,1045 Norwood Park Blvd,78753
+"519 E 6th St,Austin, TX 78701",K Cupbop,Austin,8/5/2018,Korean,,4,14,TX,519 E 6th St,78701
+"2522 Guadalupe St,Austin, TX 78705",Kokodak,Austin,1/31/2019,Korean/Chicken Wings,9/6/2020,3,90,TX,2522 Guadalupe St,78705
+"500 W 5th St,Austin, TX 78701",Wu Chow,Austin,11/5/2015,Dim Sum/Seafood/Soup,10/30/2020,4,756,TX,500 W 5th St,78701
+"411 W 23rd St,Austin, TX 78705",Song La,Austin,8/21/2015,Food Trucks/Taiwanese,10/24/2020,4,134,TX,411 W 23rd St,78705
+"109 W 7th St,Ste 105,Georgetown, TX 78626",Black Sugar Caffe,Georgetown,9/20/2020,Tapas/Small Plates/Coffee & Tea/Bubble Tea,10/18/2020,4,6,TX,109 W 7th St,78626
+"4534 W Gate Blvd,Ste 105,Austin, TX 78745",Sichuan River,Austin,8/6/2014,Szechuan,10/21/2020,3,300,TX,4534 W Gate Blvd,78745
+"1400 E 4th St,Austin, TX 78702",Texas Coffee Traders,Austin,8/26/2008,Coffee Roasteries,9/22/2020,5,245,TX,1400 E 4th St,78702
+"111 N Vista Ridge Blvd,Ste 105,Cedar Park, TX 78613",Local Slice Pizza & Juju's Boba Tea,Cedar Park,6/9/2016,Pizza/Coffee & Tea/Chicken Wings,9/8/2020,4,130,TX,111 N Vista Ridge Blvd,78613
+"2515 E Cesar Chavez St,Austin, TX 78702",Sweet Chive,Austin,12/23/2018,Sushi Bars/Chinese/Japanese,10/21/2020,4,148,TX,2515 E Cesar Chavez St,78702
+"2222 Rio Grande St,Ste 190,Austin, TX 78705",Bao'd Up - UT West Campus,Austin,6/11/2019,Chinese/Comfort Food/Noodles,10/31/2020,4,54,TX,2222 Rio Grande St,78705
+"5000 Burnet Rd,Austin, TX 78756",Dawa Sushi,Austin,9/17/2016,Food Trucks/Sushi Bars/Korean,10/29/2020,4,163,TX,5000 Burnet Rd,78756
+"201 E 21st St,K102,Jester Center,Austin, TX 78705",Bliss,Austin,9/14/2019,Bubble Tea/Coffee & Tea,9/21/2019,2,2,TX,201 E 21st St,78705
+"1101 W Pecan St,Ste 8,Pflugerville, TX 78660",Rollie Rolls Ice Cream,Pflugerville,8/9/2019,Thai/Coffee & Tea/Ice Cream & Frozen Yogurt,11/2/2020,5,45,TX,1101 W Pecan St,78660
+"10901 N Lamar Blvd,Austin, TX 78753",Baguette House,Austin,6/30/2008,Vietnamese/Sandwiches,10/19/2020,4,388,TX,10901 N Lamar Blvd,78753
+"2400 E Oltorf St,Ste 1,Austin, TX 78741",888 Pan Asian Restaurant,Austin,3/24/2007,Vietnamese/Thai/Chinese,11/1/2020,4,1676,TX,2400 E Oltorf St,78741
+"12918 Shops Pkwy,Ste 300,Bee Cave, TX 78738",Simply Pho House,Bee Cave,8/4/2014,Vietnamese/Bubble Tea/Asian Fusion,10/27/2020,3,235,TX,12918 Shops Pkwy,78738
+"905 E Whitestone Blvd,Ste C,Cedar Park, TX 78613",Kung Fu Tea,Cedar Park,10/9/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/21/2020,4,41,TX,905 E Whitestone Blvd,78613
+"15803 Windermere Dr,Ste 102,Pflugerville, TX 78660",Cafe Eden,Pflugerville,7/12/2017,Asian Fusion/Cafes/Bubble Tea,10/24/2020,4,178,TX,15803 Windermere Dr,78660
+"13615 Ranch Rd 12,Wimberley, TX 78676",Cactus Coffee Shop,Wimberley,8/19/2016,Coffee & Tea/Juice Bars & Smoothies/Food Trucks,8/15/2020,4,26,TX,13615 Ranch Rd 12,78676
+"13344 US HWY 183N,Ste 270,Austin, TX 78750",Ola Poke,Austin,7/10/2018,Hawaiian/Poke/Sushi Bars,9/18/2020,4,73,TX,13344 US HWY 183N,78750
+"10901 N Lamar Blvd,Ste G,Austin, TX 78753",MT Supermarket,Austin,7/21/2006,International Grocery,9/12/2020,4,293,TX,10901 N Lamar Blvd,78753
+"3706 Guadalupe St,Ste B,Austin, TX 78705",Yaya Cafe,Austin,7/31/2011,Cafes/Coffee & Tea/Vietnamese,10/28/2020,3,247,TX,3706 Guadalupe St,78705
+"206 Hwy 290 W,Elgin, TX 78621",Hong Kong Restaurant,Elgin,7/22/2010,Chinese/Vietnamese,10/20/2020,3,48,TX,206 Hwy 290 W,78621
+"1713 Fm 685,Ste 140,Pflugerville, TX 78660",Teapioca Lounge,Pflugerville,12/17/2017,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,10/11/2020,4,69,TX,1713 Fm 685,78660
+"12518 Research Blvd,Ste M,Austin, TX 78759",Yummi Tacos & More,Austin,1/3/2011,Mexican/Asian Fusion/Breakfast & Brunch,10/25/2020,4,238,TX,12518 Research Blvd,78759
+"8557 Research Blvd,Ste 126,Austin, TX 78758",Ramen Tatsu-Ya,Austin,8/25/2012,Ramen,11/1/2020,4,2512,TX,8557 Research Blvd,78758
+"10901 N Lamar Blvd,Austin, TX 78753",Lily's Sandwich,Austin,6/8/2007,Vietnamese/Sandwiches,6/8/2020,3,138,TX,10901 N Lamar Blvd,78753
+"13000 N Ih 35,Bldg 11, Ste 116,Austin, TX 78753",Fresh Cup Frozen Yogurt,Austin,1/10/2010,Ice Cream & Frozen Yogurt/Bubble Tea/Juice Bars & Smoothies,1/23/2020,3,81,TX,13000 N Ih 35,78753
+"1310 Cypress Creek Rd,Ste 100,Cedar Park, TX 78613",Black Sugar Caffe,Cedar Park,9/18/2017,Cafes/Juice Bars & Smoothies/Tapas/Small Plates,10/28/2020,4,138,TX,1310 Cypress Creek Rd,78613
+"11301 Lakeline Blvd,Austin, TX 78717",Market Eatery,Austin,2/16/2018,Food Court/Korean/Asian Fusion,2/25/2020,4,38,TX,11301 Lakeline Blvd,78717
+"2098 Muirfield Bend Dr,Ste 110,Hutto, TX 78634",Fortune House,Hutto,4/12/2019,Chinese/Vietnamese,11/1/2020,4,98,TX,2098 Muirfield Bend Dr,78634
+"1700 W Parmer Ln,Ste100,Austin, TX 78727",Hana World Market,Austin,1/10/2012,Food Court/International Grocery,8/2/2020,3,162,TX,1700 W Parmer Ln,78727
+"12221 Riata Trace Pkwy,Ste 190,Austin, TX 78727",Minh's Cafe,Austin,10/16/2008,Vietnamese/Chinese/Bubble Tea,8/16/2020,3,192,TX,12221 Riata Trace Pkwy,78727
+"505 Wynnpage Dr,Dripping Springs, TX 78620",Le Muse Coffee Bar,Dripping Springs,5/29/2016,Coffee & Tea/Bubble Tea/Food Trucks,8/2/2020,5,52,TX,505 Wynnpage Dr,78620
+"1335 E Whitestone Blvd,Ste T100,Cedar Park, TX 78613",Pho Thanh Nhi,Cedar Park,9/29/2015,Vietnamese/Asian Fusion/Sandwiches,9/29/2020,4,211,TX,1335 E Whitestone Blvd,78613
+"161 W Slaughter Ln,Ste L850,Austin, TX 78748",Pho Thai Son,Austin,4/13/2008,Vietnamese,10/24/2020,3,168,TX,161 W Slaughter Ln,78748
+"8650 Spicewood Springs Rd,Ste 114A,Austin, TX 78759",Asia Cafe,Austin,5/13/2007,Chinese/Seafood/Soup,10/7/2020,4,857,TX,8650 Spicewood Springs Rd,78759
+"6929 Airport Blvd,Suite #110,Austin, TX 78752",99 Ranch Market,Austin,3/3/2018,International Grocery/Seafood Markets/Fruits & Veggies,10/24/2020,3,125,TX,6929 Airport Blvd,78752
+"2237 E Riverside Dr,Ste 101-A,Austin, TX 78741",Kim Phung Restaurant  Riverside,Austin,6/21/2017,Chinese/Vietnamese/Thai,9/16/2020,3,127,TX,2237 E Riverside Dr,78741
+"6718 Middle Fiskville Rd,Austin, TX 78752",Shanghai Restaurant,Austin,7/28/2007,Dim Sum/Asian Fusion/Szechuan,11/1/2020,3,470,TX,6718 Middle Fiskville Rd,78752
+"2438 W Anderson Ln,Ste A3,Austin, TX 78757",Pho Thaison,Austin,6/25/2010,Vietnamese/Thai/Vegetarian,9/16/2020,3,628,TX,2438 W Anderson Ln,78757
+"9600 S Interstate 35,Ste C 600,Austin, TX 78748",Haiku Japanese Restaurant,Austin,1/20/2008,Japanese/Sushi Bars,10/19/2020,3,349,TX,9600 S Interstate 35,78748
+"15803 Windermere Dr,Pflugerville, TX 78660",Pflugerville Neighborhood Center,Pflugerville,10/1/2017,,10/1/2017,5,1,TX,15803 Windermere Dr,78660
+"428 Grand Ave Pkwy,Ste 130,Pflugerville, TX 78660",Smiling Donuts,Pflugerville,2/29/2020,Donuts,10/29/2020,5,21,TX,428 Grand Ave Pkwy,78660
+"4401 South Interstate Highway 35,Round Rock, TX 78664",Famous Wok,Round Rock,4/3/2017,Chinese,12/7/2019,3,11,TX,4401 South Interstate Highway 35,78664
+"5401 S Fm 1626,Ste 370,Kyle, TX 78640",Pho Thái Son-Kyle,Kyle,11/11/2008,Vietnamese/Sushi Bars,9/20/2020,3,277,TX,5401 S Fm 1626,78640
+"8557 Research Blvd,Austin, TX 78758",Pho Van,Austin,6/17/2005,Vietnamese,10/24/2020,4,357,TX,8557 Research Blvd,78758
+"15803 Windermere Dr,Pflugerville, TX 78660",Pflugerville Personal Training,Pflugerville,,,,,,TX,15803 Windermere Dr,78660
+"10901 N Lamar Blvd,Ste 401,Chinatown Center,Austin, TX 78753",First Chinese Barbecue,Austin,8/29/2006,Chinese/Barbeque,10/28/2020,4,463,TX,10901 N Lamar Blvd,78753
+"7601 N Lamar Blvd,Austin, TX 78752",Kim Phung Restaurant,Austin,2/24/2007,Vietnamese/Chinese,10/9/2020,3,316,TX,7601 N Lamar Blvd,78752
+"320 East 6th St,Austin, TX 78701",Alamo Drafthouse Cinema Ritz,Austin,2/5/2006,Cinema/Bars/Dinner Theater,4/9/2020,4,564,TX,320 East 6th St,78701
+"1700 W Parmer Ln,Ste 210,Austin, TX 78727",Teapioca Lounge,Austin,1/7/2011,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,9/27/2020,4,537,TX,1700 W Parmer Ln,78727
+"2525 W Anderson Ln,Ste 285,Austin, TX 78757",Feng Cha,Austin,7/14/2019,Coffee & Tea/Bubble Tea/Desserts,10/24/2020,4,103,TX,2525 W Anderson Ln,78757
+"8557 Research Blvd,Ste 118,Austin, TX 78758",Coco's Cafe,Austin,8/9/2006,Taiwanese/Coffee & Tea/Bubble Tea,11/1/2020,4,497,TX,8557 Research Blvd,78758
+"9308 Anderson Mill Rd,Ste 500,Austin, TX 78729",Boba Tea,Austin,7/26/2020,Bubble Tea/Vietnamese/Sandwiches,10/24/2020,4,20,TX,9308 Anderson Mill Rd,78729
+"6929 Airport Blvd,Ste 110,Austin, TX 78752",Fruitealicious Bubble Tea & Smoothies,Austin,3/3/2018,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,9/25/2020,4,80,TX,6929 Airport Blvd,78752
+"9070 Research Blvd,Ste 102,Austin, TX 78758",Kung Fu Tea,Austin,10/9/2016,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/5/2020,4,237,TX,9070 Research Blvd,78758
+"13343 N Hwy 183,Ste 275,Austin, TX 78750",Sharetea,Austin,7/10/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/13/2020,4,133,TX,13343 N Hwy 183,78750
+"9600 S IH-35,Ste B-300,Austin, TX 78748",Teapioca Lounge,Austin,2/16/2012,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,9/20/2020,4,292,TX,9600 S IH-35,78748
+"1725 E Riverside Dr,Unit B,Austin, TX 78741",Tea Cup,Austin,7/2/2019,Bubble Tea,10/28/2020,4,70,TX,1725 E Riverside Dr,78741
+"11200 Lakeline Mall Dr,Lakeline Mall,Cedar Park, TX 78613",Simon's Sushi,Cedar Park,2/19/2010,Sushi Bars,8/24/2019,3,27,TX,11200 Lakeline Mall Dr,78613
+"8557 Research Blvd,Ste 116,Austin, TX 78758",Din Ho Chinese BBQ,Austin,6/16/2005,Chinese/Barbeque,8/9/2020,3,803,TX,8557 Research Blvd,78758

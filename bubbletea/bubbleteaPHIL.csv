@@ -1,0 +1,185 @@
+address,business_name,city,first_review_date,food_tags,last_review_date,rating,review_num,state,street,zip5
+"468 W Cheltenham Ave,Philadelphia, PA 19126",Café Soho,Philadelphia,1/9/2008,Korean/Asian Fusion/Chicken Wings,10/30/2020,4,758,PA,468 W Cheltenham Ave,19126
+"1508 Sansom St,Philadelphia, PA 19102",Su Xing House,Philadelphia,3/7/2007,Chinese/Kosher,10/28/2020,4,401,PA,1508 Sansom St,19102
+"1715 Chestnut St,Philadelphia, PA 19103",Ten Asian Food Hall,Philadelphia,4/20/2019,Asian Fusion,9/25/2020,3,63,PA,1715 Chestnut St,19103
+"525 Washington Ave,Philadelphia, PA 19147",Tu's Tea & Banh Mi South Philly,Philadelphia,9/1/2016,Vietnamese/Sandwiches/Noodles,9/26/2020,4,68,PA,525 Washington Ave,19147
+"3737 Chestnut St,Philadelphia, PA 19104",Poké-Man,Philadelphia,8/29/2017,Poke,,3,126,PA,3737 Chestnut St,19104
+"52 N 10th St,Philadelphia, PA 19107",Yummy Yummy,Philadelphia,11/22/2009,Chinese/Desserts,10/19/2020,4,142,PA,52 N 10th St,19107
+"1327 Darby Rd,Havertown, PA 19083",Sippy's Bubble Tea,Havertown,7/16/2018,Coffee & Tea/Bubble Tea,2/26/2019,4,5,PA,1327 Darby Rd,19083
+"3205 Concord Pike,Wilmington, DE 19803",Bubble Shack,Wilmington,3/3/2018,Vietnamese/Bubble Tea/Asian Fusion,10/31/2020,4,85,DE,3205 Concord Pike,19803
+"7050 Terminal Square,Fl 2,Upper Darby, PA 19082",Mr Wish - Upper Darby,Upper Darby,9/29/2019,Bubble Tea/Juice Bars & Smoothies,10/23/2020,2,18,PA,7050 Terminal Square,19082
+"1129 Old York Rd,Abington, PA 19001",Kung Fu Tea,Abington,1/11/2019,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,5/28/2020,4,54,PA,1129 Old York Rd,19001
+"7036 Terminal Sq,Upper Darby, PA 19082",Anh Hong Pho & Cafe,Upper Darby,3/29/2009,Cafes/Vietnamese,8/31/2020,4,119,PA,7036 Terminal Sq,19082
+"1265A Woodbourne Rd,Levittown, PA 19057",Mr Wish,Levittown,6/21/2020,Bubble Tea,,5,9,PA,1265A Woodbourne Rd,19057
+"1533 Old York Rd,Abington, PA 19001",Ban Ban Asian Bistro,Abington,1/12/2016,Asian Fusion/Bubble Tea/Sushi Bars,10/18/2020,3,173,PA,1533 Old York Rd,19001
+"7260 Frankford Ave,Ste B,Philadelphia, PA 19149",Ice Moon,Philadelphia,,Ice Cream & Frozen Yogurt/Coffee & Tea/Juice Bars & Smoothies,10/1/2020,4,24,PA,7260 Frankford Ave,19149
+"1840 E Passyunk Ave,Philadelphia, PA 19148",Big Catch Poke,Philadelphia,12/19/2019,Bubble Tea/Poke/Juice Bars & Smoothies,10/6/2020,4,33,PA,1840 E Passyunk Ave,19148
+"192 William Dalton Dr,Glassboro, NJ 08028",Vivi Bubble Tea,Glassboro,4/11/2019,Ice Cream & Frozen Yogurt/Bubble Tea,9/1/2020,4,27,NJ,192 William Dalton Dr,08028
+"6840 Bustleton Ave,Philadelphia, PA 19149",Kc's Pastries Northeast,Philadelphia,3/4/2011,Bakeries/Coffee & Tea/Bubble Tea,9/25/2020,4,22,PA,6840 Bustleton Ave,19149
+"8221 Germantown Ave,Philadelphia, PA 19118",Saigon Noodle Bar,Philadelphia,8/31/2018,Vietnamese/Noodles/Bubble Tea,10/30/2020,4,31,PA,8221 Germantown Ave,19118
+"1041 Race St,Philadelphia, PA 19107",Bread Top House,Philadelphia,5/14/2008,Bakeries,10/30/2020,4,144,PA,1041 Race St,19107
+"2300 E Lincoln Hwy,Langhorne, PA 19047",Yogurt Romance,Langhorne,9/2/2015,Bubble Tea/Ice Cream & Frozen Yogurt,7/8/2019,4,9,PA,2300 E Lincoln Hwy,19047
+"1801 Washington Ave,Unit D,Philadelphia, PA 19146",Martabak Ok,Philadelphia,8/24/2018,Indonesian/Desserts/Asian Fusion,11/1/2020,4,66,PA,1801 Washington Ave,19146
+"472 2nd St Pike,Southampton, PA 18966",Taiko Bistro,Southampton,2/16/2018,Bubble Tea/Juice Bars & Smoothies/Pan Asian,9/10/2020,4,,PA,472 2nd St Pike,18966
+"160 N Gulph Rd,Ste C260a,King of Prussia, PA 19406",Qu Japan,King of Prussia,11/24/2018,Ramen/Bubble Tea/Desserts,9/23/2020,3,36,PA,160 N Gulph Rd,19406
+"7557 Haverford Ave,Philadelphia, PA 19151",Daiki Hibachi and Sushi,Philadelphia,3/27/2017,Japanese/Sushi Bars,4/17/2020,4,67,PA,7557 Haverford Ave,19151
+"125 Route 73 S,Evesham Township, NJ 08053",Frozen Boba,Evesham Township,6/15/2019,Ice Cream & Frozen Yogurt/Bubble Tea,9/10/2020,3,18,NJ,125 Route 73 S,08053
+"46B Haddon Ave,Westmont, NJ 08108",Ohana Poke Bowl,Westmont,5/23/2020,Hawaiian,10/11/2020,4,4,NJ,46B Haddon Ave,08108
+"7050 Terminal Sq.,Upper Darby, PA 19082",H Mart - Upper Darby,Upper Darby,7/9/2007,Grocery/Korean/Food Court,9/10/2020,4,157,PA,7050 Terminal Sq.,19082
+"404 Marlton Pike E,Cherry Hill, NJ 08034",Rayaki,Cherry Hill,7/27/2017,Ramen/Bubble Tea/Izakaya,7/31/2020,4,274,NJ,404 Marlton Pike E,08034
+"923 Arch St,Philadelphia, PA 19107",Paris Baguette,Philadelphia,12/22/2017,Bakeries/Coffee & Tea/Patisserie/Cake Shop,10/7/2020,4,122,PA,923 Arch St,19107
+"5201 Rte 38 W,Pennsauken, NJ 08109",Mr Wish,Pennsauken,1/4/2020,Bubble Tea/Juice Bars & Smoothies,10/2/2020,4,6,NJ,5201 Rte 38 W,08109
+"2534-36 Kensington Ave,Philadelphia, PA 19125",Thang Long Pho Restaurant,Philadelphia,3/21/2008,Vietnamese/Noodles/Soup,10/28/2020,4,150,PA,2534-36 Kensington Ave,19125
+"2117 Marlton Pike W,Cherry Hill, NJ 08002",Mr Sushi All You Can Eat,Cherry Hill,6/4/2017,Sushi Bars/Teppanyaki,10/31/2020,4,316,NJ,2117 Marlton Pike W,08002
+"935 Race St,Philadelphia, PA 19107",St Honore Pastries,Philadelphia,3/8/2008,Bakeries/Coffee & Tea/Bubble Tea,10/18/2020,4,75,PA,935 Race St,19107
+"Mount Holly, NJ 08060",Cha-Yen,Mount Holly,6/17/2016,Food Trucks/Shaved Ice/Bubble Tea,7/25/2019,4,4,NJ,"Mount Holly, NJ 08060",08060
+"320 W Oregon Ave,Philadelphia, PA 19148",Banh Mi Square,Philadelphia,7/19/2015,Vietnamese/Bubble Tea/Juice Bars & Smoothies,2/22/2020,3,21,PA,320 W Oregon Ave,19148
+"100 Springdale Rd,Cherry Hill, NJ 08003",Shangri La,Cherry Hill,11/22/2015,Chinese/Japanese/Bubble Tea,9/26/2020,4,85,NJ,100 Springdale Rd,08003
+"141 N 9th St,Philadelphia, PA 19107",Ray's Café & Teahouse,Philadelphia,6/11/2006,Coffee & Tea/Chinese,11/1/2020,4,167,PA,141 N 9th St,19107
+"2000 Hamilton St,Ste 106,Philadelphia, PA 19130",Unit Su Vege,Philadelphia,1/6/2019,Vegetarian/Chinese,10/20/2020,4,92,PA,2000 Hamilton St,19130
+"2844 St Vincent St,Philadelphia, PA 19149",Pho Le Lai,Philadelphia,1/10/2013,Vietnamese/Bubble Tea/Chinese,10/25/2020,4,117,PA,2844 St Vincent St,19149
+"109 N 10th St,Philadelphia, PA 19107",KC's Pastries,Philadelphia,3/6/2007,Bakeries,10/7/2020,4,176,PA,109 N 10th St,19107
+"1828 S St,Philadelphia, PA 19146",Fortune Chinese Restaurant,Philadelphia,9/28/2009,Chinese,10/26/2020,3,74,PA,1828 S St,19146
+"606 Washington Ave,Philadelphia, PA 19147",Ba Le Bakery,Philadelphia,2/16/2007,Vietnamese/Sandwiches/Bakeries,10/31/2020,3,206,PA,606 Washington Ave,19147
+"166 William Dalton Dr,Glassboro, NJ 08028",Rayaki - Glassboro,Glassboro,10/20/2020,Ramen/Izakaya/Bubble Tea,10/30/2020,5,4,NJ,166 William Dalton Dr,08028
+"41 Clementon Rd,Berlin, NJ 08009",Ming Sin Asian Cafe,Berlin,4/8/2017,Chinese/Bubble Tea,6/2/2017,4,2,NJ,41 Clementon Rd,08009
+"37 S 19th St,Rittenhouse Square,Philadelphia, PA 19103",Koreana,Philadelphia,6/7/2018,Korean,10/23/2020,3,73,PA,37 S 19th St,19103
+"827 Adams Ave,Philadelphia, PA 19124",Cafe Saigon,Philadelphia,4/5/2007,Vietnamese,10/30/2020,4,122,PA,827 Adams Ave,19124
+"18 S Main St,Medford, NJ 08055",Learning Accelerator,Medford,,Tutoring Centers/Kids Activities/Coffee & Tea,,,,NJ,18 S Main St,08055
+"65 Barclay Pavilion,Cherry Hill, NJ 08034",Pho Barclay,Cherry Hill,10/12/2009,Vietnamese/Bubble Tea/Thai,7/15/2020,3,192,NJ,65 Barclay Pavilion,08034
+"116 N 9th St,Philadelphia, PA 19107",CubeCafe,Philadelphia,1/14/2019,Cafes,10/10/2019,3,6,PA,116 N 9th St,19107
+"511 South St,Philadelphia, PA 19147",Frozen Rolled Icecream,Philadelphia,7/26/2017,Ice Cream & Frozen Yogurt,7/27/2020,4,19,PA,511 South St,19147
+"400 W Route 38,Ste 1655,Moorestown, NJ 08057",Suki Hana,Moorestown,5/30/2016,Japanese,9/3/2020,4,13,NJ,400 W Route 38,08057
+"7320 Old York Rd.,Elkins Park, PA 19027",H Mart - Elkins Park,Elkins Park,2/25/2006,Grocery/Korean/Food Court,8/30/2020,4,148,PA,7320 Old York Rd.,19027
+"103 Franklin Mills Blvd,Philadelphia, PA 19154",88 Korean BBQ,Philadelphia,9/14/2019,Korean/Barbeque,8/28/2020,3,34,PA,103 Franklin Mills Blvd,19154
+"1222 Welsh Rd,North Wales, PA 19454",Break Time Cafe,North Wales,,Juice Bars & Smoothies/Coffee & Tea,2/11/2017,3,4,PA,1222 Welsh Rd,19454
+"7050 Terminal Sq,Fl 2,Upper Darby, PA 19082",Tomo Sushi & Sashimi,Upper Darby,7/12/2009,Sushi Bars/Japanese,8/22/2020,4,87,PA,7050 Terminal Sq,19082
+"160 N Gulph Rd,King of Prussia Mall,King of Prussia, PA 19406",Pholicious,King of Prussia,6/14/2014,Vietnamese/Bubble Tea/Juice Bars & Smoothies,10/29/2020,2,180,PA,160 N Gulph Rd,19406
+"1982 Street Rd,Bensalem, PA 19020",T Cup,Bensalem,10/14/2020,Bubble Tea,10/14/2020,5,1,PA,1982 Street Rd,19020
+"15501 Bustleton Ave,Philadelphia, PA 19116",Pho Palace,Philadelphia,3/26/2010,Vietnamese/Desserts/Soup,10/20/2020,3,221,PA,15501 Bustleton Ave,19116
+"150 N 10th St,Philadelphia, PA 19107",T-Swirl Crêpe,Philadelphia,8/1/2015,Desserts/Creperies/Gluten-Free,10/19/2020,4,373,PA,150 N 10th St,19107
+"224 Rowan Blvd,Glassboro, NJ 08028",Kung Fu Tea,Glassboro,12/2/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,8/15/2020,3,3,NJ,224 Rowan Blvd,08028
+"2012 N Broad St,Philadelphia, PA 19121",Yummy Pho,Philadelphia,10/4/2017,Vietnamese/Thai/Coffee & Tea,10/17/2020,4,66,PA,2012 N Broad St,19121
+"1069 Germantown Ave,Philadelphia, PA 19123",Lil Sum Sum,Philadelphia,6/28/2019,Dim Sum/Food Trucks/Gluten-Free,10/21/2019,3,5,PA,1069 Germantown Ave,19123
+"910 Haddonfield Berlin Rd,Voorhees, NJ 08043",Pho Voorhees,Voorhees,10/26/2017,Vietnamese/Bubble Tea,10/31/2020,4,118,NJ,910 Haddonfield Berlin Rd,08043
+"153 N 10th St,Philadelphia, PA 19107",Mong Kok Station,Philadelphia,5/26/2008,Coffee & Tea/Bakeries/Chinese,9/5/2020,3,115,PA,153 N 10th St,19107
+"160 N Gulph Rd,King of Prussia, PA 19406",Co-Cool Smoothies and Bubble Tea,King of Prussia,11/11/2017,Juice Bars & Smoothies/Bubble Tea,1/31/2020,2,8,PA,160 N Gulph Rd,19406
+"946 N 2nd St,Philadelphia, PA 19123",Just Cravings,Philadelphia,4/30/2014,Ice Cream & Frozen Yogurt/Juice Bars & Smoothies/Coffee & Tea,10/12/2020,3,67,PA,946 N 2nd St,19123
+"1031 S 8th St,Philadelphia, PA 19147",Cafe Diem,Philadelphia,7/14/2008,Vietnamese,10/25/2020,4,249,PA,1031 S 8th St,19147
+"160 N Gulph Rd,King of Prussia Mall,Space K103A,King of Prussia, PA 19406",Kung Fu Tea,King of Prussia,6/23/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,9/24/2020,3,11,PA,160 N Gulph Rd,19406
+"3646 Welsh Rd,Willow Grove, PA 19090",Pho Viet Hoa,Willow Grove,1/23/2017,Vietnamese,10/19/2020,4,144,PA,3646 Welsh Rd,19090
+"231 Haverford Ave,Narberth, PA 19072",Coco Thai Bistro,Narberth,1/14/2010,Thai,10/30/2020,4,122,PA,231 Haverford Ave,19072
+"6127 Ridge Ave,Philadelphia, PA 19128",Dream House Asian Bistro,Philadelphia,4/4/2012,Thai/Chinese/Japanese,10/4/2020,3,131,PA,6127 Ridge Ave,19128
+"43 Cricket Ave,Ardmore, PA 19003",Nam Phuong Bistro,Ardmore,4/15/2018,Vietnamese,10/3/2020,4,92,PA,43 Cricket Ave,19003
+"1835 N 12th St,Philadelphia, PA 19122",Tai's Vietnamese Food,Philadelphia,7/18/2007,Vietnamese/Food Stands,8/9/2020,4,58,PA,1835 N 12th St,19122
+"1921 Fairmount Ave,Philadelphia, PA 19130",iPho Vietnamese Restaurant,Philadelphia,2/23/2016,Vietnamese,5/19/2020,3,132,PA,1921 Fairmount Ave,19130
+"4260 Main St,Philadelphia, PA 19127",New Leaf 2 Chinese & Japanese Cuisine,Philadelphia,5/3/2019,Chinese/Japanese/Bars,10/29/2020,4,106,PA,4260 Main St,19127
+"49 Kings Hwy E,Haddonfield, NJ 08033",Little Tokyo,Haddonfield,2/13/2017,Japanese/Sushi Bars,8/31/2020,4,47,NJ,49 Kings Hwy E,08033
+"37 Snyder Ave,Philadelphia, PA 19148",Kyoto Japan,Philadelphia,2/7/2017,Japanese/Sushi Bars,6/4/2020,4,34,PA,37 Snyder Ave,19148
+"1008 Race St,Philadelphia, PA 19107",Mayflower Bakery & Cafe,Philadelphia,8/30/2006,Bakeries/Coffee & Tea/Desserts,10/1/2020,4,102,PA,1008 Race St,19107
+"16 S Main St,Medford, NJ 08055",Math Accelerator & Cafe,Medford,6/2/2020,Cafes/Ice Cream & Frozen Yogurt/Tacos,6/27/2020,5,4,NJ,16 S Main St,08055
+"506 Oxford Valley Rd,Langhorne, PA 19047",Tutti Frutti,Langhorne,7/30/2014,Ice Cream & Frozen Yogurt,7/25/2020,3,15,PA,506 Oxford Valley Rd,19047
+"33 Rittenhouse Pl,Ardmore, PA 19003",Golden Bowl,Ardmore,5/14/2012,Chinese,9/14/2020,3,122,PA,33 Rittenhouse Pl,19003
+"119 Floral Vale Blvd,Morrisville, PA 19067",Purple Leaf Cuisine,Morrisville,8/19/2020,Asian Fusion/Sushi Bars/Chinese,10/29/2020,3,15,PA,119 Floral Vale Blvd,19067
+"235 Lancaster Ave,Near DMV,Malvern, PA 19355",Akio Sushi & Poke,Malvern,1/24/2018,Japanese/Poke/Sushi Bars,5/31/2020,4,131,PA,235 Lancaster Ave,19355
+"2852 Street Rd,Bensalem, PA 19020",Hong Kong Star Noodle House,Bensalem,12/4/2012,Noodles,5/14/2020,3,40,PA,2852 Street Rd,19020
+"714 W 11th St,Wilmington, DE 19801",Treehouse Café,Wilmington,4/16/2015,Coffee & Tea/Cafes,7/21/2020,4,58,DE,714 W 11th St,19801
+"3801 Chestnut St,Philadelphia, PA 19104",Koreana,Philadelphia,1/2/2008,Korean,9/19/2020,3,357,PA,3801 Chestnut St,19104
+"1004 Cooper St,Ste 6,Deptford, NJ 08096",Sushi Express,Deptford,1/2/2018,Japanese/Salad/Sushi Bars,10/25/2020,4,42,NJ,1004 Cooper St,08096
+"204 Baltimore Pike,Springfield, PA 19064",Pho Street,Springfield,10/22/2013,Vietnamese,10/15/2020,4,249,PA,204 Baltimore Pike,19064
+"1110 Washington Ave,Ste 2A,Philadelphia, PA 19147",Pho & Cafe Viet Huong,Philadelphia,1/10/2007,Vietnamese,9/15/2020,3,242,PA,1110 Washington Ave,19147
+"2104 Market St,Philadelphia, PA 19103",Pho Street,Philadelphia,12/13/2017,Vietnamese,10/12/2020,4,132,PA,2104 Market St,19103
+"1500 S Broad St,Philadelphia, PA 19146",La Cocina del Cafe,Philadelphia,10/18/2019,Mexican/Latin American/Breakfast & Brunch,8/20/2020,5,23,PA,1500 S Broad St,19146
+"111 W 10th St,Wilmington, DE 19801",phubs,Wilmington,,Vietnamese/Bubble Tea,,,,DE,111 W 10th St,19801
+"3175 John F. Kennedy Boulevard,Philadelphia, PA 19104",Kung Fu Tea,Philadelphia,,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,,,,PA,3175 John F. Kennedy Boulevard,19104
+"339 E Lancaster Ave,Wynnewood, PA 19096",Sang Kee Asian Bistro,Wynnewood,6/15/2006,Asian Fusion/Chinese,11/1/2020,4,445,PA,339 E Lancaster Ave,19096
+"1020 Race St,Philadelphia, PA 19107",Dim Sum Garden,Philadelphia,9/29/2013,Dim Sum/Asian Fusion/Shanghainese,11/1/2020,4,2479,PA,1020 Race St,19107
+"1222 Welsh Rd,North Wales, PA 19454",Kung Fu Tea - North Wales,North Wales,9/4/2020,Bubble Tea,10/5/2020,4,6,PA,1222 Welsh Rd,19454
+"1028 Arch St,Philadelphia, PA 19107",Yamitsuki Ramen,Philadelphia,4/28/2016,Ramen/Sushi Bars/Cocktail Bars,10/28/2020,3,448,PA,1028 Arch St,19107
+"144 W Germantown Pike,East Norriton, PA 19401",Pho Thai Nam Restaurant,East Norriton,2/1/2008,Thai/Vietnamese,10/24/2020,4,452,PA,144 W Germantown Pike,19401
+"1222 Welsh Rd,North Wales, PA 19454",Assi Plaza,North Wales,5/31/2008,Korean/Grocery,7/30/2020,4,161,PA,1222 Welsh Rd,19454
+"7630 Germantown Ave,Philadelphia, PA 19118",Yu Hsiang Garden,Philadelphia,12/7/2008,Chinese,10/30/2020,4,58,PA,7630 Germantown Ave,19118
+"2101 Pennsylvania Ave,Whole Foods Market,Philadelphia, PA 19130",Genji Sushi Bar & Izakaya,Philadelphia,11/18/2017,Sushi Bars/Ramen,1/7/2020,3,23,PA,2101 Pennsylvania Ave,19130
+"202 East Lancaster Ave,Ardmore, PA 19003",Sake Mian,Ardmore,5/9/2020,Japanese,10/31/2020,4,13,PA,202 East Lancaster Ave,19003
+"230 Montgomery Mall,North Wales, PA 19454",Pholicious,North Wales,6/11/2014,Bubble Tea/Fast Food/Vietnamese,8/2/2020,4,27,PA,230 Montgomery Mall,19454
+"327 N Black Horse Pike,Runnemede, NJ 08078",Ginza Japanese & Asian Restaurant,Runnemede,12/2/2013,Japanese/Chinese/Sushi Bars,5/13/2020,3,60,NJ,327 N Black Horse Pike,08078
+"3549 Chestnut St,Philadelphia, PA 19104",Sang Kee Noodle House,Philadelphia,12/1/2009,Dim Sum/Noodles,9/29/2020,3,400,PA,3549 Chestnut St,19104
+"600 Washington Ave,Unit 16,Philadelphia, PA 19147",Kung Fu Tea,Philadelphia,12/26/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,2/3/2020,3,3,PA,600 Washington Ave,19147
+"1244 Snyder Ave,Philadelphia, PA 19148",AmeriThai,Philadelphia,7/8/2014,Thai,10/5/2020,4,118,PA,1244 Snyder Ave,19148
+"13 E State St,Media, PA 19063",Tom's Dim Sum,Media,7/27/2016,Dim Sum/Shanghainese,10/25/2020,4,269,PA,13 E State St,19063
+"1025 Arch St,Philadelphia, PA 19107",Möge Tee - Philadelphia,Philadelphia,8/2/2019,Bubble Tea/Juice Bars & Smoothies/Tea Rooms,3/26/2020,4,52,PA,1025 Arch St,19107
+"4520 Baltimore Ave,Philadelphia, PA 19143",Ice Cave,Philadelphia,8/27/2016,Desserts/Shaved Ice/Bubble Tea,9/8/2020,5,127,PA,4520 Baltimore Ave,19143
+"115 N 9th St,Philadelphia, PA 19107",A Cup Of Tea,Philadelphia,5/13/2017,Bubble Tea,10/25/2020,4,87,PA,115 N 9th St,19107
+"4229 Main St,Philadelphia, PA 19127",Mi 'N Tea,Philadelphia,4/20/2020,Vietnamese/Bubble Tea/Sandwiches,10/27/2020,5,61,PA,4229 Main St,19127
+"1715 Chestnut St,Philadelphia, PA 19103",Tsaocaa,Philadelphia,4/18/2019,Bubble Tea/Juice Bars & Smoothies,10/3/2020,4,16,PA,1715 Chestnut St,19103
+"1023 Cherry St,Philadelphia, PA 19107",Mr deer the camp,Philadelphia,6/9/2019,Bubble Tea,10/8/2020,4,69,PA,1023 Cherry St,19107
+"7320 Old York Rd,Elkins Park, PA 19027",Tsaocaa,Elkins Park,8/23/2020,Bubble Tea,10/22/2020,4,5,PA,7320 Old York Rd,19027
+"216 N 10th St,Philadelphia, PA 19107",Mr Wish,Philadelphia,8/26/2015,Bubble Tea/Juice Bars & Smoothies,10/26/2020,4,249,PA,216 N 10th St,19107
+"132 N 10th St,Philadelphia, PA 19107",Tea Do,Philadelphia,7/21/2012,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/31/2020,4,804,PA,132 N 10th St,19107
+"1100 S Christopher Columbus Blvd,Unit 22,Philadelphia, PA 19147",Pho Saigon,Philadelphia,11/12/2009,Vietnamese,9/10/2020,4,403,PA,1100 S Christopher Columbus Blvd,19147
+"402 W Swedesford Rd,Berwyn, PA 19312",Lotus Inn,Berwyn,4/24/2008,Chinese/Japanese,10/23/2020,3,81,PA,402 W Swedesford Rd,19312
+"2100 Fairmount Ave,Philadelphia, PA 19130",OCF Coffee House,Philadelphia,1/6/2013,Coffee & Tea/Bagels,10/25/2020,4,377,PA,2100 Fairmount Ave,19130
+"1635 Haines Rd,Levittown, PA 19055",Bravo Pho,Levittown,7/7/2018,Vietnamese,10/15/2020,4,95,PA,1635 Haines Rd,19055
+"915 Race St,Philadelphia, PA 19107",Megumi Japanese Ramen & Sushi Bar,Philadelphia,,Ramen/Sushi Bars,10/11/2020,4,178,PA,915 Race St,19107
+"48 N 10th St,Philadelphia, PA 19107",QT Vietnamese Sandwich,Philadelphia,3/2/2009,Sandwiches/Vietnamese,10/27/2020,4,517,PA,48 N 10th St,19107
+"5520 Whitaker Ave,Philadelphia, PA 19124",BAMBU,Philadelphia,10/7/2014,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,5/28/2020,3,55,PA,5520 Whitaker Ave,19124
+"513 Adam Ave,Philadelphia, PA 19120",Tasty Pot - Philadelphia,Philadelphia,1/17/2020,Taiwanese/Bubble Tea/Hot Pot,6/9/2020,4,16,PA,513 Adam Ave,19120
+"7050 Terminal Sq,Ste 217,Upper Darby, PA 19082",S&P Boba Tea,Upper Darby,3/10/2018,Bubble Tea/Desserts,8/31/2020,4,20,PA,7050 Terminal Sq,19082
+"4040 City Ave,Philadelphia, PA 19131",DJ Kitchen,Philadelphia,9/15/2018,Chinese/Bubble Tea,10/26/2020,4,96,PA,4040 City Ave,19131
+"3900 Sansom St,Philadelphia, PA 19104",Tea Do,Philadelphia,5/3/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,9/23/2020,4,26,PA,3900 Sansom St,19104
+"600 Washington Ave,Unit 16,Philadelphia, PA 19147",Kung Fu Tea,Philadelphia,12/27/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,8/14/2020,3,13,PA,600 Washington Ave,19147
+"145 N 11th St,Philadelphia, PA 19107",A La Mousse,Philadelphia,9/24/2015,Desserts/Coffee & Tea/Bakeries,10/5/2020,4,617,PA,145 N 11th St,19107
+"2451 N 54th,Philadelphia, PA 19131",Fat tuna,Philadelphia,7/1/2019,Sushi Bars/Ramen/Bubble Tea,8/2/2020,4,14,PA,2451 N 54th,19131
+"1333 W Cheltenham Ave,Elkins Park, PA 19027",Sangkee Asian Kitchen,Elkins Park,5/1/2015,Chinese,8/26/2020,4,126,PA,1333 W Cheltenham Ave,19027
+"1754 S Hicks St,Philadelphia, PA 19145",Hardena/Waroeng Surabaya Restaurant,Philadelphia,9/20/2007,Indonesian,10/28/2020,4,354,PA,1754 S Hicks St,19145
+"1214 N Black Horse Pike,Gloucester Township, NJ 08029",Canton Express,Gloucester Township,10/26/2019,Chinese/Chicken Wings/Bubble Tea,5/30/2020,3,9,NJ,1214 N Black Horse Pike,08029
+"1428 N Clayton St,Wilmington, DE 19806",Pinji's Cafe,Wilmington,8/7/2016,Sandwiches/Juice Bars & Smoothies/Gluten-Free,5/16/2020,4,25,DE,1428 N Clayton St,19806
+"1900 Greentree Rd,Cherry Hill, NJ 08003",Pho Eden,Cherry Hill,2/17/2007,Vietnamese/Noodles/Soup,8/31/2020,4,156,NJ,1900 Greentree Rd,08003
+"131 Bridge St,Ste 4,Phoenixville, PA 19460",Chikara Sushi & Asian Fusion,Phoenixville,4/1/2017,Sushi Bars/Asian Fusion,9/25/2020,4,123,PA,131 Bridge St,19460
+"1200 Welsh Rd,North Wales, PA 19454",Pho and More,North Wales,1/16/2011,Vietnamese/Thai,10/13/2020,3,225,PA,1200 Welsh Rd,19454
+"34 Centerton Rd,Mount Laurel, NJ 08054",Pho 9 - Pho Xinh,Mount Laurel,6/12/2010,Vietnamese,10/13/2020,4,246,NJ,34 Centerton Rd,08054
+"600 Washington Ave,Philadelphia, PA 19147",Pho Ha,Philadelphia,11/4/2006,Vietnamese,10/9/2020,4,467,PA,600 Washington Ave,19147
+"140 N Flowers Mill Rd,Langhorne, PA 19047",Osaka Sushi,Langhorne,9/22/2014,Japanese/Sushi Bars,9/7/2020,4,109,PA,140 N Flowers Mill Rd,19047
+"115 N 10th St,Philadelphia, PA 19107",Asia Bakery,Philadelphia,5/23/2009,Bakeries,8/6/2020,4,59,PA,115 N 10th St,19107
+"4205 Chestnut St,Philadelphia, PA 19104",Chili Szechuan,Philadelphia,7/22/2015,Chinese,10/29/2020,4,141,PA,4205 Chestnut St,19104
+"301 Spring Garden St,Philadelphia, PA 19123",Ken Shin Asian Diner,Philadelphia,5/7/2009,Pan Asian/Desserts,10/24/2020,3,146,PA,301 Spring Garden St,19123
+"4604 Woodland Ave,Philadelphia, PA 19143",Curry Bird,Philadelphia,3/18/2017,Chinese/Thai,10/17/2020,3,73,PA,4604 Woodland Ave,19143
+"942 Race St,Philadelphia, PA 19107",Jade Harbor,Philadelphia,8/30/2006,Chinese/Seafood,9/19/2020,3,156,PA,942 Race St,19107
+"1122 Washington Ave,Philadelphia, PA 19147",Pho 75,Philadelphia,3/1/2007,Vietnamese,10/28/2020,4,481,PA,1122 Washington Ave,19147
+"1021 Arch St,Philadelphia, PA 19107",Tango,Philadelphia,5/15/2013,Lounges/Karaoke/Sushi Bars,8/16/2020,3,160,PA,1021 Arch St,19107
+"45 N 13th St,Philadelphia, PA 19107",Kabuki Sushi,Philadelphia,8/26/2013,Sushi Bars/Japanese,7/12/2020,4,394,PA,45 N 13th St,19107
+"130 Black Horse Pike,Ste 308,Audubon, NJ 08106",Pho Asia,Audubon,6/28/2019,Vietnamese/Noodles,10/30/2020,4,59,NJ,130 Black Horse Pike,08106
+"470 2nd St Pike,Southampton, PA 18966",House of Pho,Southampton,3/21/2012,Vietnamese/Specialty Food,9/14/2020,3,180,PA,470 2nd St Pike,18966
+"1200 S Church St,Mount Laurel Township, NJ 08054",Rai Rai Ramen,Mount Laurel Township,7/2/2019,Ramen,10/28/2020,4,147,NJ,1200 S Church St,08054
+"17 North Main St,Unit b,Woodstown, NJ 08098",hitea,Woodstown,,Bubble Tea/Juice Bars & Smoothies,,,,NJ,17 North Main St,08098
+"1808 Brownsville Rd,Feasterville-Trevose, PA 19053",MyThai Kitchen,Feasterville-Trevose,9/20/2018,Thai,10/31/2020,4,98,PA,1808 Brownsville Rd,19053
+"41 Clementon Rd,Berlin, NJ 08009",Berlin Farmer's Market & Shopping Center,Berlin,1/7/2008,Shopping Centers/Farmers Market/Flea Markets,9/8/2020,3,71,NJ,41 Clementon Rd,08009
+"S 31st & Ludlow St,Philadelphia, PA 19104",Cucina Zapata,Philadelphia,6/15/2011,Food Stands/Thai/Mexican,1/24/2020,4,248,PA,S 31st & Ludlow St,19104
+"1025 Arch St,Philadelphia, PA 19107",Lair KTV | Sky Club,Philadelphia,9/5/2016,Karaoke/Lounges/Chinese,10/5/2020,3,41,PA,1025 Arch St,19107
+"938 Arch St,Philadelphia, PA 19107",Frozen Rolled Ice Cream,Philadelphia,7/4/2016,Ice Cream & Frozen Yogurt,10/15/2020,4,186,PA,938 Arch St,19107
+"106 N Essex Ave,Narberth, PA 19072",Pho-ever Yours,Narberth,2/5/2017,Vietnamese/Noodles/Soup,10/31/2020,4,78,PA,106 N Essex Ave,19072
+"1100 Washington Ave,Philadelphia, PA 19147",Nam Phuong,Philadelphia,2/6/2007,Vietnamese/Seafood,9/20/2020,4,713,PA,1100 Washington Ave,19147
+"127 N 10th St,Philadelphia, PA 19107",Zhong Gang Bakery,Philadelphia,10/24/2006,Coffee & Tea/Bakeries,8/17/2020,3,53,PA,127 N 10th St,19107
+"20 E Eagle Rd,Havertown, PA 19083",Chaiya Thai & Asian Fusion,Havertown,,Thai/Asian Fusion,,,,PA,20 E Eagle Rd,19083
+"3717 Chestnut St,Philadelphia, PA 19104",LaTao HotPot,Philadelphia,4/20/2018,Hot Pot,9/20/2020,4,102,PA,3717 Chestnut St,19104
+"4500 City Ave,Philadelphia, PA 19131",Kung Fu Tea,Philadelphia,6/28/2020,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,6/28/2020,5,1,PA,4500 City Ave,19131
+"821 Adams Ave,Philadelphia, PA 19124",Ding Tea Philadelphia,Philadelphia,7/24/2020,Bubble Tea/Coffee & Tea/Ice Cream & Frozen Yogurt,9/13/2020,3,13,PA,821 Adams Ave,19124
+"4500 City Ave,Philadelphia, PA 19131",TKK Fried Chicken,Philadelphia,2/6/2020,Bubble Tea/Chicken Wings,9/19/2020,4,10,PA,4500 City Ave,19131
+"2842 Saint Vincent St,Ste A4,Philadelphia, PA 19149",Tbaar Philadelphia,Philadelphia,,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,12/25/2019,4,39,PA,2842 Saint Vincent St,19149
+"4508 Walnut St,Philadelphia, PA 19139",Lulu Cafe,Philadelphia,2/26/2016,Coffee & Tea/Shaved Ice/Taiwanese,9/26/2020,4,145,PA,4508 Walnut St,19139
+"24 E Lancaster Ave,Ardmore, PA 19003",Yi's Boba,Ardmore,12/9/2017,Bubble Tea,9/8/2020,4,50,PA,24 E Lancaster Ave,19003
+"4415 Main St,Philadelphia, PA 19127",Tsaocaa,Philadelphia,11/2/2019,Bubble Tea/Ice Cream & Frozen Yogurt/Chicken Wings,10/13/2020,4,40,PA,4415 Main St,19127
+"1006 Arch St,Philadelphia, PA 19107",Kung Fu Tea,Philadelphia,5/18/2014,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,9/28/2020,3,310,PA,1006 Arch St,19107
+"108 Chestnut St,Philadelphia, PA 19106",T cafe,Philadelphia,1/7/2019,Bubble Tea/Coffee & Tea/Bakeries,9/22/2020,4,51,PA,108 Chestnut St,19106
+"2110 Marlton Pike E Rt 70,Ste 18,Cherry Hill, NJ 08003",Bubblelicious Lab,Cherry Hill,10/17/2018,Bubble Tea,10/27/2020,4,79,NJ,2110 Marlton Pike E Rt 70,08003
+"4321 Main St,Philadelphia, PA 19127",Tbaar,Philadelphia,5/10/2019,Bubble Tea/Juice Bars & Smoothies/Desserts,10/4/2020,4,25,PA,4321 Main St,19127
+"600 Washington Ave,Ste 9,Philadelphia, PA 19147",BAMBU,Philadelphia,7/12/2014,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,8/1/2020,4,165,PA,600 Washington Ave,19147
+"600 Washington Ave,Unit 5,Philadelphia, PA 19147",Sharetea,Philadelphia,10/1/2020,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/27/2020,5,12,PA,600 Washington Ave,19147
+"3639 Lancaster Ave,Philadelphia, PA 19104",Woosa Bubble Tea,Philadelphia,1/13/2019,Bubble Tea,7/28/2020,4,40,PA,3639 Lancaster Ave,19104
+"1200 Welsh Rd,Ste M,North Wales, PA 19454",Teapioca Lounge,North Wales,8/15/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/19/2020,4,97,PA,1200 Welsh Rd,19454
+"530 E Girard Ave,Philadelphia, PA 19125",Kopi Latte,Philadelphia,,Coffee & Tea/Breakfast & Brunch,10/31/2020,4,52,PA,530 E Girard Ave,19125
+"909 Arch St,Philadelphia, PA 19107",Bubblefish,Philadelphia,1/14/2016,Taiwanese/Bubble Tea/Japanese,10/16/2020,4,509,PA,909 Arch St,19107
+"145 N 10th St,Philadelphia, PA 19107",Vivi Bubble Tea,Philadelphia,8/14/2015,Bubble Tea,10/6/2020,3,246,PA,145 N 10th St,19107
+"13 N 32nd St,Philadelphia, PA 19104",KungFu Tea,Philadelphia,4/14/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,9/17/2020,4,24,PA,13 N 32nd St,19104
+"1042 South St,Philadelphia, PA 19147",Tsaocaa,Philadelphia,9/20/2019,Bubble Tea,3/16/2020,3,16,PA,1042 South St,19147
+"6846 Bustleton Ave,Philadelphia, PA 19149",Mr Wish,Philadelphia,5/11/2015,Bubble Tea/Juice Bars & Smoothies,7/14/2020,4,70,PA,6846 Bustleton Ave,19149

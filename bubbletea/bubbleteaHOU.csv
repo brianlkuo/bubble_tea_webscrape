@@ -1,0 +1,239 @@
+address,business_name,city,first_review_date,food_tags,last_review_date,rating,review_num,state,street,zip5
+"9742 Katy Fwy,Ste 400,Houston, TX 77055",Sharetea,Houston,11/15/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/29/2020,4,38,TX,9742 Katy Fwy,77055
+"3418 Broadway St,Houston, TX 77017",Pho Broadway Noodle Soup,Houston,12/12/2011,Vietnamese/Noodles/Seafood,10/16/2020,3,37,TX,3418 Broadway St,77017
+"11710 Broadway St,Ste 118,Pearland, TX 77584",La Paire,Pearland,7/18/2020,Sandwiches/Bubble Tea/Vietnamese,10/18/2020,4,36,TX,11710 Broadway St,77584
+"304 Bay Area Blvd,Ste 200,Webster, TX 77598",Kung Fu Tea,Webster,5/20/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,8/31/2020,4,106,TX,304 Bay Area Blvd,77598
+"29300 Hempstead Rd,Houston Premium Outlets,Cypress, TX 77433",Infuzion Bubble Tea Bar,Cypress,2/25/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,2/3/2020,4,4,TX,29300 Hempstead Rd,77433
+"10541 Fm 1960,Ste 260B,Houston, TX 77070",R Tea Zone,Houston,9/25/2018,Bubble Tea/Juice Bars & Smoothies,10/12/2020,4,28,TX,10541 Fm 1960,77070
+"10625 Veterans Memorial Dr,Ste H,Houston, TX 77038",Banh Mi No 1,Houston,,Sandwiches/Bubble Tea,,,,TX,10625 Veterans Memorial Dr,77038
+"7119 Fm 1464 Rd,Ste 180,Richmond, TX 77407",Mai's Teahouse,Richmond,11/23/2016,Sandwiches/Juice Bars & Smoothies/Bubble Tea,10/27/2020,4,126,TX,7119 Fm 1464 Rd,77407
+"19865 Nw Fwy,Houston, TX 77065",Ahi Poke,Houston,9/27/2018,Poke/Bubble Tea,10/28/2020,4,90,TX,19865 Nw Fwy,77065
+"13606 Bellaire Blvd,Ste B3,Houston, TX 77083",Taphouse 88,Houston,10/1/2016,Bubble Tea/Taiwanese/Juice Bars & Smoothies,7/27/2020,4,16,TX,13606 Bellaire Blvd,77083
+"5716 Fairmont Pkwy,Pasadena, TX 77505",Ahi Poke,Pasadena,1/8/2019,Poke/Bubble Tea,10/12/2020,4,82,TX,5716 Fairmont Pkwy,77505
+"2805A S Gulf Fwy,League City, TX 77573",Gotcha Boba,League City,3/19/2020,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,9/29/2020,4,9,TX,2805A S Gulf Fwy,77573
+"9888 Bellaire Blvd,Ste 126,Houston, TX 77036",T4 - Tea For U,Houston,5/26/2017,Coffee & Tea/Bubble Tea,8/29/2020,3,130,TX,9888 Bellaire Blvd,77036
+"350 Promenade Way,Sugar Land, TX 77478",The Creamery Teahouse,Sugar Land,7/27/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/28/2020,4,58,TX,350 Promenade Way,77478
+"12138 Bellaire Blvd,Houston, TX 77072",Boba Island,Houston,,Coffee & Tea/Bubble Tea,9/8/2020,3,82,TX,12138 Bellaire Blvd,77072
+"5475 W Lp S,Ste 170,Houston, TX 77081",Jade's Tea House,Houston,9/25/2015,Coffee & Tea/Juice Bars & Smoothies/Sandwiches,10/29/2020,4,85,TX,5475 W Lp S,77081
+"21788 Katy Fwy,Ste 200,Katy, TX 77449",Kravin' Desserts & Tapioca,Katy,7/28/2017,Bubble Tea/Desserts/Juice Bars & Smoothies,9/26/2020,4,140,TX,21788 Katy Fwy,77449
+"7025 Fry Rd,Ste 100,Cypress, TX 77433",Vogue Bubble Tea & Coffee Bar,Cypress,4/12/2020,Bubble Tea/Coffee & Tea,9/11/2020,4,12,TX,7025 Fry Rd,77433
+"3516 S Shepherd Dr,Houston, TX 77098",Honey Art Cafe,Houston,7/1/2013,Cafes/Art Classes/Venues & Event Spaces,9/26/2020,3,264,TX,3516 S Shepherd Dr,77098
+"13126 Fm 1960 W,Ste 150,Houston, TX 77065",French Press Coffee House,Houston,1/3/2019,Coffee & Tea/Bubble Tea/Breakfast & Brunch,10/29/2020,5,93,TX,13126 Fm 1960 W,77065
+"10613 Bellaire Blvd,Ste A-168,Houston, TX 77072",BAMBU,Houston,11/11/2014,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,10/11/2020,4,157,TX,10613 Bellaire Blvd,77072
+"1717 W 34th St,Ste 800,Houston, TX 77018",LES BA'GET,Houston,3/13/2019,Vietnamese,10/30/2020,4,187,TX,1717 W 34th St,77018
+"9198 Bellaire,Houston, TX 77036",The Teahouse Tapioca & Tea,Houston,10/10/2009,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/25/2020,3,168,TX,9198 Bellaire,77036
+"9188 Bellaire Blvd,Houston, TX 77036",Gogo Ice,Houston,3/13/2012,Shaved Ice/Juice Bars & Smoothies/Bubble Tea,10/8/2020,4,171,TX,9188 Bellaire Blvd,77036
+"8209 Broadway St,Ste 103,Pearland, TX 77581",The Drink Station,Pearland,4/22/2009,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/9/2020,4,174,TX,8209 Broadway St,77581
+"5571 Hwy 6 N,Houston, TX 77084",Kim's Tea House,Houston,2/8/2017,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,9/19/2020,4,98,TX,5571 Hwy 6 N,77084
+"17505 Telge Rd,Ste 105,Cypress, TX 77429",Formosa Bubble Teahouse,Cypress,5/10/2019,Bubble Tea,10/23/2020,5,47,TX,17505 Telge Rd,77429
+"1321 N Westgreen Blvd,Ste 100,Katy, TX 77449",Long Coffee,Katy,7/27/2020,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/3/2020,5,13,TX,1321 N Westgreen Blvd,77449
+"9310 Westheimer Rd,Houston, TX 77063",Happy Teahouse,Houston,10/5/2008,Coffee & Tea/Juice Bars & Smoothies/Cafes,8/28/2020,3,211,TX,9310 Westheimer Rd,77063
+"4935 Hwy 6 N,Houston, TX 77084",I Heart Boba,Houston,7/21/2014,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,7/14/2020,4,205,TX,4935 Hwy 6 N,77084
+"10920 Fuqua St,Houston, TX 77089",Snacked Out,Houston,11/11/2018,Bubble Tea/Cafes/Juice Bars & Smoothies,10/19/2020,4,58,TX,10920 Fuqua St,77089
+"16535 Southwest Fwy,Ste 5577,Sugar Land, TX 77479",Kokee Tea,Sugar Land,12/24/2019,Bubble Tea/Coffee & Tea,10/18/2020,4,7,TX,16535 Southwest Fwy,77479
+"14420 Bellaire Blvd,Houston, TX 77083",Kim's Tea House,Houston,12/29/2008,Bubble Tea/Juice Bars & Smoothies/Fast Food,10/17/2020,4,194,TX,14420 Bellaire Blvd,77083
+"9416 Long Point Rd,Houston, TX 77055",Tila's Teahouse,Houston,10/10/2014,Juice Bars & Smoothies/Bubble Tea/Sandwiches,8/17/2020,4,33,TX,9416 Long Point Rd,77055
+"9188-G Bellaire Blvd,Ste G,Houston, TX 77036",Twinkle,Houston,12/16/2011,Desserts/Juice Bars & Smoothies/Bubble Tea,10/5/2020,4,169,TX,9188-G Bellaire Blvd,77036
+"14771 Memorial Dr,Houston, TX 77079",Bao Bao Boba,Houston,7/25/2020,Bubble Tea,11/1/2020,4,6,TX,14771 Memorial Dr,77079
+"8001 S Main St,Ste 100,Houston, TX 77025",Jollibee,Houston,9/12/2013,Filipino/Fast Food/Chicken Shop,10/31/2020,3,570,TX,8001 S Main St,77025
+"9473 Fm 1960 Bypass Rd W,Ste 250,Humble, TX 77338",Zero Degrees,Humble,11/7/2018,Bubble Tea/Coffee & Tea,10/14/2020,3,117,TX,9473 Fm 1960 Bypass Rd W,77338
+"13540 University Blvd,Ste 400,Sugar Land, TX 77479",Feng Cha,Sugar Land,6/10/2019,Bubble Tea/Desserts,10/28/2020,4,131,TX,13540 University Blvd,77479
+"5727 Westheimer Rd,Ste E,Houston, TX 77057",FU Belly Asian Cuisine & Bubble Tea Bar,Houston,4/3/2017,Vietnamese/Chinese/Bubble Tea,9/3/2020,4,228,TX,5727 Westheimer Rd,77057
+"6927 Fm 1960 Rd W,Unit H,Houston, TX 77069",Zero Degrees,Houston,1/11/2018,Coffee & Tea/Juice Bars & Smoothies/Fast Food,10/4/2020,4,350,TX,6927 Fm 1960 Rd W,77069
+"4007 Bellaire Blvd,Ste F,Houston, TX 77025",Smootea Cafe,Houston,4/26/2018,Coffee & Tea/Bubble Tea/Vietnamese,9/21/2020,4,84,TX,4007 Bellaire Blvd,77025
+"5315 Cypress Creek Pkwy,Ste C,Houston, TX 77069",The Teahouse Tapioca and Tea,Houston,2/7/2016,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,8/28/2020,3,120,TX,5315 Cypress Creek Pkwy,77069
+"9889 Bellaire Blvd,Houston, TX 77036",Star Snow Ice & Teriyaki,Houston,8/16/2008,Chinese/Taiwanese/Shaved Snow,10/20/2020,4,519,TX,9889 Bellaire Blvd,77036
+"10603 Bellaire Blvd,Unit 101,Houston, TX 77072",Zero Degrees,Houston,8/13/2017,Juice Bars & Smoothies/Coffee & Tea/Fast Food,10/30/2020,3,434,TX,10603 Bellaire Blvd,77072
+"10245 Kempwood Dr,Ste B,Houston, TX 77043",I Heart Boba,Houston,3/28/2019,Bubble Tea/Juice Bars & Smoothies/Sandwiches,10/10/2020,4,31,TX,10245 Kempwood Dr,77043
+"2916 White Oak Dr,Houston, TX 77007",Pho Binh,Houston,6/11/2015,Vietnamese,10/1/2020,4,412,TX,2916 White Oak Dr,77007
+"3211 Greenhouse Rd,Ste 115,Katy, TX 77449",Okie Dokie Teahouse,Katy,4/15/2020,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,11/1/2020,4,52,TX,3211 Greenhouse Rd,77449
+"23242 Fm 1314,Porter, TX 77365",Infuzion Bubble Tea Bar,Porter,8/17/2020,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,8/17/2020,5,1,TX,23242 Fm 1314,77365
+"3382 Highway 6,Sugar Land, TX 77478",Teapresso Bar,Sugar Land,4/6/2019,Coffee & Tea/Bubble Tea,10/30/2020,4,73,TX,3382 Highway 6,77478
+"9328 Bellaire Blvd,Houston, TX 77036",Tasty Pot,Houston,1/23/2020,Taiwanese/Hot Pot/Bubble Tea,7/14/2020,5,45,TX,9328 Bellaire Blvd,77036
+"6871 N Fry Rd,Ste 114,Katy, TX 77449",Puer Taiwan Tea & Coffee,Katy,6/26/2020,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/31/2020,4,28,TX,6871 N Fry Rd,77449
+"5623 Garth Rd,Ste 170,Baytown, TX 77521",TopTea,Baytown,9/7/2018,Bubble Tea/Juice Bars & Smoothies/Vietnamese,10/5/2020,5,61,TX,5623 Garth Rd,77521
+"19020 Gulf Fwy,Friendswood, TX 77546",Gong Cha,Friendswood,1/2/2020,Bubble Tea/Juice Bars & Smoothies,10/4/2020,4,23,TX,19020 Gulf Fwy,77546
+"13531 Will Clayton Pkwy,Humble, TX 77346",Sweet Escape,Humble,6/30/2019,Bubble Tea/Donuts/Sandwiches,10/27/2020,4,32,TX,13531 Will Clayton Pkwy,77346
+"99 Sunset Blvd,Houston, TX 77005",East-West Tea,Houston,1/11/2017,Bubble Tea,8/19/2019,4,8,TX,99 Sunset Blvd,77005
+"1001 Fannin St,Ste M180,Houston, TX 77002",Baoz Dumpling,Houston,4/18/2008,Chinese/Bubble Tea/Vietnamese,12/19/2019,4,87,TX,1001 Fannin St,77002
+"7014 Hwy 6 N,Houston, TX 77095",Fusion 36 Degree,Houston,4/24/2018,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,9/26/2020,5,22,TX,7014 Hwy 6 N,77095
+"9354 Bellaire Blvd,Houston, TX 77036",Jing 5,Houston,7/31/2016,Chinese/Bubble Tea/Juice Bars & Smoothies,10/25/2020,4,21,TX,9354 Bellaire Blvd,77036
+"7620 Katy Fwy,Ste 310,Houston, TX 77024",Class 502 Rolling Ice Cream,Houston,4/8/2017,Ice Cream & Frozen Yogurt/Bubble Tea/Juice Bars & Smoothies,9/28/2020,2,100,TX,7620 Katy Fwy,77024
+"9188 Bellaire Blvd,Ste B,Houston, TX 77036",Bubble Egg,Houston,12/3/2017,Bubble Tea/Waffles/Ice Cream & Frozen Yogurt,,4,361,TX,9188 Bellaire Blvd,77036
+"3427 Spencer Hwy,Pasadena, TX 77504",Sweet Lemon,Pasadena,9/29/2018,Bubble Tea/Juice Bars & Smoothies/Vietnamese,9/26/2020,4,102,TX,3427 Spencer Hwy,77504
+"9889 Bellaire Blvd,Ste 109,Houston, TX 77036",Juice Box,Houston,5/31/2007,Taiwanese/Juice Bars & Smoothies/Shaved Snow,10/16/2020,4,530,TX,9889 Bellaire Blvd,77036
+"3737 Hwy 6,Sugar Land, TX 77478",MTea & Coffee,Sugar Land,7/20/2018,Bubble Tea/Coffee & Tea,9/21/2020,4,132,TX,3737 Hwy 6,77478
+"407 W Baker Rd,Ste E,Baytown, TX 77521",Tea City,Baytown,9/8/2017,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,8/15/2020,4,19,TX,407 W Baker Rd,77521
+"1540 S Mason Rd,Katy, TX 77450",Tapioca Xpress,Katy,1/24/2019,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/10/2020,4,66,TX,1540 S Mason Rd,77450
+"1005 Blalock Rd,Unit G,Houston, TX 77055",Kung Fu Tea,Houston,11/4/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/7/2020,3,20,TX,1005 Blalock Rd,77055
+"126 Vintage Park Blvd,Ste F,Houston, TX 77070",Pandan Leaf,Houston,4/20/2013,Vietnamese/Desserts/Juice Bars & Smoothies,9/12/2020,4,102,TX,126 Vintage Park Blvd,77070
+"9405 S Texas 6,Houston, TX 77083",On Da House,Houston,2/25/2020,Juice Bars & Smoothies/Bubble Tea,8/23/2020,4,18,TX,9405 S Texas 6,77083
+"16535 Southwest Fwy,Sugar Land, TX 77479",Bubble Waffle and Tea,Sugar Land,7/15/2018,Bubble Tea/Ice Cream & Frozen Yogurt/Waffles,8/5/2020,4,22,TX,16535 Southwest Fwy,77479
+"1523 S Mason Rd,Katy, TX 77450",Kim's Tea House,Katy,2/19/2013,Bubble Tea/Juice Bars & Smoothies/Fast Food,10/18/2020,4,190,TX,1523 S Mason Rd,77450
+"4701 Calhoun Rd,Houston, TX 77004",Azza Cafe,Houston,9/24/2013,Bubble Tea/Asian Fusion/Seafood,10/22/2020,3,158,TX,4701 Calhoun Rd,77004
+"7630 Fry Rd,Ste 400,Cypress, TX 77433",LAtea,Cypress,9/21/2018,Bubble Tea/Coffee & Tea,6/9/2020,4,51,TX,7630 Fry Rd,77433
+"1113 Holman St,Houston, TX 77004",Boba Cafe,Houston,11/25/2008,Bubble Tea/Burgers/Cheesesteaks,10/22/2020,3,39,TX,1113 Holman St,77004
+"12148 Bellaire Blvd,Ste 124,Houston, TX 77072",Bun Bo Hue Duc Chuong Midnite,Houston,6/14/2012,Vietnamese,9/21/2020,4,321,TX,12148 Bellaire Blvd,77072
+"11200 Broadway St,Ste 1370,Pearland, TX 77584",Kung Fu Tea,Pearland,3/10/2016,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,8/26/2020,3,118,TX,11200 Broadway St,77584
+"3729 E League City Pkwy,League City, TX 77573",The Drink station,League City,5/5/2020,Juice Bars & Smoothies/Bubble Tea/Desserts,10/25/2020,2,6,TX,3729 E League City Pkwy,77573
+"16733 W Airport Blvd,Ste 220,Richmond, TX 77407",Mylk Box,Richmond,12/7/2019,Coffee & Tea/Bubble Tea/Sandwiches,9/14/2020,4,45,TX,16733 W Airport Blvd,77407
+"15951 Fm 529 Rd,Houston, TX 77095",I Heart Boba FM 529,Houston,5/25/2017,Coffee & Tea/Bubble Tea/Sandwiches,6/29/2020,4,55,TX,15951 Fm 529 Rd,77095
+"4440 N Fwy,Houston, TX 77022",Zero Degrees,Houston,2/21/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,9/9/2020,2,49,TX,4440 N Fwy,77022
+"2611 San Jacinto St,Houston, TX 77004",Thien An Sandwiches,Houston,3/30/2014,Vietnamese,10/29/2020,4,332,TX,2611 San Jacinto St,77004
+"840 Gulfgate Center Mall,Houston, TX 77087",The Teahouse Tapioca & Tea,Houston,9/26/2017,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,6/23/2020,3,50,TX,840 Gulfgate Center Mall,77087
+"1027 Blalock Rd,Houston, TX 77055",85°C Bakery Cafe,Houston,8/21/2017,Bakeries/Coffee & Tea/Patisserie/Cake Shop,9/29/2020,3,181,TX,1027 Blalock Rd,77055
+"1914 Wescott Ave,Ste 120,Sugar Land, TX 77479",Teapioca Lounge,Sugar Land,12/17/2018,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,10/19/2020,4,96,TX,1914 Wescott Ave,77479
+"5730 New Territory Blvd,Sugar Land, TX 77479",OG Tea,Sugar Land,7/8/2015,Bubble Tea/Juice Bars & Smoothies/Sandwiches,7/27/2020,4,153,TX,5730 New Territory Blvd,77479
+"16341 Mueschke Rd,Ste 290,Cypress, TX 77433",Tea Bear Teahouse,Cypress,3/30/2019,Bubble Tea/Tea Rooms,7/11/2020,4,38,TX,16341 Mueschke Rd,77433
+"5834 Louetta Rd,Ste A,Spring, TX 77379",I Heart Boba,Spring,12/2/2012,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/23/2020,4,336,TX,5834 Louetta Rd,77379
+"8514 Ce King Pkwy,Houston, TX 77044",Dena's Donuts,Houston,7/28/2015,Donuts/Bubble Tea,9/26/2019,4,3,TX,8514 Ce King Pkwy,77044
+"9664 Westheimer Rd,Ste 300,Houston, TX 77063",The Teahouse Tapioca & Tea,Houston,11/11/2017,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,8/28/2020,4,26,TX,9664 Westheimer Rd,77063
+"13280 Northwest Fwy,Ste A,Houston, TX 77040",Jazen Tea,Houston,7/30/2017,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,10/3/2020,2,34,TX,13280 Northwest Fwy,77040
+"8608 Hwy 6 N,Houston, TX 77095",Ice Valley Cafe,Houston,11/14/2013,Bubble Tea/Juice Bars & Smoothies/Shaved Snow,6/3/2020,3,116,TX,8608 Hwy 6 N,77095
+"18052 Fm 529 Rd,Cypress, TX 77433",Yami sushi bento box bubble tea,Cypress,8/15/2019,Japanese/Bubble Tea/Poke,9/16/2020,4,25,TX,18052 Fm 529 Rd,77433
+"13411 State Highway 249,Unit 6,Houston, TX 77086",The Boba Spot,Houston,11/12/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,8/21/2020,3,19,TX,13411 State Highway 249,77086
+"10919 Louetta Rd,Ste E540,Houston, TX 77070",VietSubs & Boba Tea,Houston,1/15/2020,Vietnamese/Bubble Tea/Sandwiches,9/12/2020,4,13,TX,10919 Louetta Rd,77070
+"9889 Bellaire Blvd,Ste 101,Houston, TX 77036",Cafe 101,Houston,6/22/2007,Chinese/Japanese/Korean,10/28/2020,3,684,TX,9889 Bellaire Blvd,77036
+"11201 Bellaire Blvd,Ste A-19A,Houston, TX 77072",Cococane,Houston,9/15/2019,Desserts/Juice Bars & Smoothies/Bubble Tea,10/2/2019,3,2,TX,11201 Bellaire Blvd,77072
+"11415 Bellaire Blvd,Ste K,Houston, TX 77072",Bun Bo Hue Duc Chuong,Houston,9/13/2009,Vietnamese/Coffee & Tea/Juice Bars & Smoothies,10/27/2020,4,95,TX,11415 Bellaire Blvd,77072
+"1111 Spencer Hwy,South Houston, TX 77587",Zero Degrees,South Houston,1/16/2019,Bubble Tea/Coffee & Tea/Fast Food,9/2/2020,3,41,TX,1111 Spencer Hwy,77587
+"7751 Barker Cypress,Ste 1100,Cypress, TX 77433",Honey Teahouse,Cypress,5/20/2014,Juice Bars & Smoothies/Bubble Tea/Tea Rooms,9/2/2020,3,97,TX,7751 Barker Cypress,77433
+"29110 U. S. Highway 290,Ste 250,Cypress, TX 77433",Gong Cha,Cypress,6/22/2020,Bubble Tea,10/11/2020,4,17,TX,29110 U. S. Highway 290,77433
+"13480 Veterans Memorial Dr,Ste P2,Houston, TX 77014",Tea Bubblers,Houston,6/3/2008,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,8/6/2020,3,66,TX,13480 Veterans Memorial Dr,77014
+"2810 Business Center Dr,Ste 111,Pearland, TX 77584",The Teahouse Tapioca & Tea,Pearland,4/5/2017,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,8/10/2020,4,91,TX,2810 Business Center Dr,77584
+"1921 E Broadway St,Pearland, TX 77581",Pho Vi-Vi,Pearland,3/5/2020,Vietnamese/Bubble Tea/Juice Bars & Smoothies,9/28/2020,5,8,TX,1921 E Broadway St,77581
+"10960 N Fwy,Houston, TX 77037",Street Food Guru,Houston,10/8/2020,Bubble Tea/Vietnamese/Chicken Wings,10/8/2020,5,1,TX,10960 N Fwy,77037
+"11619 Hwy 6,Sugar Land, TX 77498",Fresh Boba,Sugar Land,11/2/2015,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,7/4/2020,3,112,TX,11619 Hwy 6,77498
+"21117 North Fwy,Ste 100,Spring, TX 77388",The Boba Shop,Spring,2/18/2020,Bubble Tea,10/14/2020,4,10,TX,21117 North Fwy,77388
+"3815 Richmond Ave,Ste B,Houston, TX 77027",Mama’s Kitchen,Houston,9/19/2019,Szechuan/Bubble Tea/Noodles,10/23/2020,4,98,TX,3815 Richmond Ave,77027
+"6830 E Sam Houston Pkwy N,Ste 180,Houston, TX 77049",Bibo's Cafe,Houston,4/2/2012,Vietnamese,10/10/2020,4,201,TX,6830 E Sam Houston Pkwy N,77049
+"7210 Barker Cypress Rd,Cypress, TX 77433",Fusion 36 Degree,Cypress,7/29/2017,Juice Bars & Smoothies/Coffee & Tea/Bubble Tea,9/14/2020,4,99,TX,7210 Barker Cypress Rd,77433
+"3950 N Fry Rd,Ste 100,Katy, TX 77449",Fusion 36 Degree,Katy,6/23/2009,Juice Bars & Smoothies/Coffee & Tea/Bubble Tea,8/27/2020,4,146,TX,3950 N Fry Rd,77449
+"4835 Fairmont Pkwy,Pasadena, TX 77505",Hiccups & Churroholic,Pasadena,12/19/2019,Bubble Tea/Coffee & Tea/Asian Fusion,10/8/2020,4,52,TX,4835 Fairmont Pkwy,77505
+"347 1/2 S Mason Rd,Katy, TX 77450",Zero Degrees,Katy,11/18/2017,Coffee & Tea/Bubble Tea,10/6/2020,4,182,TX,347 1/2 S Mason Rd,77450
+"501 S Mason Rd,Katy, TX 77450",Kung Fu Tea,Katy,6/8/2016,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,9/27/2020,4,165,TX,501 S Mason Rd,77450
+"12779 Windfern Rd,Houston, TX 77064",Max Donuts,Houston,2/25/2019,Donuts/Juice Bars & Smoothies/Bubble Tea,9/28/2020,4,7,TX,12779 Windfern Rd,77064
+"6320 Garth Rd,Ste 140,Baytown, TX 77521",Zero Degrees,Baytown,2/6/2019,Bubble Tea/Coffee & Tea,,3,41,TX,6320 Garth Rd,77521
+"1302 Blalock Rd.,Houston, TX 77055",H Mart - Houston,Houston,5/3/2008,Korean/International Grocery/Seafood,10/17/2020,4,369,TX,1302 Blalock Rd.,77055
+"4109 Yellowstone Dr,Pasadena, TX 77504",Snow Hut Shaved Ice,Pasadena,4/23/2013,Shaved Ice/Bubble Tea,4/6/2019,4,15,TX,4109 Yellowstone Dr,77504
+"9252 Bellaire Blvd,Ste A,Houston, TX 77036",Star Snow Ice,Houston,12/18/2011,Juice Bars & Smoothies/Bubble Tea/Shaved Snow,10/4/2020,4,81,TX,9252 Bellaire Blvd,77036
+"801 Town & Country Blvd,Ste A120,Houston, TX 77024",SWEET,Houston,2/5/2011,Coffee & Tea/Desserts/Cupcakes,10/22/2020,3,569,TX,801 Town & Country Blvd,77024
+"21953 Katy Fwy,Ste A,Katy, TX 77450",Freezy Frenzy,Katy,,Ice Cream & Frozen Yogurt/Bubble Tea/Juice Bars & Smoothies,10/25/2020,4,45,TX,21953 Katy Fwy,77450
+"10555 Westheimer Rd,Ste G,Houston, TX 77042",Banh Mi Bon,Houston,7/30/2019,Vietnamese,10/30/2020,4,41,TX,10555 Westheimer Rd,77042
+"3006 Blalock Rd,Houston, TX 77080",Jolly Cup Teahouse & Sandwich,Houston,4/5/2010,Sandwiches/Bubble Tea,7/14/2020,3,30,TX,3006 Blalock Rd,77080
+"16801 El Camino Real,Houston, TX 77058",The Teahouse Tapioca & Tea,Houston,4/10/2016,Coffee & Tea/Bubble Tea,10/8/2020,3,101,TX,16801 El Camino Real,77058
+"11131 Harlem Rd,Ste 600,Richmond, TX 77406",Om Nom Cafe,Richmond,1/5/2020,Vietnamese/Bubble Tea/Sandwiches,10/31/2020,4,34,TX,11131 Harlem Rd,77406
+"19111 Katy Fwy,Ste 300,Houston, TX 77094",Ling Long,Houston,8/24/2019,Chinese/Noodles,10/26/2020,4,52,TX,19111 Katy Fwy,77094
+"2129 Farm To Market 2920,Ste 260,Spring, TX 77388",The Teahouse Tapioca & Tea,Spring,2/2/2020,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,8/2/2020,4,7,TX,2129 Farm To Market 2920,77388
+"2055 Westheimer Rd,Ste 100,Houston, TX 77098",Pokeworks,Houston,2/8/2018,Poke/Salad/Sushi Bars,10/21/2020,4,253,TX,2055 Westheimer Rd,77098
+"13151 Bissonnet St,Ste 350,Houston, TX 77099",Sao Mai Diem Hen,Houston,12/27/2016,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,3/14/2019,4,9,TX,13151 Bissonnet St,77099
+"3412 Hwy 6,Ste N,Sugar Land, TX 77478",Mia’s Goodies,Sugar Land,5/30/2020,Desserts,10/25/2020,4,25,TX,3412 Hwy 6,77478
+"17458 Northwest Fwy,Jersey Village, TX 77040",Freezy Frenzy,Jersey Village,7/1/2017,Ice Cream & Frozen Yogurt/Bubble Tea/Juice Bars & Smoothies,10/29/2020,4,86,TX,17458 Northwest Fwy,77040
+"1660 W Lake Houston Pkwy,Ste 106,Houston, TX 77345",The Berry Bar,Houston,4/7/2012,Ice Cream & Frozen Yogurt/Juice Bars & Smoothies,,4,29,TX,1660 W Lake Houston Pkwy,77345
+"9889 Bellaire Blvd,Ste 112A,Houston, TX 77036",Nu Cafe,Houston,3/7/2011,Ice Cream & Frozen Yogurt/Coffee & Tea/Shaved Snow,,4,674,TX,9889 Bellaire Blvd,77036
+"10830 W Bellfort Ave,Houston, TX 77099",Simply Viet,Houston,6/3/2016,Juice Bars & Smoothies/Vietnamese/Bubble Tea,8/29/2020,4,151,TX,10830 W Bellfort Ave,77099
+"3416 Fm 2920 Rd,Ste 210,Spring, TX 77388",Fu Manchung,Spring,7/28/2017,Vietnamese/Bubble Tea/Juice Bars & Smoothies,10/30/2020,5,591,TX,3416 Fm 2920 Rd,77388
+"3645 Fm 1960,Ste 238,Houston, TX 77014",Kung Fu Tea,Houston,10/13/2016,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/17/2020,3,82,TX,3645 Fm 1960,77014
+"4926 Beechnut St,Houston, TX 77096",The Teahouse Tapioca & Tea,Houston,5/23/2017,Coffee & Tea/Juice Bars & Smoothies,10/18/2020,3,63,TX,4926 Beechnut St,77096
+"1243 Eldridge Rd,Sugar Land, TX 77478",Tea Time,Sugar Land,,Coffee & Tea/Bubble Tea,1/6/2020,4,4,TX,1243 Eldridge Rd,77478
+"8361 Spencer Hwy,Deer Park, TX 77536",Snow House,Deer Park,9/15/2017,Bubble Tea/Juice Bars & Smoothies/Shaved Snow,5/12/2020,4,15,TX,8361 Spencer Hwy,77536
+"9750 Bellaire Blvd,Ste 168,Houston, TX 77036",85°C Bakery Cafe,Houston,7/1/2017,Coffee & Tea/Patisserie/Cake Shop/Bakeries,10/24/2020,3,554,TX,9750 Bellaire Blvd,77036
+"609 Dulles Ave,Ste 800,Stafford, TX 77477",Fresh Boba,Stafford,7/18/2013,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,2/9/2020,4,118,TX,609 Dulles Ave,77477
+"9002 Chimney Rock Rd,Ste F,Houston, TX 77096",Fioza,Houston,2/24/2009,Coffee & Tea/Breakfast & Brunch,10/19/2020,4,246,TX,9002 Chimney Rock Rd,77096
+"11201 Bellaire Blvd,Ste A13,Houston, TX 77072",Tram's Teahouse,Houston,11/17/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,8/30/2020,3,10,TX,11201 Bellaire Blvd,77072
+"12804 Gulf Fwy,Ste 900,Houston, TX 77034",Bun Bo Hue Duc Chuong 3,Houston,7/14/2012,Vietnamese/Coffee & Tea/Juice Bars & Smoothies,10/20/2020,4,89,TX,12804 Gulf Fwy,77034
+"9344 Jones Rd,Houston, TX 77065",Pho Mai Tai,Houston,9/29/2010,Vietnamese/Chinese,10/21/2020,4,198,TX,9344 Jones Rd,77065
+"2735 Town Center Blvd N,Ste R,Sugar Land, TX 77479",Dulce Tapioca,Sugar Land,2/24/2009,Coffee & Tea/Bubble Tea,10/13/2020,4,247,TX,2735 Town Center Blvd N,77479
+"2470 Pearland Pky,Ste 240,BROOKSIDE VL, TX 77581",The Teahouse Tapioca & Tea,BROOKSIDE VL,10/17/2020,Bubble Tea/Coffee & Tea,11/1/2020,5,2,TX,2470 Pearland Pky,77581
+"3307 Spring Stuebner Rd,Ste E,Spring, TX 77389",K&S Kolaches & More,Spring,,American (Traditional)/Bubble Tea/Donuts,,,,TX,3307 Spring Stuebner Rd,77389
+"7672 Gessner Rd,Ste C,Houston, TX 77040",Royal Tea Cafe,Houston,5/13/2012,Juice Bars & Smoothies/Vietnamese/Sandwiches,9/1/2020,4,41,TX,7672 Gessner Rd,77040
+"6650 Corporate Dr,Ste E,Houston, TX 77036",Matcha Cafe Maiko,Houston,7/12/2018,Ice Cream & Frozen Yogurt/Coffee & Tea/Shaved Ice,10/25/2020,4,397,TX,6650 Corporate Dr,77036
+"20940 Katy Fwy,Ste F,Katy, TX 77449",Swirlee,Katy,10/22/2019,Coffee & Tea/Juice Bars & Smoothies/Macarons,10/24/2020,4,15,TX,20940 Katy Fwy,77449
+"1635 E Broadway St,Ste 125,Pearland, TX 77581",Nu's Wood Fire Grill,Pearland,10/29/2018,Vietnamese/Bubble Tea,10/1/2020,4,100,TX,1635 E Broadway St,77581
+"14175 NW Fwy,Houston, TX 77040",Tapioca Blossom Cafe,Houston,7/9/2020,Bubble Tea/Coffee & Tea,10/11/2020,4,4,TX,14175 NW Fwy,77040
+"2001 Commerce St,Houston, TX 77002",Tout Suite,Houston,9/7/2014,Cafes/Coffee & Tea/Desserts,11/1/2020,3,1544,TX,2001 Commerce St,77002
+"7067 Hwy 6 N,Houston, TX 77095",Banh Mi And Tea,Houston,6/17/2018,Sandwiches/Vietnamese/Coffee & Tea,9/16/2020,4,127,TX,7067 Hwy 6 N,77095
+"15825 Hope Village Dr,Friendswood, TX 77546",Heritage Cafe,Friendswood,2/27/2018,Coffee & Tea/Desserts/Macarons,10/30/2020,4,117,TX,15825 Hope Village Dr,77546
+"8388 W Sam Houston S,Ste 162,Houston, TX 77072",Pho Bo To & Bo Ne,Houston,6/25/2018,Vietnamese,8/9/2020,4,103,TX,8388 W Sam Houston S,77072
+"11009 1/2 Fuqua St,Houston, TX 77089",Tapioca,Houston,5/27/2011,Juice Bars & Smoothies/Ice Cream & Frozen Yogurt,4/9/2019,3,33,TX,11009 1/2 Fuqua St,77089
+"11510 Barker Cypress Rd,Cypress, TX 77433",Zero Degrees,Cypress,8/9/2018,Bubble Tea/Coffee & Tea/Chicken Wings,9/22/2020,4,162,TX,11510 Barker Cypress Rd,77433
+"5400 Pointe West Cir,Ste 180,Richmond, TX 77469",Mama Le,Richmond,1/23/2019,Vietnamese/Juice Bars & Smoothies/Bubble Tea,10/20/2020,4,92,TX,5400 Pointe West Cir,77469
+"4645 Hwy 6,Ste J,Sugar Land, TX 77478",Mango Hut,Sugar Land,9/20/2016,Desserts/Bubble Tea/Juice Bars & Smoothies,5/16/2020,3,149,TX,4645 Hwy 6,77478
+"10625 Veterans Memorial Dr,Ste H,Houston, TX 77038",Hang  Xanh Sandwiches & Boba Tea Zone,Houston,10/29/2009,Vietnamese/Bubble Tea/Sandwiches,10/14/2020,4,100,TX,10625 Veterans Memorial Dr,77038
+"9889 Bellaire Blvd,Ste E213,Houston, TX 77036",Sharetea,Houston,9/26/2015,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/3/2020,4,557,TX,9889 Bellaire Blvd,77036
+"6715 Bissonnet St 500 Houston Tx 77074,Houston, TX 77074",Q Wings Seafood  & Boba,Houston,10/18/2020,Chicken Wings/Seafood/Bubble Tea,10/23/2020,4,2,TX,6715 Bissonnet St 500 Houston Tx 77074,77074
+"2531 University Blvd,Houston, TX 77005",Purple Kow,Houston,8/24/2019,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/7/2020,4,66,TX,2531 University Blvd,77005
+"3825 Richmond Ave,Houston, TX 77027",7 Leaves Cafe,Houston,5/11/2020,Coffee & Tea/Bubble Tea/Macarons,10/24/2020,4,46,TX,3825 Richmond Ave,77027
+"718 W 18th St,Ste H,Houston, TX 77008",Teapresso Bar,Houston,5/18/2018,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/27/2020,4,278,TX,718 W 18th St,77008
+"12303 Jones Rd,Ste 100,Houston, TX 77070",New Tapioca Master,Houston,6/3/2015,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/5/2020,5,326,TX,12303 Jones Rd,77070
+"2089 Westheimer Rd,Houston, TX 77098",The Teahouse Tapioca & Tea,Houston,7/4/2006,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/30/2020,4,791,TX,2089 Westheimer Rd,77098
+"9393 Bellaire Blvd,Ste D,Houston, TX 77036",Tiger Sugar,Houston,11/1/2020,Bubble Tea/Desserts/Coffee & Tea,11/1/2020,5,1,TX,9393 Bellaire Blvd,77036
+"2400 Mid Ln,Ste 110,Houston, TX 77027",Hella Bubble,Houston,3/15/2019,Bubble Tea,10/22/2020,4,225,TX,2400 Mid Ln,77027
+"10211 Cypresswood Dr,Ste 1200,Houston, TX 77070",Yummie,Houston,1/7/2019,Sandwiches/Vietnamese/Bubble Tea,9/29/2020,4,38,TX,10211 Cypresswood Dr,77070
+"1127 Eldridge Pkwy,Ste 1030,Houston, TX 77077",Bao Bao Banh Mi,Houston,7/5/2017,Vietnamese/Sandwiches/Bubble Tea,10/29/2020,4,110,TX,1127 Eldridge Pkwy,77077
+"10623 Bellaire Blvd,Ste 143,Houston, TX 77072",Kravin' Fruit Bar,Houston,9/8/2012,Juice Bars & Smoothies/Bubble Tea/Desserts,10/1/2020,4,221,TX,10623 Bellaire Blvd,77072
+"9393 Bellaire Blvd,Ste A5,Houston, TX 77036",Tom N Toms Coffee,Houston,11/8/2019,Coffee & Tea/Cafes,10/28/2020,4,107,TX,9393 Bellaire Blvd,77036
+"8330 Long Point Rd,Ste E,Houston, TX 77055",Boba City,Houston,9/18/2017,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/8/2020,4,71,TX,8330 Long Point Rd,77055
+"10092 Veterans Memorial,Ste A,Houston, TX 77038",I Heart Boba,Houston,5/22/2011,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/7/2020,4,249,TX,10092 Veterans Memorial,77038
+"3730 Fm 2920 Rd,Ste 107,Spring, TX 77388",The Boba Shop,Spring,6/30/2015,Juice Bars & Smoothies/Bubble Tea/Coffee & Tea,9/9/2020,4,194,TX,3730 Fm 2920 Rd,77388
+"9393 Bellaire Blvd,Unit I,Houston, TX 77036",Meet Fresh,Houston,7/22/2019,Desserts/Bubble Tea/Shaved Ice,10/28/2020,3,116,TX,9393 Bellaire Blvd,77036
+"11818 Airline Dr,Ste I,Houston, TX 77037",Teaspoon of Boba,Houston,7/24/2019,Bubble Tea/Juice Bars & Smoothies/Ice Cream & Frozen Yogurt,8/25/2020,4,14,TX,11818 Airline Dr,77037
+"13480 Veterans Memorial Dr,Ste P2,Houston, TX 77014",Tea Bubblers,Houston,7/19/2020,Shaved Ice/Bubble Tea/Juice Bars & Smoothies,7/19/2020,5,1,TX,13480 Veterans Memorial Dr,77014
+"18445 W Lake Houston Pkwy,Ste A,Humble, TX 77346",Sweetland,Humble,1/29/2020,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/23/2020,4,27,TX,18445 W Lake Houston Pkwy,77346
+"10904 Scarsdale Blvd,Ste 210,Houston, TX 77089",Bobarista,Houston,7/21/2019,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,10/31/2020,4,40,TX,10904 Scarsdale Blvd,77089
+"12800 Scarsdale Blvd,Houston, TX 77089",Tapioca Xpress,Houston,3/31/2013,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,4/16/2020,4,148,TX,12800 Scarsdale Blvd,77089
+"8300 W Sam Houston Pkwy S,Ste 126,Houston, TX 77072",Tea Cup Cafe,Houston,4/20/2010,Coffee & Tea/Bubble Tea/Taiwanese,9/27/2020,3,144,TX,8300 W Sam Houston Pkwy S,77072
+"2007 W Alabama St,Houston, TX 77098",B&T Cafe,Houston,6/19/2018,Vietnamese/Sandwiches/Bubble Tea,10/9/2020,4,259,TX,2007 W Alabama St,77098
+"9104 Bellaire Blvd,Houston, TX 77036",Tapioca House,Houston,6/29/2006,Taiwanese/Bubble Tea/Juice Bars & Smoothies,8/7/2020,3,326,TX,9104 Bellaire Blvd,77036
+"3645 FM1960 W,Ste 188,Houston, TX 77068",Better Than Yummie,Houston,11/17/2016,Sandwiches/Bubble Tea/Vietnamese,10/19/2020,4,89,TX,3645 FM1960 W,77068
+"11920 Westheimer Rd,Ste H,Houston, TX 77077",Black Pearl,Houston,11/4/2019,Bubble Tea/Desserts/Coffee & Tea,9/14/2020,4,13,TX,11920 Westheimer Rd,77077
+"3010 Gears Rd,Ste C,Houston, TX 77067",BAMBU,Houston,10/14/2013,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/11/2020,4,87,TX,3010 Gears Rd,77067
+"9820 Gulf Fwy,Ste C3C,Houston-Gulf Fwy, TX 77034",BAMBU,Houston-Gulf Fwy,2/2/2014,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,3/17/2019,4,63,TX,9820 Gulf Fwy,77034
+"969 E Nasa Pkwy,Houston, TX 77058",Hello Tealicious,Houston,6/5/2016,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/25/2020,4,112,TX,969 E Nasa Pkwy,77058
+"21542 Tomball Pkwy,Ste F,Houston, TX 77070",Heavenly Beverages,Houston,4/2/2014,Bubble Tea/Coffee & Tea/Tea Rooms,10/25/2020,4,190,TX,21542 Tomball Pkwy,77070
+"7630 Fry Rd,Ste 400,Cypress, TX 77433",Vtea,Cypress,8/23/2020,Bubble Tea/Coffee & Tea,10/25/2020,5,2,TX,7630 Fry Rd,77433
+"9889 Bellaire Blvd,Ste 222,Houston, TX 77036",Kung Fu Tea,Houston,8/2/2013,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/1/2020,3,618,TX,9889 Bellaire Blvd,77036
+"4650 Hwy 6,Sugar Land, TX 77478",Ding Tea Sugar Land,Sugar Land,6/15/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/3/2020,4,96,TX,4650 Hwy 6,77478
+"8224 Kirby Dr,Houston, TX 77054",The Teahouse Tapioca and Tea,Houston,7/19/2019,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,9/4/2020,3,22,TX,8224 Kirby Dr,77054
+"5901 Bellaire Blvd,Ste 106,Houston, TX 77081",JuJu Tapioca,Houston,12/28/2017,Bubble Tea/Juice Bars & Smoothies/Desserts,6/22/2020,3,31,TX,5901 Bellaire Blvd,77081
+"10226 Hammerly Blvd,Houston, TX 77043",Tapioca Place,Houston,12/1/2010,Vietnamese/Sandwiches/Bubble Tea,8/28/2020,4,155,TX,10226 Hammerly Blvd,77043
+"3201 Louisiana St,Ste 106,Houston, TX 77006",Kung Fu Tea,Houston,7/5/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,8/30/2020,3,26,TX,3201 Louisiana St,77006
+"9889 Bellaire Blvd,Ste C316,Houston, TX 77036",Feng Cha Houston Chinatown,Houston,8/12/2019,Bubble Tea/Desserts,10/22/2020,4,82,TX,9889 Bellaire Blvd,77036
+"9855 Blackhawk Blvd,Ste C,Houston, TX 77075",KOI CHA - Tapioca Drinks & Snacks,Houston,2/26/2020,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/20/2020,4,9,TX,9855 Blackhawk Blvd,77075
+"10613 Bellaire Blvd,Ste A150,Houston, TX 77072",TEAholic,Houston,6/4/2016,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/11/2020,3,237,TX,10613 Bellaire Blvd,77072
+"3616 N Fry Rd,Ste 220,Katy, TX 77449",iSnak Cafe,Katy,9/20/2020,Coffee & Tea/Filipino/Bubble Tea,10/21/2020,3,3,TX,3616 N Fry Rd,77449
+"1041 Blalock Rd,Houston, TX 77055",Golden Oolong Tea,Houston,3/31/2012,Juice Bars & Smoothies/Bubble Tea/Taiwanese,9/28/2020,3,274,TX,1041 Blalock Rd,77055
+"8300 W Sam Houston Pkwy S,Ste 172,Houston, TX 77072",The Bep Teahouse,Houston,12/5/2017,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,10/11/2020,4,227,TX,8300 W Sam Houston Pkwy S,77072
+"9889 Bellaire Blvd,Ste E203,Houston, TX 77036",Tea Top,Houston,9/28/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/31/2020,4,221,TX,9889 Bellaire Blvd,77036
+"5901 Westheimer Rd,Ste B1,Houston, TX 77057",Nu Ice & Drinks,Houston,1/25/2014,Ice Cream & Frozen Yogurt/Coffee & Tea/Bubble Tea,10/11/2020,4,623,TX,5901 Westheimer Rd,77057
+"9889 Bellaire Blvd,Ste E217,Houston, TX 77036",Yumcha,Houston,10/5/2019,Bubble Tea/Bakeries/Tea Rooms,10/24/2020,4,108,TX,9889 Bellaire Blvd,77036
+"9600 Bellaire Blvd,Ste 138,Houston, TX 77036",Ding Tea,Houston,4/22/2019,Bubble Tea,10/31/2020,3,179,TX,9600 Bellaire Blvd,77036
+"9820 Gulf Fwy,Ste A9,Houston, TX 77034",OH MY TEA!,Houston,10/29/2013,Bubble Tea/Juice Bars & Smoothies,10/21/2020,4,88,TX,9820 Gulf Fwy,77034
+"2808 Milam St,Ste G,Houston, TX 77006",Cafe#13,Houston,9/28/2019,Coffee & Tea/Bubble Tea/Vietnamese,10/5/2020,4,95,TX,2808 Milam St,77006
+"1809 Eldridge Pkwy,Ste 109,Houston, TX 77077",Muse Tea,Houston,6/3/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/25/2020,4,215,TX,1809 Eldridge Pkwy,77077
+"9968 Bellaire Blvd,Ste 100A,Houston, TX 77036",Modern Tea,Houston,12/24/2018,Desserts/Bubble Tea/Coffee & Tea,8/13/2020,4,175,TX,9968 Bellaire Blvd,77036
+"6833 W Sam Houston Pkwy S,Ste 108,Houston, TX 77072",Presotea,Houston,6/13/2020,Desserts/Bubble Tea/Juice Bars & Smoothies,9/1/2020,4,22,TX,6833 W Sam Houston Pkwy S,77072
+"9750 Bellaire Blvd,Ste 188,Houston, TX 77036",Mr. Wish,Houston,12/8/2018,Bubble Tea/Juice Bars & Smoothies/Taiwanese,10/13/2020,4,98,TX,9750 Bellaire Blvd,77036
+"10944 Westheimer Rd,Houston, TX 77042",Kim's Tea House,Houston,5/3/2015,Bubble Tea/Sandwiches/Juice Bars & Smoothies,10/3/2020,4,167,TX,10944 Westheimer Rd,77042
+"9889 Bellaire Blvd,Ste C-318,Houston, TX 77036",Gong Cha,Houston,7/28/2016,Bubble Tea,10/21/2020,3,323,TX,9889 Bellaire Blvd,77036
+"3506 Scott St,Houston, TX 77004",Boba Chick,Houston,1/16/2020,Bubble Tea/Juice Bars & Smoothies,9/21/2020,4,27,TX,3506 Scott St,77004
+"1035 Blalock Rd,Houston, TX 77055",Nobibi,Houston,7/30/2019,Ice Cream & Frozen Yogurt,10/20/2020,4,102,TX,1035 Blalock Rd,77055
+"10611 Bellaire Blvd,Houston, TX 77072",Long Coffee,Houston,12/27/2013,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,9/15/2020,4,488,TX,10611 Bellaire Blvd,77072
+"4407 Cypress Creek Pkwy,Suite C,Houston, TX 77014",Ulike Tea,Houston,2/1/2020,Tea Rooms/Bubble Tea,10/24/2020,4,21,TX,4407 Cypress Creek Pkwy,77014
+"1354 B Nasa Pkwy,Houston, TX 77058",Ca Phe Phin,Houston,8/12/2010,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,9/9/2020,4,163,TX,1354 B Nasa Pkwy,77058
+"2000 Willowbrook Mall,Houston, TX 77070",Kokee Tea,Houston,10/21/2020,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,10/21/2020,5,1,TX,2000 Willowbrook Mall,77070
+"8910 Westheimer Rd,Houston, TX 77063",7 Leaves Cafe,Houston,9/12/2020,Coffee & Tea/Bubble Tea/Macarons,10/23/2020,4,7,TX,8910 Westheimer Rd,77063
+"12000 Bellaire Blvd,Houston, TX 77072",JTea,Houston,5/15/2018,Bubble Tea/Coffee & Tea,10/31/2020,4,154,TX,12000 Bellaire Blvd,77072
+"1003 Dairy Ashford Rd,Ste B,Houston, TX 77079",Bobo Tea,Houston,1/27/2020,Bubble Tea/Juice Bars & Smoothies,10/8/2020,4,31,TX,1003 Dairy Ashford Rd,77079
+"3224 Yoakum Blvd,Houston, TX 77006",Kung Fu Tea,Houston,2/16/2015,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/30/2020,3,326,TX,3224 Yoakum Blvd,77006
+"1001 Fannin St,Ste M160,Houston, TX 77002",Addictea Cafe,Houston,12/17/2013,Bubble Tea/Juice Bars & Smoothies,3/2/2020,4,33,TX,1001 Fannin St,77002
+"5710 Memorial Dr,Houston, TX 77007",The Teahouse Tapioca & Tea,Houston,5/13/2013,Bubble Tea/Coffee & Tea,9/22/2020,4,117,TX,5710 Memorial Dr,77007
+"12148 Bellaire Blvd,Ste 110,Houston, TX 77072",TeaTalk,Houston,12/4/2018,Bubble Tea/Coffee & Tea,10/26/2020,4,57,TX,12148 Bellaire Blvd,77072
+"1560 Eldridge Pkwy,Ste 162,Houston, TX 77077",Bubble Tea House,Houston,9/10/2012,Bubble Tea/Juice Bars & Smoothies/Sandwiches,10/31/2020,3,136,TX,1560 Eldridge Pkwy,77077
+"3422 Business Center Dr,Ste 142,Pearland, TX 77584",Ding Tea - Pearland,Pearland,7/29/2019,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/26/2020,4,64,TX,3422 Business Center Dr,77584
+"2441 Bay Area Blvd,Houston, TX 77058",Bubble Island,Houston,10/21/2007,Coffee & Tea/Desserts/Bubble Tea,8/25/2020,4,103,TX,2441 Bay Area Blvd,77058
+"506 Yale St,Houston, TX 77007",Teahouse Tapioca & Tea,Houston,10/27/2019,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/31/2020,3,33,TX,506 Yale St,77007
+"11111 Bellaire Blvd,Houston, TX 77072",Mama Mía Sugarcane Drinks,Houston,5/22/2019,Juice Bars & Smoothies,10/20/2020,4,132,TX,11111 Bellaire Blvd,77072
+"500 Baybrook Mall,Ste 8,Friendswood, TX 77546",Sharetea,Friendswood,8/12/2020,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,9/7/2020,4,9,TX,500 Baybrook Mall,77546
+"2518 Rice Blvd,Houston, TX 77005",The Teahouse Tapioca & Tea,Houston,10/21/2016,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,9/24/2020,3,110,TX,2518 Rice Blvd,77005
+"11724 Bellaire Blvd,Houston, TX 77072",Magic Cup,Houston,5/18/2016,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/30/2020,4,433,TX,11724 Bellaire Blvd,77072

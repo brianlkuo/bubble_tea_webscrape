@@ -1,0 +1,237 @@
+address,business_name,city,first_review_date,food_tags,last_review_date,rating,review_num,state,street,zip5
+"4328 Moorpark Ave,San Jose, CA 95129",Teaspoon,San Jose,9/19/2015,Bubble Tea/Desserts/Coffee & Tea,10/28/2020,4,737,CA,4328 Moorpark Ave,95129
+"10963 N Wolfe Rd,Cupertino, CA 95014",Happy Lemon,Cupertino,5/13/2017,Juice Bars & Smoothies/Bubble Tea,9/21/2020,4,154,CA,10963 N Wolfe Rd,95014
+"5681 Snell Ave,Ste 1,San Jose, CA 95123",Tapioca Express,San Jose,3/22/2006,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/16/2020,3,278,CA,5681 Snell Ave,95123
+"2200 Eastridge Loop,Ste 1091,Eastridge,San Jose, CA 95122",Quickly,San Jose,9/2/2013,Bubble Tea/Juice Bars & Smoothies/Asian Fusion,4/10/2020,3,112,CA,2200 Eastridge Loop,95122
+"6029 Snell Ave,San Jose, CA 95123",Snow's Creamery,San Jose,9/29/2019,Ice Cream & Frozen Yogurt/Bubble Tea/Creperies,9/5/2020,5,8,CA,6029 Snell Ave,95123
+"271 Castro St,Mountain View, CA 94041",Tea Era,Mountain View,12/5/2005,Coffee & Tea/Bubble Tea,10/26/2020,4,1560,CA,271 Castro St,94041
+"3655 N 1st St,San Jose, CA 95134",Honeyberry,San Jose,8/2/2016,Desserts/Shaved Ice/Coffee & Tea,3/4/2020,4,82,CA,3655 N 1st St,95134
+"1275 1st St,Gilroy, CA 95020",TeaLeaf,Gilroy,8/6/2018,Bubble Tea/Juice Bars & Smoothies/Sandwiches,11/1/2020,4,170,CA,1275 1st St,95020
+"272 Barber Ln,Milpitas, CA 95035",Ume Tea,Milpitas,10/4/2020,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/31/2020,4,20,CA,272 Barber Ln,95035
+"1171 Homestead Rd,Ste 115,Santa Clara, CA 95050",OMG Tea,Santa Clara,10/4/2018,Bubble Tea/Coffee & Tea,10/10/2020,4,126,CA,1171 Homestead Rd,95050
+"1732 N Milpitas Blvd,Milpitas, CA 95035",Ten Ren Tea of Milpitas,Milpitas,9/20/2006,Coffee & Tea,10/28/2020,4,749,CA,1732 N Milpitas Blvd,95035
+"310 S 3rd St,San Jose, CA 95112",Boba Bar,San Jose,7/25/2014,Bubble Tea/Asian Fusion,10/25/2020,3,531,CA,310 S 3rd St,95112
+"996 Lundy Ave,San Jose, CA 95133",Pekoe,San Jose,8/9/2019,Coffee & Tea/Bubble Tea/Tea Rooms,10/11/2020,4,205,CA,996 Lundy Ave,95133
+"520 Lawrence Expy,Ste 301,Sunnyvale, CA 94085",Happy Lemon,Sunnyvale,1/5/2018,Bubble Tea/Juice Bars & Smoothies,10/28/2020,4,241,CA,520 Lawrence Expy,94085
+"2487 Alvin Ave,San Jose, CA 95121",Shincha Tea,San Jose,3/12/2016,Coffee & Tea/Bubble Tea/Cafes,9/7/2020,4,401,CA,2487 Alvin Ave,95121
+"1875 S Bascom Ave,Ste 160,Campbell, CA 95008",Teaspoon,Campbell,7/5/2018,Bubble Tea/Shaved Ice/Coffee & Tea,10/31/2020,4,171,CA,1875 S Bascom Ave,95008
+"46873 Warm Spring Blvd,Fremont, CA 94539",Happy Lemon,Fremont,11/4/2017,Bubble Tea/Juice Bars & Smoothies,10/14/2020,4,234,CA,46873 Warm Spring Blvd,94539
+"3948 Washington Blvd,Fremont, CA 94538",Sharetea,Fremont,9/14/2016,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/12/2020,3,143,CA,3948 Washington Blvd,94538
+"22 N White Rd,Ste 30,San Jose, CA 95127",TeaZer,San Jose,5/21/2017,Bubble Tea/Vietnamese/Sandwiches,10/29/2020,4,134,CA,22 N White Rd,95127
+"742 Villa St,Mountain View, CA 94041",Villa Tea,Mountain View,11/25/2019,Bubble Tea/Desserts/American (Traditional),10/24/2020,3,28,CA,742 Villa St,94041
+"19540 Vallco Pkwy,Ste 160,Cupertino, CA 95014",SomiSomi,Cupertino,2/15/2019,Desserts/Ice Cream & Frozen Yogurt/Korean,10/28/2020,4,948,CA,19540 Vallco Pkwy,95014
+"43337 Boscell Rd,P9-C,Fremont, CA 94538",Meet Fresh,Fremont,6/29/2018,Desserts/Shaved Ice/Bubble Tea,10/20/2020,3,304,CA,43337 Boscell Rd,94538
+"36476 Fremont Blvd,Fremont, CA 94536",Hot Love Cafe,Fremont,11/14/2018,Bubble Tea/Desserts/Coffee & Tea,10/30/2020,4,229,CA,36476 Fremont Blvd,94536
+"1819 S Bascom Ave,Campbell, CA 95008",Barefoot Coffee Campbell,Campbell,10/1/2011,Coffee & Tea,10/30/2020,4,572,CA,1819 S Bascom Ave,95008
+"5970 Mowry Ave,Ste N,Newark, CA 94560",Tastea,Newark,5/29/2020,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/20/2020,4,87,CA,5970 Mowry Ave,94560
+"2855 Stevens Creek Blvd,Santa Clara, CA 95050",Sharetea,Santa Clara,6/14/2017,Bubble Tea/Coffee & Tea/Tea Rooms,10/3/2020,3,255,CA,2855 Stevens Creek Blvd,95050
+"1510 Monterey Rd,Ste 30,San Jose, CA 95110",Bee & Tea San Jose,San Jose,6/17/2018,Ice Cream & Frozen Yogurt/Bubble Tea/Bakeries,10/14/2020,3,79,CA,1510 Monterey Rd,95110
+"6195 Santa Teresa Blvd,San Jose, CA 95123",Pure Tea Bar,San Jose,6/28/2016,Bubble Tea/Juice Bars & Smoothies,10/8/2020,4,208,CA,6195 Santa Teresa Blvd,95123
+"2266 Senter Rd,Ste 128,San Jose, CA 95112",Passion-T Snacks & Desserts,San Jose,12/19/2016,Bubble Tea/Ice Cream & Frozen Yogurt/Juice Bars & Smoothies,10/17/2020,4,515,CA,2266 Senter Rd,95112
+"5379 Prospect Rd,San Jose, CA 95129",Happy Lemon,San Jose,12/15/2018,Juice Bars & Smoothies/Bubble Tea,10/16/2020,4,103,CA,5379 Prospect Rd,95129
+"185 Branham Ln,Ste 2,San Jose, CA 95136","Pop Up Tea, Coffee & Snacks",San Jose,2/11/2016,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,9/29/2020,4,572,CA,185 Branham Ln,95136
+"760 E Calaveras Blvd,Milpitas, CA 95035",i-Tea,Milpitas,2/15/2015,Ramen/Bubble Tea/Juice Bars & Smoothies,10/27/2020,4,820,CA,760 E Calaveras Blvd,95035
+"855 El Camino Real,Ste 120,Palo Alto, CA 94301",Boba Guys,Palo Alto,1/18/2019,Bubble Tea,11/1/2020,4,359,CA,855 El Camino Real,94301
+"7290 Bollinger Rd,San Jose, CA 95129",Tpumps,San Jose,10/10/2018,Bubble Tea/Juice Bars & Smoothies,10/22/2020,4,110,CA,7290 Bollinger Rd,95129
+"3958 Rivermark Plz,Santa Clara, CA 95054",Meet Fresh,Santa Clara,10/17/2020,Desserts/Shaved Ice/Bubble Tea,10/29/2020,2,5,CA,3958 Rivermark Plz,95054
+"422 W Capitol Expy,San Jose, CA 95136",Kay's Tea House,San Jose,3/23/2020,Bubble Tea/Coffee & Tea/Desserts,,5,66,CA,422 W Capitol Expy,95136
+"509 W Capitol Expy,San Jose, CA 95136",Tastea,San Jose,8/13/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/26/2020,4,128,CA,509 W Capitol Expy,95136
+"1688 Hostetter Rd,Ste C,San Jose, CA 95131",Happiness Cafe,San Jose,7/12/2012,Ice Cream & Frozen Yogurt/Vegan/Bubble Tea,10/26/2020,4,417,CA,1688 Hostetter Rd,95131
+"1600 Saratoga Ave,Ste 115,Westgate Center Mall,San Jose, CA 95129",Gong Cha,San Jose,9/20/2014,Bubble Tea/Coffee & Tea,10/10/2020,3,506,CA,1600 Saratoga Ave,95129
+"150 S 1st St,Ste 103,San Jose, CA 95113",Tea Villa,San Jose,12/27/2019,Bubble Tea/Juice Bars & Smoothies/Desserts,10/30/2020,3,42,CA,150 S 1st St,95113
+"2980 E Capitol Expy,Ste 50,San Jose, CA 95148",Tisane,San Jose,3/24/2019,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/28/2020,4,398,CA,2980 E Capitol Expy,95148
+"5700 Village Oaks Dr,Ste 40,San Jose, CA 95123",TZONE,San Jose,10/14/2018,Bubble Tea/Juice Bars & Smoothies,10/6/2020,3,48,CA,5700 Village Oaks Dr,95123
+"4131 El Camino Real,Ste 101,Palo Alto, CA 94306",Te'Amo Boba Tea x Mochi Donut,Palo Alto,3/13/2020,Bubble Tea/Donuts/Juice Bars & Smoothies,10/27/2020,4,78,CA,4131 El Camino Real,94306
+"19600 Vallco Pkwy,Ste 100,Cupertino, CA 95014",Tan-Cha,Cupertino,11/17/2019,Bubble Tea,10/31/2020,3,341,CA,19600 Vallco Pkwy,95014
+"860 Blossom Hill Rd,San Jose, CA 95123",Tleaf Teapresso,San Jose,8/30/2015,Coffee & Tea/Bubble Tea,9/23/2020,4,299,CA,860 Blossom Hill Rd,95123
+"2855 Stevens Creek Blvd,Santa Clara, CA 95050",Rabbit Rabbit Tea,Santa Clara,7/22/2018,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/22/2020,3,355,CA,2855 Stevens Creek Blvd,95050
+"3450 El Camino Real,Ste 103,Santa Clara, CA 95051",Teaspoon,Santa Clara,9/2/2017,Shaved Snow/Bubble Tea,10/22/2020,4,228,CA,3450 El Camino Real,95051
+"1180 Blossom Hill Rd,San Jose, CA 95118",Gong Cha,San Jose,2/23/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/29/2020,3,73,CA,1180 Blossom Hill Rd,95118
+"114 E El Camino Real,Sunnyvale, CA 94087",Tastea,Sunnyvale,10/5/2019,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/24/2020,4,118,CA,114 E El Camino Real,94087
+"630 Blossom Hill Rd,Ste 30,San Jose, CA 95123",Happy Lemon,San Jose,10/27/2018,Tea Rooms/Juice Bars & Smoothies/Bubble Tea,10/25/2020,4,116,CA,630 Blossom Hill Rd,95123
+"6950 Almaden Expy,San Jose, CA 95120",T4,San Jose,5/31/2017,Bubble Tea/Juice Bars & Smoothies/Desserts,10/30/2020,3,115,CA,6950 Almaden Expy,95120
+"18568 Prospect Rd,Saratoga, CA 95070",Bubble Tea Time,Saratoga,4/6/2017,Bubble Tea/Shaved Ice,10/27/2020,4,114,CA,18568 Prospect Rd,95070
+"1175 East Julian St,Ste 40,San Jose, CA 95116",Milk Tea Lab,San Jose,6/16/2020,Cafes/Bubble Tea,10/28/2020,4,43,CA,1175 East Julian St,95116
+"3247 South White Rd,San Jose, CA 95148",Tastea,San Jose,8/31/2018,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/30/2020,4,297,CA,3247 South White Rd,95148
+"2200 Eastridge Lp,San Jose, CA 95122",Tea Villa,San Jose,10/28/2017,Bubble Tea/Tea Rooms,10/23/2020,4,175,CA,2200 Eastridge Lp,95122
+"1671 N Capitol Ave,San Jose, CA 95132",T4,San Jose,8/12/2015,Bubble Tea,10/22/2020,3,305,CA,1671 N Capitol Ave,95132
+"5627 Cottle Rd,San Jose, CA 95123",Sharetea,San Jose,7/22/2017,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,7/19/2020,3,138,CA,5627 Cottle Rd,95123
+"378 Santana Row,Ste 1115,San Jose, CA 95128",Fantasia Coffee & Tea,San Jose,10/12/2004,Coffee & Tea/Desserts/Bubble Tea,10/24/2020,3,955,CA,378 Santana Row,95128
+"1728 Hostetter Rd,Ste 30,San Jose, CA 95131",Sharetea,San Jose,11/22/2014,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,7/16/2020,3,562,CA,1728 Hostetter Rd,95131
+"3005 Silver Creek Rd,Ste 184,San Jose, CA 95121",N7 Draft Tea and Coffee,San Jose,7/10/2019,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/23/2020,4,345,CA,3005 Silver Creek Rd,95121
+"925 Blossom Hill Rd,San Jose, CA 95123",Shake Tea,San Jose,6/5/2015,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,2/29/2020,4,121,CA,925 Blossom Hill Rd,95123
+"43691 Mission Blvd,Fremont, CA 94539",Umi Tea,Fremont,9/8/2020,Bubble Tea,10/17/2020,4,14,CA,43691 Mission Blvd,94539
+"457 Saratoga Ave,San Jose, CA 95129",Kung Fu Tea,San Jose,10/17/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,11/1/2020,3,155,CA,457 Saratoga Ave,95129
+"2520 Berryessa Rd,San Jose, CA 95132",T Spot Boba Drinks & Snacks,San Jose,6/30/2016,Bubble Tea/Coffee & Tea/Asian Fusion,10/23/2020,4,226,CA,2520 Berryessa Rd,95132
+"139 S Murphy Ave,Sunnyvale, CA 94086",K Tea Cafe,Sunnyvale,1/17/2018,Bubble Tea/Cafes/Taiwanese,10/29/2020,4,304,CA,139 S Murphy Ave,94086
+"200 Serra Way,Ste 12,Milpitas, CA 95035",MandRo Teahouse-Milpitas,Milpitas,9/21/2018,Bubble Tea/Shaved Ice,8/2/2020,4,174,CA,200 Serra Way,95035
+"1701 Lundy Ave,Ste 170,San Jose, CA 95131",Gong Cha,San Jose,11/1/2014,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/18/2020,3,546,CA,1701 Lundy Ave,95131
+"568 El Camino Real,Ste A,Sunnyvale, CA 94087",Sharetea,Sunnyvale,9/29/2016,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/23/2020,4,242,CA,568 El Camino Real,94087
+"528 Barber Ln,Milpitas, CA 95035",Fantasia Coffee & Tea,Milpitas,5/16/2005,Coffee & Tea/Bubble Tea/Desserts,9/29/2020,4,1190,CA,528 Barber Ln,95035
+"165 S Murphy Ave,Ste D,Sunnyvale, CA 94086",ATM Tea Bar,Sunnyvale,2/14/2020,Bubble Tea/Coffee & Tea,10/14/2020,4,42,CA,165 S Murphy Ave,94086
+"7372 Thornton Ave,Newark, CA 94560",Feng Cha Teahouse 奉茶,Newark,1/3/2019,Desserts/Bubble Tea/Coffee & Tea,10/30/2020,4,562,CA,7372 Thornton Ave,94560
+"40 S 1st St,San Jose, CA 95113",Tea Alley,San Jose,3/1/2018,Desserts/Taiwanese/Bubble Tea,10/29/2020,3,147,CA,40 S 1st St,95113
+"2202 Broadway St,Redwood City, CA 94063",Bobalicious,Redwood City,9/29/2014,Bubble Tea,10/31/2020,4,196,CA,2202 Broadway St,94063
+"3151 Senter Rd,Ste 120,San Jose, CA 95111",Ding Tea House,San Jose,10/5/2016,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/22/2020,3,158,CA,3151 Senter Rd,95111
+"10933 N Wolfe Rd,Cupertino, CA 95014",Fantasia Coffee & Tea,Cupertino,10/27/2005,Coffee & Tea/Desserts/Bubble Tea,11/1/2020,4,1122,CA,10933 N Wolfe Rd,95014
+"3005 Silver Creek Rd,Ste 170,San Jose, CA 95121",Soyful Desserts,San Jose,8/2/2016,Desserts/Bubble Tea,10/20/2020,4,266,CA,3005 Silver Creek Rd,95121
+"481 E San Carlos St,San Jose, CA 95112",Buddy Teahouse,San Jose,11/26/2018,Bubble Tea/Ramen/Coffee & Tea,10/11/2020,4,105,CA,481 E San Carlos St,95112
+"979 Story Rd,Ste 7012,San Jose, CA 95122",Teahee,San Jose,8/17/2017,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/29/2020,4,348,CA,979 Story Rd,95122
+"10887 N Wolfe Rd,Cupertino, CA 95014",Ume Tea,Cupertino,8/1/2019,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/31/2020,4,231,CA,10887 N Wolfe Rd,95014
+"311 N Capitol Ave,Ste C,San Jose, CA 95133",Happy Lemon,San Jose,3/31/2018,Bubble Tea/Juice Bars & Smoothies,10/2/2020,4,119,CA,311 N Capitol Ave,95133
+"999 Story Rd,Unit 9048,San Jose, CA 95122",Soyful Desserts,San Jose,8/8/2014,Desserts/Bubble Tea,10/7/2020,4,689,CA,999 Story Rd,95122
+"3005 Silver Creek Rd,Ste 192,San Jose, CA 95121",Simply Boba,San Jose,12/26/2014,Bubble Tea/Vietnamese/Juice Bars & Smoothies,10/3/2020,4,151,CA,3005 Silver Creek Rd,95121
+"82 Ranch Dr,Milpitas, CA 95035",TeaTop,Milpitas,11/10/2016,Coffee & Tea/Bubble Tea,10/17/2020,4,258,CA,82 Ranch Dr,95035
+"81 Curtner Ave,Ste 40,San Jose, CA 95112",Tapioca Express,San Jose,10/9/2011,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/27/2020,3,565,CA,81 Curtner Ave,95112
+"19058 Stevens Creek Blvd,Cupertino, CA 95014",O2 Valley,Cupertino,6/21/2020,Bubble Tea/Taiwanese,11/1/2020,4,88,CA,19058 Stevens Creek Blvd,95014
+"17 N 2nd St,San Jose, CA 95113",Paper Moon Cafe,San Jose,6/19/2020,Cafes/Bubble Tea,10/24/2020,4,60,CA,17 N 2nd St,95113
+"2191 Morrill Ave,San Jose, CA 95132",Yummi Tea Cafe,San Jose,3/22/2017,Bubble Tea/Hot Pot/Taiwanese,10/16/2020,4,350,CA,2191 Morrill Ave,95132
+"20916 Homestead Rd,Ste F,Cupertino, CA 95014",Tea Era,Cupertino,6/15/2014,Coffee & Tea/Bubble Tea/Taiwanese,10/23/2020,3,674,CA,20916 Homestead Rd,95014
+"1688 Hostetter Rd,Ste D,San Jose, CA 95131",BAMBU,San Jose,7/29/2007,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,8/23/2020,4,673,CA,1688 Hostetter Rd,95131
+"38509 Fremont Blvd,Fremont, CA 94536",Royaltea USA,Fremont,10/7/2016,Bubble Tea,10/30/2020,4,361,CA,38509 Fremont Blvd,94536
+"3074 El Camino Real,Santa Clara, CA 95051",Toco Tea,Santa Clara,2/13/2020,Bubble Tea,10/23/2020,4,61,CA,3074 El Camino Real,95051
+"2101 Showers Dr,Mountain View, CA 94040",Onemore,Mountain View,7/5/2020,Bubble Tea,10/31/2020,4,24,CA,2101 Showers Dr,94040
+"8155 Arroyo Cir,Ste 2,Gilroy Premium Outlets,Gilroy, CA 95020",Happy Lemon,Gilroy,11/28/2018,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/29/2020,4,99,CA,8155 Arroyo Cir,95020
+"75 E Santa Clara St,Fl 6,San Jose, CA 95113",Bobateani,San Jose,7/19/2017,Bubble Tea/Caterers,7/22/2020,5,26,CA,75 E Santa Clara St,95113
+"140 Paseo De San Antonio,San Jose, CA 95112",Gong Cha,San Jose,4/17/2017,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/28/2020,3,169,CA,140 Paseo De San Antonio,95112
+"1336 S Mary Ave,Sunnyvale, CA 94087",Calibear Cyber Cafe,Sunnyvale,8/8/2017,Bubble Tea/Internet Cafes/LAN Centers,10/5/2020,4,215,CA,1336 S Mary Ave,94087
+"1698 Hostetter Rd,San Jose, CA 95131",Teaspoon,San Jose,1/23/2019,Bubble Tea/Shaved Snow,10/21/2020,4,117,CA,1698 Hostetter Rd,95131
+"605 E El Camino Real,Sunnyvale, CA 94087",Happy Lemon,Sunnyvale,4/29/2017,Bubble Tea,10/29/2020,4,318,CA,605 E El Camino Real,94087
+"1171 Homestead Rd,Ste 140B,Santa Clara, CA 95050",Jiaren Cafe,Santa Clara,10/27/2019,Coffee & Tea/Desserts/Bubble Tea,11/1/2020,4,120,CA,1171 Homestead Rd,95050
+"231 E Santa Clara St,San Jose, CA 95113",Tea Village,San Jose,5/14/2018,Bubble Tea/Juice Bars & Smoothies,3/16/2020,4,82,CA,231 E Santa Clara St,95113
+"3129 Meridian Ave,Ste 20,San Jose, CA 95124",Jasmine Kocha,San Jose,4/6/2019,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/31/2020,4,114,CA,3129 Meridian Ave,95124
+"980 S Winchester Blvd,Ste 20,San Jose, CA 95128",TZONE Winchester,San Jose,3/19/2014,Juice Bars & Smoothies/Desserts/Coffee & Tea,10/11/2020,3,500,CA,980 S Winchester Blvd,95128
+"10271 Torre Ave,Cupertino, CA 95014",Hanlin Tea Room - Cupertino,Cupertino,3/1/2020,Tea Rooms,10/15/2020,4,39,CA,10271 Torre Ave,95014
+"1351 Jacklin Rd,Milpitas, CA 95035",White Rabbit,Milpitas,2/11/2020,Art Galleries/Bubble Tea/Coffee & Tea,10/20/2020,4,28,CA,1351 Jacklin Rd,95035
+"969 Story Rd,Ste 6081,San Jose, CA 95122",T4 Story Road,San Jose,11/22/2016,Bubble Tea/Coffee & Tea/Taiwanese,10/15/2020,3,225,CA,969 Story Rd,95122
+"San Jose, CA 95101",Boba Tteok,San Jose,6/13/2018,Bubble Tea/Desserts/Food Trucks,11/15/2018,4,12,CA,"San Jose, CA 95101",95101
+"624 Tennant Station,Morgan Hill, CA 95037",TeaLite Drinks & Snow,Morgan Hill,1/14/2016,Ice Cream & Frozen Yogurt/Bubble Tea/Juice Bars & Smoothies,8/9/2020,4,191,CA,624 Tennant Station,95037
+"225 Jackson St,San Jose, CA 95112",Aloha Fresh,San Jose,1/23/2019,Poke/Hawaiian/Bubble Tea,11/1/2020,4,217,CA,225 Jackson St,95112
+"6180 Jarvis Ave,Ste W,Newark, CA 94560",Ding Tea,Newark,2/25/2020,Bubble Tea,10/24/2020,4,79,CA,6180 Jarvis Ave,94560
+"2200 Eastridge Lp,Ste 2000,San Jose, CA 95122",Gong Cha,San Jose,4/22/2016,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/3/2020,4,238,CA,2200 Eastridge Lp,95122
+"46461 Mission Blvd,Fremont, CA 94539",Factory Tea Bar,Fremont,9/28/2017,Bubble Tea/Coffee & Tea/Fast Food,10/29/2020,4,482,CA,46461 Mission Blvd,94539
+"2569 S King Rd,C5,San Jose, CA 95122",Cafe & Tea Garden,San Jose,7/8/2019,Bubble Tea/Shaved Ice/Coffee & Tea,9/18/2020,4,35,CA,2569 S King Rd,95122
+"279 W Calaveras Blvd,Milpitas, CA 95035",Happy Lemon,Milpitas,12/7/2017,Bubble Tea/Juice Bars & Smoothies,10/31/2020,4,261,CA,279 W Calaveras Blvd,95035
+"3005 Silver Creek Rd,Ste 134,San Jose, CA 95121",Le Crème Cafe,San Jose,12/10/2017,Juice Bars & Smoothies/Donuts,10/31/2020,4,356,CA,3005 Silver Creek Rd,95121
+"10445 S De Anza Blvd,Unit 103,Cupertino, CA 95014",Vampire Penguin - Cupertino,Cupertino,1/19/2020,Shaved Ice/Ice Cream & Frozen Yogurt/Bubble Tea,10/25/2020,4,40,CA,10445 S De Anza Blvd,95014
+"677 Tasman Dr,Sunnyvale, CA 94089",Boba Drive,Sunnyvale,2/2/2019,Bubble Tea/Desserts/Cafes,10/25/2020,4,330,CA,677 Tasman Dr,94089
+"979 Story Rd,Ste 7084,San Jose, CA 95122",Sweet Gelato Tea Lounge,San Jose,4/4/2015,Bubble Tea/Gelato/Coffee & Tea,11/1/2020,4,1248,CA,979 Story Rd,95122
+"201 W Calaveras Blvd,Milpitas, CA 95035",Teaspoon,Milpitas,10/30/2015,Coffee & Tea/Desserts/Tea Rooms,10/26/2020,4,486,CA,201 W Calaveras Blvd,95035
+"199 E Campbell Ave,Campbell, CA 95008",Breaktime Tea,Campbell,10/9/2019,Bubble Tea/Coffee & Tea/Desserts,10/6/2020,4,66,CA,199 E Campbell Ave,95008
+"301 N Jackson Ave,San Jose, CA 95133",MILQ Tea Lounge,San Jose,4/9/2018,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,9/28/2020,3,458,CA,301 N Jackson Ave,95133
+"403 N Capitol Ave,San Jose, CA 95133",The Tea Zone Lounge,San Jose,4/21/2017,Bubble Tea/Tea Rooms/Juice Bars & Smoothies,3/1/2020,3,138,CA,403 N Capitol Ave,95133
+"1147 S De Anza Blvd,San Jose, CA 95129",Yi Fang Taiwan Fruit Tea,San Jose,7/15/2020,Bubble Tea/Juice Bars & Smoothies,10/24/2020,3,69,CA,1147 S De Anza Blvd,95129
+"15700 Monterey Rd,Ste 100,Morgan Hill, CA 95037",EYEfiniTEA Optique & Lounge,Morgan Hill,10/21/2016,Eyewear & Opticians/Bubble Tea/Ice Cream & Frozen Yogurt,10/29/2020,4,188,CA,15700 Monterey Rd,95037
+"2855 Stevens Creek Blvd,Ste 2170,Santa Clara, CA 95050",Lucky Tea,Santa Clara,9/19/2019,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,9/30/2020,3,125,CA,2855 Stevens Creek Blvd,95050
+"805 E El Camino Real,Ste F,Mountain View, CA 94040",The Tea Zone & Fruit Bar,Mountain View,1/7/2017,Coffee & Tea/Desserts/Bubble Tea,,4,198,CA,805 E El Camino Real,94040
+"3969 Rivermark Plz,Santa Clara, CA 95054",Fantasia Coffee & Tea,Santa Clara,9/2/2006,Coffee & Tea/Desserts/Bubble Tea,9/29/2020,3,480,CA,3969 Rivermark Plz,95054
+"1310 Tully Rd,Ste 108,San Jose, CA 95122",Urban Tea Cafe,San Jose,8/24/2017,Coffee & Tea/Bubble Tea/Vegetarian,10/24/2020,4,176,CA,1310 Tully Rd,95122
+"540 Barber Ln,Milpitas, CA 95035",T4,Milpitas,3/30/2016,Bubble Tea/Juice Bars & Smoothies/Ramen,10/23/2020,3,418,CA,540 Barber Ln,95035
+"4750 Almaden Expy,Ste 136,San Jose, CA 95118",The Tea Zone & Fruit Bar,San Jose,5/3/2016,Juice Bars & Smoothies/Desserts/Coffee & Tea,9/19/2020,4,148,CA,4750 Almaden Expy,95118
+"1658 E Capitol Expy,San Jose, CA 95121",Teasociety,San Jose,5/17/2014,Coffee & Tea/Juice Bars & Smoothies,10/26/2020,3,712,CA,1658 E Capitol Expy,95121
+"2785 El Camino Real,Santa Clara, CA 95051",Beastea,Santa Clara,10/31/2017,Coffee & Tea/Juice Bars & Smoothies/Desserts,10/24/2020,4,247,CA,2785 El Camino Real,95051
+"1080 Kiely Blvd,Santa Clara, CA 95051",The Moo Bar,Santa Clara,4/3/2016,Ice Cream & Frozen Yogurt/Bubble Tea/Desserts,4/6/2020,3,528,CA,1080 Kiely Blvd,95051
+"2855 Stevens Creek Blvd,Ste 1089,Santa Clara, CA 95050",CoCo Fresh Tea & Juice Valley Fair,Santa Clara,11/25/2019,Bubble Tea/Juice Bars & Smoothies,10/26/2020,3,53,CA,2855 Stevens Creek Blvd,95050
+"5663 Snell Ave,San Jose, CA 95123",Oros Thai Chicken & Rice,San Jose,1/23/2019,Thai/Bubble Tea,10/29/2020,4,156,CA,5663 Snell Ave,95123
+"795 E El Camino Real,Sunnyvale, CA 94087",Bee & Tea,Sunnyvale,5/23/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/24/2020,3,113,CA,795 E El Camino Real,94087
+"927 E Arques Ave,Ste 151,Sunnyvale, CA 94085",TeaFans,Sunnyvale,11/11/2016,Bubble Tea,8/19/2020,3,133,CA,927 E Arques Ave,94085
+"1156 Laurel St,San Carlos, CA 94070",Tea Juice,San Carlos,9/16/2020,Bubble Tea/Juice Bars & Smoothies,10/30/2020,4,11,CA,1156 Laurel St,94070
+"4546 El Camino Real,Los Altos, CA 94022",Teaspoon,Los Altos,3/14/2015,Coffee & Tea/Shaved Ice/Bubble Tea,10/26/2020,4,908,CA,4546 El Camino Real,94022
+"2569 King Rd,Ste C-9,San Jose, CA 95122",Pho 21,San Jose,3/20/2017,Vietnamese/Juice Bars & Smoothies/Bubble Tea,10/20/2020,3,148,CA,2569 King Rd,95122
+"2421 The Alameda,Ste 101,Santa Clara, CA 95050",Tea Plus,Santa Clara,5/13/2019,Taiwanese/Bubble Tea,10/21/2020,3,65,CA,2421 The Alameda,95050
+"2797 El Camino Real,Redwood City, CA 94061",Pink Pantherz Espresso,Redwood City,10/21/2018,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,11/1/2020,3,32,CA,2797 El Camino Real,94061
+"1082 E El Camino Real,Ste 6,Sunnyvale, CA 94087",Cocohodo,Sunnyvale,12/7/2013,Desserts/Coffee & Tea,10/2/2020,4,513,CA,1082 E El Camino Real,94087
+"2712 Augustine Dr,Ste 110,Santa Clara, CA 95054",Gong cha,Santa Clara,9/18/2019,Bubble Tea,10/30/2020,4,63,CA,2712 Augustine Dr,95054
+"1191 E Calaveras Blvd,Milpitas, CA 95035",Gram Cafe & Pancakes - Milpitas,Milpitas,7/3/2020,Cafes/Desserts/Juice Bars & Smoothies,10/31/2020,4,119,CA,1191 E Calaveras Blvd,95035
+"31877 Alvarado Blvd,Union City, CA 94587",Boba Fitt Drinks,Union City,8/25/2017,Bubble Tea,11/1/2020,3,288,CA,31877 Alvarado Blvd,94587
+"2857 Senter Rd,Ste G,San Jose, CA 95111",Meow Tea,San Jose,3/9/2015,Asian Fusion/Desserts/Coffee & Tea,9/19/2020,4,350,CA,2857 Senter Rd,95111
+"1111 Story Rd,Ste 1017,San Jose, CA 95122",Nuoc Mia Ninh Kieu Fresh Juice,San Jose,11/29/2007,Juice Bars & Smoothies/Fruits & Veggies,10/10/2020,4,208,CA,1111 Story Rd,95122
+"1777 N Milpitas Blvd,Milpitas, CA 95035",Cha Cha,Milpitas,12/6/2019,Bubble Tea/Coffee & Tea/Tea Rooms,10/27/2020,4,76,CA,1777 N Milpitas Blvd,95035
+"42130 Blacow Rd,Fremont, CA 94538",Tpumps,Fremont,11/12/2019,Bubble Tea/Juice Bars & Smoothies,10/23/2020,4,121,CA,42130 Blacow Rd,94538
+"47 N Santa Cruz Ave,Los Gatos, CA 95030",Tea Fermata,Los Gatos,10/27/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/31/2020,4,75,CA,47 N Santa Cruz Ave,95030
+"1947 Tully Rd,San Jose, CA 95122",Oasis Pure Water  & Boba Drinks,San Jose,11/27/2019,Bubble Tea/Water Stores/Juice Bars & Smoothies,9/27/2020,4,5,CA,1947 Tully Rd,95122
+"1723 N Milpitas Blvd,Milpitas, CA 95035",Chick & Tea Milpitas,Milpitas,7/16/2016,Taiwanese/Bubble Tea,10/28/2020,3,275,CA,1723 N Milpitas Blvd,95035
+"19505 Stevens Creek Blvd,Ste 102,Cupertino, CA 95014",T4 Cupertino,Cupertino,11/14/2017,Bubble Tea,8/22/2020,3,108,CA,19505 Stevens Creek Blvd,95014
+"46164 Warm Springs Blvd,Unit 234,Fremont, CA 94539",Cha Express,Fremont,5/25/2019,Bubble Tea,10/20/2020,4,90,CA,46164 Warm Springs Blvd,94539
+"19501 Stevens Creek Blvd,Ste 101,Cupertino, CA 95014",Cafe LaTTea,Cupertino,8/26/2012,Cafes/Coffee & Tea,11/1/2020,3,886,CA,19501 Stevens Creek Blvd,95014
+"1030 Piedmont Rd,Ste E,San Jose, CA 95132",Oh My Boba,San Jose,10/23/2018,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,7/7/2020,4,156,CA,1030 Piedmont Rd,95132
+"3900 Smith St,Union City, CA 94587",Hippies Brew,Union City,2/12/2020,Coffee & Tea/Bubble Tea/Breakfast & Brunch,10/31/2020,4,178,CA,3900 Smith St,94587
+"993 El Camino Real,Menlo Park, CA 94025",Tea It Up,Menlo Park,2/14/2020,Bubble Tea,10/10/2020,4,59,CA,993 El Camino Real,94025
+"3005 Silver Creek Rd,Ste 174,San Jose, CA 95121",Voila Bakery And Tea,San Jose,1/5/2019,Bakeries/Coffee & Tea/Desserts,10/27/2020,4,103,CA,3005 Silver Creek Rd,95121
+"1601 Branham Ln,Spc 3,San Jose, CA 95118",Milk Tea Lab,San Jose,8/7/2019,Bubble Tea/Juice Bars & Smoothies,10/30/2020,4,226,CA,1601 Branham Ln,95118
+"1816 Tully Rd,Ste 166,San Jose, CA 95122",Bubbly,San Jose,1/21/2017,Bubble Tea,10/31/2020,4,465,CA,1816 Tully Rd,95122
+"4306 Moorpark Ave,San Jose, CA 95129",N7 Draft Tea + Coffee,San Jose,6/10/2020,Coffee & Tea/Bubble Tea,10/27/2020,4,77,CA,4306 Moorpark Ave,95129
+"375 Saratoga Ave,San Jose, CA 95129",7 Leaves Cafe,San Jose,5/28/2019,Bubble Tea/Coffee & Tea/Macarons,11/1/2020,4,413,CA,375 Saratoga Ave,95129
+"2390 Almaden Rd,Ste 30,San Jose, CA 95125",Milk + Ice,San Jose,1/23/2019,Ice Cream & Frozen Yogurt/Desserts/Bubble Tea,10/25/2020,4,221,CA,2390 Almaden Rd,95125
+"1694 Berryessa Rd,San Jose, CA 95133",Toco Tea,San Jose,3/31/2018,Bubble Tea,10/30/2020,4,533,CA,1694 Berryessa Rd,95133
+"19620 Stevens Creek Blvd,Ste 180,Cupertino, CA 95014",Tiger Sugar - Cupertino,Cupertino,10/7/2020,Bubble Tea/Coffee & Tea/Desserts,11/1/2020,4,94,CA,19620 Stevens Creek Blvd,95014
+"14554 Big Basin Way,Saratoga, CA 95070",Tea Lyfe Saratoga,Saratoga,8/23/2020,Bubble Tea/Coffee & Tea/Desserts,10/27/2020,4,39,CA,14554 Big Basin Way,95070
+"3276 S White Rd,San Jose, CA 95148",Pekoe,San Jose,1/3/2015,Coffee & Tea/Bubble Tea/Tea Rooms,10/31/2020,4,2316,CA,3276 S White Rd,95148
+"326 N Santa Cruz Ave,Los Gatos, CA 95030",Glazier,Los Gatos,11/30/2018,Ice Cream & Frozen Yogurt/Bubble Tea/Coffee & Tea,3/17/2020,4,86,CA,326 N Santa Cruz Ave,95030
+"3125 Mission College Blvd,Santa Clara, CA 95054",World Wrapps 2.0,Santa Clara,11/10/2017,Wraps/Bubble Tea/Fast Food,10/31/2020,4,196,CA,3125 Mission College Blvd,95054
+"686 Barber Ln,Milpitas, CA 95035",Honey Creme,Milpitas,8/18/2018,Ice Cream & Frozen Yogurt/Bubble Tea,10/20/2020,3,171,CA,686 Barber Ln,95035
+"374 E Santa Clara St,San Jose, CA 95113",Kali Noodles and Tea Bar,San Jose,8/22/2016,Vietnamese/Coffee & Tea/Noodles,10/23/2020,4,301,CA,374 E Santa Clara St,95113
+"1030 Castro St,Ste A,Mountain View, CA 94040",Oh! Honey Snow Ice,Mountain View,8/24/2019,Shaved Ice/Desserts/Bubble Tea,7/16/2020,4,43,CA,1030 Castro St,94040
+"43360 Mission Blvd,Ste 120,Fremont, CA 94539",TEAZENTEA FREMONT,Fremont,8/1/2020,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,10/31/2020,4,44,CA,43360 Mission Blvd,94539
+"1147 S De Anza Blvd,San Jose, CA 95129",Yifang Taiwan Fruit Tea 一芳台灣水果茶,San Jose,9/6/2020,Bubble Tea/Juice Bars & Smoothies,10/31/2020,3,7,CA,1147 S De Anza Blvd,95129
+"3147 Mission College Blvd,Santa Clara, CA 95054",Pho Hoa Noodle Soup & Jazen Tea,Santa Clara,7/26/2016,Vietnamese/Bubble Tea,10/24/2020,3,405,CA,3147 Mission College Blvd,95054
+"20956 Homestead Rd,Ste D,Cupertino, CA 95014",RareTea,Cupertino,9/30/2019,Bubble Tea/Coffee & Tea,10/5/2020,4,80,CA,20956 Homestead Rd,95014
+"4055 Evergreen Village Sq,Ste 150,San Jose, CA 95135",Yoogool,San Jose,7/30/2012,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/2/2020,3,140,CA,4055 Evergreen Village Sq,95135
+"587 E El Camino Real,Sunnyvale, CA 94087",Chick & Tea,Sunnyvale,6/15/2018,Taiwanese/Bubble Tea,10/25/2020,3,161,CA,587 E El Camino Real,94087
+"372 Barber Ln,Milpitas, CA 95035",Gong Cha,Milpitas,4/7/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,9/18/2020,3,186,CA,372 Barber Ln,95035
+"522 Barber Ln,Milpitas, CA 95035",Shihlin Taiwan Street Snacks,Milpitas,12/20/2016,Taiwanese/Fast Food,10/24/2020,4,636,CA,522 Barber Ln,95035
+"872 Laurel St,San Carlos, CA 94070",Boba Guys,San Carlos,5/19/2017,Bubble Tea,10/28/2020,4,552,CA,872 Laurel St,94070
+"55 N Milpitas Blvd,Milpitas, CA 95035",Teasociety,Milpitas,5/11/2016,Coffee & Tea/Desserts/Juice Bars & Smoothies,10/30/2020,3,373,CA,55 N Milpitas Blvd,95035
+"165 University Ave,Palo Alto, CA 94301",T4,Palo Alto,10/26/2014,Juice Bars & Smoothies/Coffee & Tea/Bubble Tea,10/26/2020,3,359,CA,165 University Ave,94301
+"114 Cochrane Plz,Morgan Hill, CA 95037",T4 Morgan Hill,Morgan Hill,4/30/2017,Bubble Tea/Tea Rooms/Juice Bars & Smoothies,10/31/2020,4,129,CA,114 Cochrane Plz,95037
+"3623 Thornton Ave,Fremont, CA 94536",99% Tea House,Fremont,7/22/2016,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/31/2020,4,462,CA,3623 Thornton Ave,94536
+"1590 Washington Blvd,Fremont, CA 94539",Freshie Tea,Fremont,5/27/2018,Bubble Tea/Juice Bars & Smoothies/Ice Cream & Frozen Yogurt,9/5/2020,4,107,CA,1590 Washington Blvd,94539
+"456 Cambridge Ave,Palo Alto, CA 94306",Pop Tea Bar,Palo Alto,6/14/2015,Bubble Tea/Coffee & Tea,10/4/2020,4,271,CA,456 Cambridge Ave,94306
+"11 Camp Evers Ln,Scotts Valley, CA 95066",Soul Sweets The Tea House,Scotts Valley,11/20/2019,Coffee & Tea/Bubble Tea/Ice Cream & Frozen Yogurt,10/29/2020,4,69,CA,11 Camp Evers Ln,95066
+"39269 Cedar Blvd,Newark, CA 94560",TeaTop,Newark,3/29/2018,Bubble Tea/Coffee & Tea,10/4/2020,4,170,CA,39269 Cedar Blvd,94560
+"1350 S Park Victoria Dr,Ste 30,Milpitas, CA 95035",Quickly,Milpitas,10/29/2009,Coffee & Tea/Asian Fusion/Bubble Tea,10/27/2020,2,257,CA,1350 S Park Victoria Dr,95035
+"34956 Newark Blvd,Newark, CA 94560",MandRo Teahouse,Newark,8/25/2017,Bubble Tea/Shaved Ice,10/29/2020,4,504,CA,34956 Newark Blvd,94560
+"211 S 9th St,San Jose, CA 95112",Tea Degree,San Jose,1/18/2020,Bubble Tea,1/18/2020,3,1,CA,211 S 9th St,95112
+"2285 McKee Rd,San Jose, CA 95116",Tapioca Express,San Jose,8/28/2009,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,9/23/2020,2,210,CA,2285 McKee Rd,95116
+"1183 S De Anza Blvd,Ste 10,San Jose, CA 95129",85°C Bakery Cafe,San Jose,4/24/2014,Bakeries/Coffee & Tea/Patisserie/Cake Shop,10/10/2020,3,998,CA,1183 S De Anza Blvd,95129
+"1600 S De Anza Blvd,Ste 20,San Jose, CA 95129",QQQ Tea,San Jose,11/30/2006,Coffee & Tea,6/29/2020,3,129,CA,1600 S De Anza Blvd,95129
+"1696 Tully Rd,San Jose, CA 95122",Coffee Lovers,San Jose,9/1/2018,Bubble Tea/Coffee & Tea/Breakfast & Brunch,10/29/2020,3,111,CA,1696 Tully Rd,95122
+"1710 N Milpitas Blvd,Milpitas, CA 95035",Tapioca Express,Milpitas,1/13/2007,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,7/17/2020,3,265,CA,1710 N Milpitas Blvd,95035
+"89 S Park Victoria Dr,Milpitas, CA 95035",BAMBU,Milpitas,6/5/2012,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/18/2020,3,227,CA,89 S Park Victoria Dr,95035
+"439 Waverley St,Palo Alto, CA 94301",Gong Cha,Palo Alto,2/14/2015,Bubble Tea,10/28/2020,4,342,CA,439 Waverley St,94301
+"Bay Area, CA 94544",Bay Bridge Coffee and Tea,Bay Area,8/7/2016,Coffee & Tea/Bubble Tea/Food Stands,6/3/2018,2,3,CA,"Bay Area, CA 94544",94544
+"39030 Paseo Padre Pkwy,Fremont, CA 94538",TECO Tea & Coffee Bar,Fremont,10/22/2017,Coffee & Tea/Desserts/Bubble Tea,10/15/2020,4,384,CA,39030 Paseo Padre Pkwy,94538
+"540 Bryant St,Ste 100B,Palo Alto, CA 94301",Sharetea,Palo Alto,6/13/2016,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/7/2020,3,202,CA,540 Bryant St,94301
+"34133 Fremont Blvd,Fremont, CA 94555",Yi Fang Taiwan Fruit Tea,Fremont,2/15/2020,Bubble Tea/Juice Bars & Smoothies,10/31/2020,4,84,CA,34133 Fremont Blvd,94555
+"1834 Tully Rd,San Jose, CA 95122",Jazen Tea,San Jose,9/20/2012,Coffee & Tea,8/26/2020,3,784,CA,1834 Tully Rd,95122
+"2086 Newpark Mall,Ste 1036,Newark, CA 94560",It's Boba Time,Newark,10/30/2019,Bubble Tea/Juice Bars & Smoothies,10/31/2020,4,44,CA,2086 Newpark Mall,94560
+"5815 Cottle Rd,San Jose, CA 95123",Pho Boba,San Jose,8/16/2018,Vietnamese/Bubble Tea,10/10/2020,3,85,CA,5815 Cottle Rd,95123
+"1000 Lafayette St,Ste F,Santa Clara, CA 95050",Butterfly,Santa Clara,3/2/2017,Bubble Tea/Juice Bars & Smoothies/Sandwiches,9/9/2020,4,171,CA,1000 Lafayette St,95050
+"1641 Hollenbeck Ave,Sunnyvale, CA 94087",Gong Cha,Sunnyvale,4/2/2017,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/16/2020,4,125,CA,1641 Hollenbeck Ave,94087
+"8650 San Ysidro Ave,Ste 102,Gilroy, CA 95020",Star Tea,Gilroy,2/27/2017,Bubble Tea/Juice Bars & Smoothies,10/20/2020,4,122,CA,8650 San Ysidro Ave,95020
+"1788 Decoto Rd,Union City, CA 94587",CAFFE:iN,Union City,1/21/2019,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/25/2020,4,307,CA,1788 Decoto Rd,94587
+"5632 Thornton Ave,Newark, CA 94560",Bon Mange,Newark,8/28/2020,Bubble Tea/Shaved Ice/Coffee & Tea,10/31/2020,4,3,CA,5632 Thornton Ave,94560
+"1712 Miramonte Ave,Ste A,Mountain View, CA 94040",Tea Annie,Mountain View,8/14/2015,Bubble Tea/Tea Rooms/Juice Bars & Smoothies,10/17/2020,4,165,CA,1712 Miramonte Ave,94040
+"969 Story Rd,Ste 6033,San Jose, CA 95122",Teazu,San Jose,2/3/2018,Bubble Tea/Tea Rooms/Coffee & Tea,10/18/2020,3,260,CA,969 Story Rd,95122
+"189 W Washington Ave,Sunnyvale, CA 94086",BAMBU,Sunnyvale,12/12/2013,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/22/2020,3,382,CA,189 W Washington Ave,94086
+"5353 Almaden Expy,Ste 90,San Jose, CA 95118",Yopop,San Jose,2/26/2012,Desserts/Ice Cream & Frozen Yogurt/Coffee & Tea,10/3/2020,4,126,CA,5353 Almaden Expy,95118
+"46809 Warm Springs Blvd,Fremont, CA 94539",Teaspoon,Fremont,10/9/2020,Bubble Tea/Coffee & Tea/Shaved Snow,10/31/2020,4,6,CA,46809 Warm Springs Blvd,94539
+"2090 N Capitol Ave,Ste C,San Jose, CA 95132",Kokonut Desserts,San Jose,6/22/2019,Desserts/Bubble Tea/Juice Bars & Smoothies,10/28/2020,4,123,CA,2090 N Capitol Ave,95132
+"2255 The Alameda,Santa Clara, CA 95050",Woof's Bar,Santa Clara,11/10/2019,Bubble Tea/Bars/Juice Bars & Smoothies,10/23/2020,4,130,CA,2255 The Alameda,95050
+"2936 Aborn Square Rd,San Jose, CA 95121",i-Tea,San Jose,8/22/2016,Bubble Tea/Tea Rooms/Juice Bars & Smoothies,10/30/2020,4,511,CA,2936 Aborn Square Rd,95121
+"212 Barber Ct,Milpitas, CA 95035",Yi Fang Taiwan Fruit Tea,Milpitas,1/11/2020,Bubble Tea/Juice Bars & Smoothies,10/27/2020,4,210,CA,212 Barber Ct,95035
+"10881 N Wolfe Rd,Cupertino, CA 95014",Ten Ren Tea,Cupertino,2/20/2006,Bubble Tea/Tea Rooms,10/28/2020,4,935,CA,10881 N Wolfe Rd,95014
+"989 Story Rd,Ste 8018,San Jose, CA 95122",Tea Lyfe Drinks,San Jose,1/23/2015,Bubble Tea/Coffee & Tea/Desserts,10/30/2020,4,995,CA,989 Story Rd,95122
+"110 E San Fernando St,San Jose, CA 95112",Breaktime Tea,San Jose,1/17/2013,Cafes/Bubble Tea,10/20/2020,4,581,CA,110 E San Fernando St,95112
+"1576 Branham Ln,San Jose, CA 95118",Boba Pub,San Jose,9/18/2014,Bubble Tea,10/20/2020,4,549,CA,1576 Branham Ln,95118
+"1055 E Brokaw Rd,Ste 40,San Jose, CA 95131",Bobaholics,San Jose,11/15/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/31/2020,4,299,CA,1055 E Brokaw Rd,95131
+"20488 Stevens Creek Blvd,Ste 2040,Cupertino, CA 95014",Happy Lemon,Cupertino,5/7/2016,Bubble Tea/Juice Bars & Smoothies,10/26/2020,4,779,CA,20488 Stevens Creek Blvd,95014
+"1743 Berryessa Rd,San Jose, CA 95131",7 Leaves Cafe,San Jose,1/29/2019,Coffee & Tea,10/29/2020,4,922,CA,1743 Berryessa Rd,95131
+"1160 N Capitol Ave,San Jose, CA 95312",Tastea,San Jose,4/12/2017,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,10/28/2020,4,868,CA,1160 N Capitol Ave,95312
+"3245 Sierra Rd,San Jose, CA 95132",Tra Temptation,San Jose,4/15/2018,Coffee & Tea/Bubble Tea/Specialty Food,10/6/2020,4,255,CA,3245 Sierra Rd,95132
+"567 Coleman Ave,Ste 10,San Jose, CA 95110",Happy Lemon,San Jose,6/19/2018,Bubble Tea/Juice Bars & Smoothies,11/1/2020,4,195,CA,567 Coleman Ave,95110
+"392 E Taylor St,San Jose, CA 95112",Sinceretea,San Jose,8/12/2017,Bubble Tea/Coffee & Tea,10/5/2020,4,362,CA,392 E Taylor St,95112
+"6158 Bollinger Rd,San Jose, CA 95129",Tea Top,San Jose,7/5/2015,Tea Rooms,10/23/2020,4,505,CA,6158 Bollinger Rd,95129
+"52 S First St,San Jose, CA 95113",Tiger Milk Boba Bar,San Jose,5/19/2020,Bubble Tea,10/23/2020,4,137,CA,52 S First St,95113
+"956 Story Rd,San Jose, CA 95122",Lucky Tea,San Jose,2/9/2019,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/27/2020,4,161,CA,956 Story Rd,95122
+"10787 S Blaney Ave,Cupertino, CA 95014",TP Tea,Cupertino,7/15/2018,Bubble Tea/Coffee & Tea,10/31/2020,4,646,CA,10787 S Blaney Ave,95014

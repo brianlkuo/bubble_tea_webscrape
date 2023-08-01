@@ -1,0 +1,233 @@
+address,business_name,city,first_review_date,food_tags,last_review_date,rating,review_num,state,street,zip5
+"32-02 34th Ave,Astoria, NY 11106",Tea and Milk,Astoria,8/26/2013,Coffee & Tea/Bubble Tea/Cafes,11/1/2020,4,412,NY,32-02 34th Ave,11106
+"18 E 41st St,New York, NY 10017",Tomiz,New York,2/14/2006,Japanese/Desserts/Cafes,10/11/2020,4,1191,NY,18 E 41st St,10017
+"40-36 75th St,Elmhurst, NY 11373",Bobba Hubba,Elmhurst,7/13/2019,Bubble Tea,9/2/2020,4,18,NY,40-36 75th St,11373
+"475 B Myrtle Ave,Brooklyn, NY 11205",JJ Kitchen,Brooklyn,6/17/2017,Chinese,3/25/2020,4,17,NY,475 B Myrtle Ave,11205
+"76-23 Woodside Ave,Elmhurst, NY 11377",Tea Cup Cafe,Elmhurst,4/17/2013,Coffee & Tea/Desserts/Thai,10/25/2020,4,122,NY,76-23 Woodside Ave,11377
+"1700 2nd Ave,New York, NY 10128",Vietnaam,New York,1/29/2014,Vietnamese/Sandwiches/Soup,10/20/2020,4,800,NY,1700 2nd Ave,10128
+"358 W 47th St,New York, NY 10036",UT47,New York,1/20/2018,Coffee & Tea/Breakfast & Brunch/Vegan,10/30/2020,4,235,NY,358 W 47th St,10036
+"37-01 82nd St,Jackson Heights, NY 11372",Coco Fresh Tea & Juice,Jackson Heights,7/31/2016,Coffee & Tea/Juice Bars & Smoothies,10/26/2020,4,21,NY,37-01 82nd St,11372
+"646 9th Ave,New York, NY 10036",CoCo Fresh Tea & Juice,New York,10/19/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,9/3/2020,3,27,NY,646 9th Ave,10036
+"333 6th Ave,New York, NY 10014",Cool Fresh Juice Bar,New York,7/25/2017,Juice Bars & Smoothies/Acai Bowls/Bubble Tea,10/29/2020,4,37,NY,333 6th Ave,10014
+"17 Newkirk Plz,Flatbush - Ditmas Park, NY 11226",Newkirk Fruit,Flatbush - Ditmas Park,8/28/2014,Bubble Tea/Juice Bars & Smoothies,7/12/2020,4,25,NY,17 Newkirk Plz,11226
+"7002 Fort Hamilton Pkwy,Brooklyn, NY 11228",Shan Xi Snack,Brooklyn,7/30/2020,Burgers/Bubble Tea/Noodles,10/23/2020,3,12,NY,7002 Fort Hamilton Pkwy,11228
+"284 3rd Ave,New York, NY 10010",Yaya Tea Garden,New York,9/4/2017,Bubble Tea/Japanese/Specialty Food,9/25/2020,3,83,NY,284 3rd Ave,10010
+"15 W 32nd St,New York, NY 10001",Macao Imperial Tea,New York,8/20/2019,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/24/2020,4,63,NY,15 W 32nd St,10001
+"70-10 Austin St,Ste 3,Forest Hills, NY 11375",Kung Fu Tea,Forest Hills,4/7/2013,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/16/2020,3,146,NY,70-10 Austin St,11375
+"2236 Forest Ave,Ste 3,Staten Island, NY 10303",Yummy Machi,Staten Island,9/5/2013,Japanese/Bubble Tea/Chicken Wings,10/10/2020,4,69,NY,2236 Forest Ave,10303
+"1396 B Forest Ave,Staten Island, NY 10302",Boba Le Tea Cafe,Staten Island,8/1/2019,Bubble Tea/Poke/Cafes,9/6/2020,5,25,NY,1396 B Forest Ave,10302
+"6609 Fort Hamilton Pkwy,Brooklyn, NY 11219",Teadora,Brooklyn,10/25/2017,Bubble Tea/Tabletop Games,10/1/2020,4,74,NY,6609 Fort Hamilton Pkwy,11219
+"64 7th Ave,New York, NY 10011",MomenTea,New York,1/11/2018,Poke/Bubble Tea/Sushi Bars,8/29/2020,4,151,NY,64 7th Ave,10011
+"135-03A Roosevelt Ave,Flushing, NY 11354",YanYan Tea,Flushing,9/28/2019,Bubble Tea,10/23/2020,4,34,NY,135-03A Roosevelt Ave,11354
+"858 Lexington Ave,New York, NY 10065",Panda Bubble Tea,New York,1/17/2014,Bubble Tea/Taiwanese/Creperies,3/4/2020,3,182,NY,858 Lexington Ave,10065
+"12 John St,New York, NY 10038",CoCo Fresh Tea & Juice,New York,8/22/2014,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,9/11/2020,3,106,NY,12 John St,10038
+"1268 Amsterdam Ave,Ste B,New York, NY 10027",mellow tea,New York,11/5/2018,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,7/10/2020,4,25,NY,1268 Amsterdam Ave,10027
+"68 Cooper Sq,New York, NY 10003",The Alley,New York,6/15/2019,Taiwanese/Coffee & Tea/Bubble Tea,10/30/2020,3,150,NY,68 Cooper Sq,10003
+"86 5th Ave,Brooklyn, NY 11217",Mr. Wish,Brooklyn,8/24/2017,Bubble Tea/Juice Bars & Smoothies/Tea Rooms,10/14/2020,4,67,NY,86 5th Ave,11217
+"1712 86th St,Brooklyn, NY 11214",Gotcha Cafe,Brooklyn,8/8/2019,Bubble Tea,8/31/2020,4,38,NY,1712 86th St,11214
+"134 Smith St,Brooklyn, NY 11201",Hanco's,Brooklyn,1/31/2007,Vietnamese/Bubble Tea/Coffee & Tea,9/30/2020,4,688,NY,134 Smith St,11201
+"35-16 Ditmars Blvd,Astoria, NY 11105",Vivi Bubble Tea,Astoria,10/11/2015,Bubble Tea/Tea Rooms,10/17/2020,4,100,NY,35-16 Ditmars Blvd,11105
+"226 E 14th St,New York, NY 10003",ViVi Bubble Tea,New York,5/4/2014,Taiwanese/Bubble Tea/Coffee & Tea,7/18/2020,3,144,NY,226 E 14th St,10003
+"532B Forest Ave,Staten Island, NY 10310",ViVi Bubble Tea,Staten Island,7/13/2018,Bubble Tea,7/15/2020,4,36,NY,532B Forest Ave,10310
+"79 Division St,New York, NY 10002",Coco Fresh Tea & Juice,New York,12/11/2013,Bubble Tea/Juice Bars & Smoothies,3/21/2020,4,69,NY,79 Division St,10002
+"341 E 78th St,New York, NY 10075",Sashimi Ramen Express,New York,9/23/2015,Sushi Bars/Bubble Tea/Ramen,10/15/2020,4,314,NY,341 E 78th St,10075
+"67 Bayard St,New York, NY 10013",Yifang Taiwan Fruit Tea,New York,6/14/2019,Bubble Tea,10/24/2020,3,98,NY,67 Bayard St,10013
+"55 Bayard St,New York, NY 10013",Bubbly Tea,New York,6/30/2011,Bubble Tea,9/11/2020,4,289,NY,55 Bayard St,10013
+"674 Lexington Ave,New York, NY 10022",Juicy Cube,New York,6/21/2012,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/30/2020,4,214,NY,674 Lexington Ave,10022
+"36-56 Main St,Flushing, NY 11354",M Tea,Flushing,10/11/2019,Bubble Tea/Desserts/Juice Bars & Smoothies,11/1/2020,3,71,NY,36-56 Main St,11354
+"239 W 72nd St,New York, NY 10023",Tea Magic,New York,11/28/2018,Bubble Tea,8/4/2020,4,24,NY,239 W 72nd St,10023
+"2810 Broadway,New York, NY 10025",Gong Cha,New York,9/2/2018,Bubble Tea,9/11/2020,4,32,NY,2810 Broadway,10025
+"69 Cooper Sq,New York, NY 10003",Moge Tee,New York,10/13/2018,Coffee & Tea,10/3/2020,4,100,NY,69 Cooper Sq,10003
+"52 Jay St,Brooklyn, NY 11201",Boba Dumbo,Brooklyn,12/3/2019,Bubble Tea/Ice Cream & Frozen Yogurt/Coffee & Tea,8/23/2020,4,15,NY,52 Jay St,11201
+"33 St Marks Pl,New York, NY 10003",Yifang Taiwan Fruit Tea,New York,9/9/2019,Bubble Tea/Tea Rooms,10/30/2020,3,34,NY,33 St Marks Pl,10003
+"8121 Broadway,Elmhurst, NY 11373",Boba Fries,Elmhurst,8/30/2019,Bubble Tea/Fast Food,10/17/2020,4,52,NY,8121 Broadway,11373
+"72 Bayard St,New York, NY 10013",Gong Cha,New York,5/4/2016,Bubble Tea,8/8/2020,4,129,NY,72 Bayard St,10013
+"314 New Dorp Ln,Staten Island, NY 10306",Something Sweet,Staten Island,6/17/2011,Ice Cream & Frozen Yogurt/Desserts/Bubble Tea,9/18/2020,4,103,NY,314 New Dorp Ln,10306
+"115 E 23rd St,New York, NY 10010",Kung Fu Tea,New York,11/27/2018,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,9/18/2020,4,63,NY,115 E 23rd St,10010
+"192 1st Ave,New York, NY 10009",Juice Vitality,New York,1/7/2016,Juice Bars & Smoothies/Bubble Tea/Acai Bowls,10/10/2020,5,180,NY,192 1st Ave,10009
+"5602 8th Ave,Sidedoor,Brooklyn, NY 11220",Mudflow Tea House,Brooklyn,9/23/2018,Bubble Tea/Juice Bars & Smoothies,9/19/2020,4,62,NY,5602 8th Ave,11220
+"11 Pell St,New York, NY 10013",Taiwan Bear House,New York,5/30/2015,Taiwanese/Bubble Tea/Chinese,10/19/2020,4,303,NY,11 Pell St,10013
+"25-12 Broadway,Astoria, NY 11106",La Mian Lounge,Astoria,1/4/2020,Chinese/Hong Kong Style Cafe/Bubble Tea,10/18/2020,4,65,NY,25-12 Broadway,11106
+"200 Broadway,Fulton Center,New York, NY 10038",Gong Cha,New York,11/13/2018,Bubble Tea,7/23/2020,4,49,NY,200 Broadway,10038
+"2132 86th St,Brooklyn, NY 11214",Tiger Sugar,Brooklyn,9/19/2020,Bubble Tea/Coffee & Tea/Desserts,11/1/2020,4,17,NY,2132 86th St,11214
+"135-15 40th Rd,Flushing, NY 11354",Yi Fang Taiwan Fruit Tea,Flushing,6/16/2018,Bubble Tea,10/23/2020,3,291,NY,135-15 40th Rd,11354
+"160 E 44th St,New York, NY 10017",Gong Cha,New York,6/21/2017,Bubble Tea,10/27/2020,4,95,NY,160 E 44th St,10017
+"307 Knickerbocker Ave,Brooklyn, NY 11237",Tornado Crepe,Brooklyn,11/5/2016,Creperies/Bubble Tea/Ice Cream & Frozen Yogurt,9/22/2020,4,53,NY,307 Knickerbocker Ave,11237
+"300 W 49th St,New York, NY 10019",Modern Tea Shop,New York,9/11/2019,Bubble Tea,10/7/2020,4,50,NY,300 W 49th St,10019
+"278 Wyckoff Ave,Brooklyn, NY 11237",Jupioca,Brooklyn,2/12/2017,Juice Bars & Smoothies/Bubble Tea/Ice Cream & Frozen Yogurt,1/24/2020,4,24,NY,278 Wyckoff Ave,11237
+"213 W 40th St,New York, NY 10018",MomenTea Kitchen,New York,11/15/2019,Sushi Bars/Bubble Tea/Noodles,10/23/2020,4,52,NY,213 W 40th St,10018
+"45-40 Bell Blvd,Bayside, NY 11361",CoCo Fresh Tea & Juice,Bayside,5/20/2014,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,11/1/2020,3,165,NY,45-40 Bell Blvd,11361
+"18 W 14th St,New York, NY 10011",Vivi Bubble Tea,New York,12/3/2015,Bubble Tea,9/23/2020,3,65,NY,18 W 14th St,10011
+"133-35 Roosevelt Ave,Ste 11,Flushing, NY 11354",Happy Lemon,Flushing,11/9/2014,Taiwanese/Bubble Tea/Juice Bars & Smoothies,4/19/2020,4,140,NY,133-35 Roosevelt Ave,11354
+"1457 York Ave,New York, NY 10075",Jupioca,New York,3/22/2017,Acai Bowls/Bubble Tea/Juice Bars & Smoothies,,4,42,NY,1457 York Ave,10075
+"120 1/2 1st Ave,New York, NY 10009",Bubbleology,New York,2/4/2019,Bubble Tea/Waffles/Juice Bars & Smoothies,10/21/2020,3,85,NY,120 1/2 1st Ave,10009
+"75 9th Ave Lower Level,Inside Pearl River Foods,Chelsea Market,New York, NY 10011",Tea and Milk,New York,10/31/2020,Bubble Tea/Coffee & Tea,11/1/2020,5,3,NY,75 9th Ave Lower Level,10011
+"39-22 Main St,Flushing, NY 11354",CoCo Fresh Tea & Juice,Flushing,6/18/2011,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/16/2020,3,219,NY,39-22 Main St,11354
+"147 Montague St,Brooklyn, NY 11201",Hanco's,Brooklyn,9/11/2011,Vietnamese/Sandwiches/Bubble Tea,,3,301,NY,147 Montague St,11201
+"7924 3rd Ave,Brooklyn, NY 11209",Kathy's Dumplings,Brooklyn,1/30/2013,Chinese,10/17/2020,4,225,NY,7924 3rd Ave,11209
+"302 West 39th St,New York, NY 10018",Moge Tee,New York,12/10/2018,Bubble Tea/Sushi Bars,8/29/2020,4,82,NY,302 West 39th St,10018
+"7408 Grand Ave,Elmhurst, NY 11373",Siips Bubble,Elmhurst,9/22/2019,Bubble Tea/Coffee & Tea,9/30/2020,4,7,NY,7408 Grand Ave,11373
+"350 7th Ave,Brooklyn, NY 11215",Hanco's,Brooklyn,2/21/2009,Vietnamese/Bubble Tea,10/27/2020,4,524,NY,350 7th Ave,11215
+"501 Great Neck Rd,Great Neck, NY 11021",CoCo Fresh Tea & Juice,Great Neck,8/25/2020,Bubble Tea,8/31/2020,5,3,NY,501 Great Neck Rd,11021
+"61 Lexington Ave,New York, NY 10010",YiFang Taiwan Fruit Tea,New York,12/18/2019,Bubble Tea,9/22/2020,4,8,NY,61 Lexington Ave,10010
+"38-02 Prince St,Flushing, NY 11354",The Alley,Flushing,11/25/2019,Bubble Tea/Coffee & Tea,10/31/2020,3,131,NY,38-02 Prince St,11354
+"337 New Dorp Ln,Staten Island, NY 10306",Vivi Bubble Tea,Staten Island,2/19/2019,Bubble Tea,10/16/2020,4,51,NY,337 New Dorp Ln,10306
+"12 W 32nd St,New York, NY 10001",Gong Cha,New York,3/20/2015,Bubble Tea,9/25/2020,3,327,NY,12 W 32nd St,10001
+"31-54 Steinway St,Long Island City, NY 11103",Vivi Bubble Tea,Long Island City,10/26/2018,Bubble Tea,9/19/2020,4,30,NY,31-54 Steinway St,11103
+"173 Hester St,New York, NY 10013",Macao Imperial Tea,New York,2/2/2019,Bubble Tea/Coffee & Tea,8/3/2020,4,58,NY,173 Hester St,10013
+"5814 7th Ave,Brooklyn, NY 11220",Yummy Boba Desserts,Brooklyn,7/27/2019,Desserts/Bubble Tea,9/6/2020,4,8,NY,5814 7th Ave,11220
+"237 Flatbush Ave,Brooklyn, NY 11217",PokéBowl Station,Brooklyn,10/27/2017,Poke/Bubble Tea/Salad,9/14/2020,4,94,NY,237 Flatbush Ave,11217
+"1293 1st Ave,New York, NY 10021",Hawa Smoothies and Bubble Tea,New York,12/2/2018,Bubble Tea/Juice Bars & Smoothies/Acai Bowls,10/6/2020,4,33,NY,1293 1st Ave,10021
+"2046 86th St,Brooklyn, NY 11214",Mi Tea,Brooklyn,11/24/2019,Bubble Tea,9/8/2020,3,7,NY,2046 86th St,11214
+"572 Atlantic Ave,Brooklyn, NY 11217",Squarrel Cafe,Brooklyn,8/12/2019,Coffee & Tea/Tabletop Games/Bubble Tea,10/20/2020,4,50,NY,572 Atlantic Ave,11217
+"167 Canal St,New York, NY 10013",Utepia Tea,New York,11/30/2018,Bubble Tea,8/24/2020,4,48,NY,167 Canal St,10013
+"6003 7th Ave,Brooklyn, NY 11220",In Cha,Brooklyn,6/28/2019,Bubble Tea/Noodles,9/10/2020,3,25,NY,6003 7th Ave,11220
+"71 Smith St,Brooklyn, NY 11201",Debutea,Brooklyn,6/12/2020,Salad/Coffee & Tea/Juice Bars & Smoothies,10/26/2020,5,16,NY,71 Smith St,11201
+"204 E 10th St,New York, NY 10003",Prince Tea House,New York,9/4/2020,Tea Rooms/Desserts/Breakfast & Brunch,11/1/2020,5,23,NY,204 E 10th St,10003
+"2013 86th St,Brooklyn, NY 11214",Moge Tee,Brooklyn,9/24/2020,Bubble Tea/Desserts/Tea Rooms,10/30/2020,4,17,NY,2013 86th St,11214
+"80-62 Lefferts Blvd,Kew Gardens, NY 11415",Mr. Wish,Kew Gardens,5/26/2017,Bubble Tea/Juice Bars & Smoothies/Tea Rooms,10/18/2020,4,117,NY,80-62 Lefferts Blvd,11415
+"32-55 Steinway St,Astoria, NY 11103",Uncle Drink,Astoria,3/11/2016,Bubble Tea/Juice Bars & Smoothies,9/13/2020,4,53,NY,32-55 Steinway St,11103
+"636 Park Pl,Brooklyn, NY 11238",Banhmigos,Brooklyn,1/13/2015,Vietnamese/Sandwiches/Bubble Tea,10/11/2020,3,167,NY,636 Park Pl,11238
+"597 Manor Rd,Staten Island, NY 10314",Lil M Bubble Tea,Staten Island,9/3/2019,Chicken Wings/Bubble Tea,2/23/2020,4,5,NY,597 Manor Rd,10314
+"166 W 72nd St,New York, NY 10023",Juicy Cube,New York,3/13/2017,Acai Bowls/Bubble Tea/Juice Bars & Smoothies,8/18/2020,4,56,NY,166 W 72nd St,10023
+"40-06 Bell Blvd,Bayside, NY 11361",Momo Ashi,Bayside,12/15/2018,Bubble Tea/Coffee & Tea/Waffles,10/31/2020,4,124,NY,40-06 Bell Blvd,11361
+"92 Court St,New York, NY 11201",Banhmigos,New York,10/26/2019,Vietnamese/Bubble Tea/Sandwiches,9/30/2020,4,28,NY,92 Court St,11201
+"2320 86th St,Gravesend, NY 11214",Yaya Tea Garden,Gravesend,7/26/2015,Bubble Tea/Coffee & Tea/Japanese,10/25/2020,4,199,NY,2320 86th St,11214
+"9 Broadway,New York, NY 10004",Kung Fu Tea,New York,12/13/2014,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,9/21/2020,4,70,NY,9 Broadway,10004
+"824B Washington Ave,Brooklyn, NY 11238",Banh Mi Place,Brooklyn,7/3/2015,Vietnamese/Bubble Tea/Sandwiches,10/27/2020,4,258,NY,824B Washington Ave,11238
+"378 Metropolitan Ave,Brooklyn, NY 11211",Savory Thai,Brooklyn,8/3/2019,Thai/Bubble Tea/Noodles,10/29/2020,4,56,NY,378 Metropolitan Ave,11211
+"2029 Lemoine Ave,Ste 102,Fort Lee, NJ 07024",Möge Tee - Fort Lee,Fort Lee,12/21/2019,Bubble Tea,10/17/2020,4,126,NJ,2029 Lemoine Ave,07024
+"170 W 23rd St,New York, NY 10011",Vivi Bubble Tea,New York,4/15/2012,Coffee & Tea/Bubble Tea,8/26/2020,3,204,NY,170 W 23rd St,10011
+"1422 Ave U,Brooklyn, NY 11229",Kung Fu Tea,Brooklyn,12/17/2011,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,9/20/2020,4,122,NY,1422 Ave U,11229
+"250 Central Ave,Newark, NJ 07103",Yaya Tea Newark,Newark,9/4/2020,Bubble Tea/Comfort Food/Coffee & Tea,10/2/2020,4,5,NJ,250 Central Ave,07103
+"17 W 32nd St,New York, NY 10001",Grace Street,New York,1/29/2012,Coffee & Tea/Desserts/Shaved Ice,10/30/2020,4,2522,NY,17 W 32nd St,10001
+"1764 1AVE,New York, NY 10128",Krua,New York,5/11/2019,Thai/Bubble Tea/Chicken Wings,10/27/2020,4,55,NY,1764 1AVE,10128
+"2833 Grand Concourse,Bronx, NY 10468",Mei Mei Restaurant,Bronx,8/3/2010,Chinese/Bubble Tea,7/3/2020,3,46,NY,2833 Grand Concourse,10468
+"51 Chrystie St,New York, NY 10002",Yaya Tea Garden,New York,8/2/2008,Coffee & Tea/Japanese/Bubble Tea,10/24/2020,4,490,NY,51 Chrystie St,10002
+"11 W 32nd St,New York, NY 10001",Kung Fu Tea,New York,11/14/2015,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/5/2020,3,171,NY,11 W 32nd St,10001
+"37 Broad Ave,Palisades Park, NJ 07650",Vivi Bubble Tea,Palisades Park,8/20/2020,Bubble Tea,9/30/2020,4,6,NJ,37 Broad Ave,07650
+"229 5th Ave,Brooklyn, NY 11215",Lotus Vietnamese Sandwiches,Brooklyn,5/12/2010,Vietnamese/Sandwiches/Bubble Tea,10/29/2020,4,247,NY,229 5th Ave,11215
+"1698 E 14th St,Brooklyn, NY 11229",Gong Cha,Brooklyn,10/6/2019,Bubble Tea,10/4/2020,4,22,NY,1698 E 14th St,11229
+"186 Grand St,Brooklyn, NY 11211",Kitsby,Brooklyn,4/11/2019,Desserts/Coffee & Tea/Ice Cream & Frozen Yogurt,10/19/2020,4,158,NY,186 Grand St,11211
+"109 Walnut Ave,Retail 1,Cranford, NJ 07016",I bubble tea & cafe,Cranford,9/7/2020,Bubble Tea,11/1/2020,5,8,NJ,109 Walnut Ave,07016
+"6047 Myrtle Ave,Ridgewood, NY 11385",Ama Coffee,Ridgewood,1/8/2016,Coffee & Tea/Bubble Tea/Sandwiches,7/28/2020,4,58,NY,6047 Myrtle Ave,11385
+"705 59th St,Unit D,Brooklyn, NY 11220",Moge Tee Brooklyn,Brooklyn,11/11/2018,Coffee & Tea/Bubble Tea,9/4/2020,3,47,NY,705 59th St,11220
+"37-11 Main St,Flushing, NY 11354",Anda Cafe,Flushing,11/7/2018,Bubble Tea/Juice Bars & Smoothies/Sushi Bars,5/23/2020,4,20,NY,37-11 Main St,11354
+"1600 Broadway,New York, NY 10019",Gong Cha,New York,1/15/2020,Bubble Tea,9/30/2020,4,20,NY,1600 Broadway,10019
+"5718 5th Ave,Sunset Park, NY 11220",Lee Lee,Sunset Park,6/29/2015,Bubble Tea,3/21/2020,4,23,NY,5718 5th Ave,11220
+"183 Hester St,New York, NY 10013",Vivi Bubble Tea,New York,5/19/2014,Bubble Tea,6/24/2020,3,99,NY,183 Hester St,10013
+"422 E 14th St,New York, NY 10009",Hawa Smoothies & Bubble Tea,New York,7/13/2013,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/1/2020,4,114,NY,422 E 14th St,10009
+"307 E 77th St,New York, NY 10075",Ollies To Go,New York,6/25/2019,Chinese/Japanese/Bubble Tea,10/31/2020,3,57,NY,307 E 77th St,10075
+"409 W 15th St,New York, NY 10011",Very Fresh Noodles,New York,2/27/2016,Taiwanese/Chinese/Noodles,10/18/2020,4,1008,NY,409 W 15th St,10011
+"57-16 Woodside Ave,Woodside, NY 11377",Momochai,Woodside,10/15/2015,Bubble Tea/Himalayan/Nepalese,8/13/2020,4,54,NY,57-16 Woodside Ave,11377
+"31-47 Steinway St,Astoria, NY 11103",Prince Tea House,Astoria,9/21/2017,Desserts/Tea Rooms/Breakfast & Brunch,10/29/2020,4,349,NY,31-47 Steinway St,11103
+"325 Broadway,New York, NY 10007",Vivi Bubble Tea,New York,4/2/2017,Bubble Tea/Taiwanese,3/6/2020,3,38,NY,325 Broadway,10007
+"372 Lafayette Ave,Clinton Hill, NY 11238",The Market,Clinton Hill,4/20/2015,Coffee & Tea/Asian Fusion,9/26/2020,4,135,NY,372 Lafayette Ave,11238
+"570 Lexington Ave,New York, NY 10022",Bao by Kaya,New York,9/16/2014,Taiwanese/Coffee & Tea/Asian Fusion,3/6/2020,4,166,NY,570 Lexington Ave,10022
+"6731 Bay Pkwy,Bensonhurst, NY 11204",ViVi Bubble Tea,Bensonhurst,5/27/2014,Bubble Tea,10/25/2020,3,88,NY,6731 Bay Pkwy,11204
+"349 5th Ave,Brooklyn, NY 11215",Home,Brooklyn,1/31/2010,Vietnamese/Sandwiches/Bubble Tea,6/13/2020,3,67,NY,349 5th Ave,11215
+"164 Pearl St,New York, NY 10005",Green E.Tea,New York,8/29/2019,Coffee & Tea/Desserts,3/13/2020,3,5,NY,164 Pearl St,10005
+"69-38 Grand Ave,Queens, NY 11378",Le Moment,Queens,1/7/2016,Bubble Tea/Coffee & Tea/Asian Fusion,11/4/2019,3,53,NY,69-38 Grand Ave,11378
+"773 59th St,Brooklyn, NY 11220",TSAôCAA,Brooklyn,10/9/2018,Desserts/Korean/Bubble Tea,9/21/2020,3,89,NY,773 59th St,11220
+"451 E 116th St,New York, NY 10029",harmony,New York,9/9/2017,Salad/Bubble Tea/Asian Fusion,8/17/2019,3,14,NY,451 E 116th St,10029
+"379 3rd Ave,New York, NY 10016",Soft Swerve,New York,6/8/2020,Ice Cream & Frozen Yogurt,10/28/2020,4,15,NY,379 3rd Ave,10016
+"38-04 Prince St,Flushing, NY 11354",TSAôCAA,Flushing,9/15/2019,Bubble Tea,10/29/2020,3,40,NY,38-04 Prince St,11354
+"242 Main St,Fort Lee, NJ 07024",Q Tea Tapas,Fort Lee,5/21/2016,Bubble Tea/Sushi Bars/Poke,10/12/2020,4,199,NJ,242 Main St,07024
+"434 Marcus Garvey Blvd,Brooklyn, NY 11216",Cloud 9 Crepes,Brooklyn,7/1/2018,Creperies/Bubble Tea/Gluten-Free,8/23/2020,4,38,NY,434 Marcus Garvey Blvd,11216
+"7115 3rd Ave,Brooklyn, NY 11209",Pig Pig Cafe,Brooklyn,12/26/2019,Bubble Tea,10/11/2020,5,18,NY,7115 3rd Ave,11209
+"2309 Astoria Blvd,Astoria, NY 11102",INFINITEA NY,Astoria,4/24/2016,Coffee & Tea/Bubble Tea/Cafes,10/3/2020,4,113,NY,2309 Astoria Blvd,11102
+"177-07 Union Tpke,Fresh Meadows, NY 11366",Crepe N Tearia,Fresh Meadows,3/1/2008,Creperies/Tea Rooms/Bubble Tea,9/23/2020,3,166,NY,177-07 Union Tpke,11366
+"1808 Weirfield St,New York, NY 11385",Tornado Crepe,New York,4/17/2016,Creperies/Ice Cream & Frozen Yogurt/Bubble Tea,7/31/2020,4,49,NY,1808 Weirfield St,11385
+"1323 Ave U,Brooklyn, NY 11229",TBaar,Brooklyn,8/23/2016,Bubble Tea/Juice Bars & Smoothies/Tea Rooms,8/24/2020,4,31,NY,1323 Ave U,11229
+"595 River Rd,Edgewater, NJ 07020",ÜMACHA,Edgewater,2/15/2020,Bubble Tea,10/31/2020,4,57,NJ,595 River Rd,07020
+"1028 6th Ave,New York, NY 10018",Yifang Taiwan Fruit Tea,New York,11/18/2019,Bubble Tea,10/16/2020,3,49,NY,1028 6th Ave,10018
+"83-31 Broadway,Elmhurst, NY 11373",Anda Cafe,Elmhurst,11/25/2013,Bubble Tea/Shaved Ice/Taiwanese,8/17/2020,3,225,NY,83-31 Broadway,11373
+"83-28 Broadway,Elmhurst, NY 11373",Vivi Bubble Tea,Elmhurst,12/26/2015,Bubble Tea,10/26/2020,3,121,NY,83-28 Broadway,11373
+"182-4 Horace Harding Expy,Flushing, NY 11365",Coco Fresh Tea & Juice,Flushing,4/16/2017,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/5/2020,3,75,NY,182-4 Horace Harding Expy,11365
+"863 Sterling Pl,Brooklyn, NY 11216",Namas Tea,Brooklyn,6/28/2019,Coffee & Tea/Bubble Tea/Venues & Event Spaces,9/1/2020,5,19,NY,863 Sterling Pl,11216
+"1763 Crosby Ave,New York, NY 10461",15 Flavors,New York,6/16/2013,Ice Cream & Frozen Yogurt/Bubble Tea/Juice Bars & Smoothies,7/8/2020,3,23,NY,1763 Crosby Ave,10461
+"1151 2nd Ave,New York, NY 10065",Hawa smoothie & Bubble tea,New York,10/29/2019,Bubble Tea/Juice Bars & Smoothies,9/18/2020,5,8,NY,1151 2nd Ave,10065
+"506 Amsterdam Ave,New York, NY 10024",Uptown Poke,New York,8/24/2018,Poke/Bubble Tea,10/24/2020,4,52,NY,506 Amsterdam Ave,10024
+"82-02 45th Ave,Queens, NY 11373",TBaar,Queens,5/14/2019,Bubble Tea/Juice Bars & Smoothies,8/8/2020,4,6,NY,82-02 45th Ave,11373
+"275 5th Ave,New York, NY 10016",Möge Tee - Fifth Ave,New York,9/15/2019,Bubble Tea/Coffee & Tea,8/30/2020,4,24,NY,275 5th Ave,10016
+"85-36 Grand Ave,Elmhurst, NY 11373",Summer,Elmhurst,1/16/2017,Vietnamese/Bubble Tea/Sandwiches,9/20/2020,4,117,NY,85-36 Grand Ave,11373
+"2349 86th St,Brooklyn, NY 11214",High Tea House,Brooklyn,12/13/2018,Bubble Tea/Coffee & Tea/Desserts,6/21/2020,4,11,NY,2349 86th St,11214
+"54 N 6th St,Brooklyn, NY 11249",Blossom Ice Cream & The Poké,Brooklyn,2/9/2017,Ice Cream & Frozen Yogurt/Poke/Asian Fusion,9/7/2020,4,89,NY,54 N 6th St,11249
+"71-28 Roosevelt,Jackson Heights, NY 11372",Sweetory,Jackson Heights,9/21/2019,Desserts,10/21/2020,4,47,NY,71-28 Roosevelt,11372
+"38 Lexington Ave,New York, NY 10010",CoCo Fresh Tea & Juice,New York,2/4/2011,Bubble Tea,9/26/2020,3,247,NY,38 Lexington Ave,10010
+"86-12 Whitney Ave,Elmhurst, NY 11373",Yaya Tea Garden,Elmhurst,11/3/2018,Japanese/Desserts/Coffee & Tea,10/24/2020,4,57,NY,86-12 Whitney Ave,11373
+"317 US 46,Parsippany, NJ 07054",Sweet Shansations,Parsippany,9/26/2020,Desserts/Bubble Tea/Bakeries,10/16/2020,5,4,NJ,317 US 46,07054
+"2667 Broadway,New York, NY 10025",Shiny Tea,New York,6/11/2016,Bubble Tea/Tea Rooms,10/29/2020,4,123,NY,2667 Broadway,10025
+"133-41 41st Ave,Flushing, NY 11355",Chun Yang Tea - Flushing New York,Flushing,8/31/2019,Bubble Tea,11/1/2020,4,120,NY,133-41 41st Ave,11355
+"174 Hester St,New York, NY 10013",Bibble & Sip,New York,4/5/2019,Bakeries/Coffee & Tea,10/31/2020,4,180,NY,174 Hester St,10013
+"525 Myrtle Ave,Brooklyn, NY 11205",OJBK Tea Shop,Brooklyn,10/24/2019,Bubble Tea,9/3/2020,4,8,NY,525 Myrtle Ave,11205
+"106 Greenwich St,New York, NY 10006",Dragon Horn Tea,New York,6/15/2020,Bubble Tea/Coffee & Tea,10/26/2020,4,37,NY,106 Greenwich St,10006
+"33 W 32nd St,New York, NY 10001",Machi Machi,New York,10/30/2020,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/31/2020,5,2,NY,33 W 32nd St,10001
+"26B Elizabeth St,New York, NY 10013",Chun Yang Tea Chinatown,New York,7/15/2020,Bubble Tea,10/30/2020,4,34,NY,26B Elizabeth St,10013
+"11 Waverly Pl,New York, NY 10003",Lazy Sundaes Greenwich Village,New York,10/21/2020,Bubble Tea/Shaved Ice,10/31/2020,5,5,NY,11 Waverly Pl,10003
+"40-52 Main St,Flushing, NY 11345",Xing Fu Tang,Flushing,1/18/2020,Bubble Tea/Desserts/Taiwanese,11/1/2020,4,189,NY,40-52 Main St,11345
+"145D Hester St,New York, NY 10002",Teado Tea Shop,New York,10/24/2009,Coffee & Tea/Juice Bars & Smoothies/Bubble Tea,10/27/2020,4,360,NY,145D Hester St,10002
+"1324 2nd Ave,New York, NY 10021",Vivi Bubble Tea,New York,12/15/2017,Bubble Tea,10/19/2020,3,68,NY,1324 2nd Ave,10021
+"196 Smith St,Brooklyn, NY 11201",Crispy Burger,Brooklyn,10/6/2020,Chinese/Bubble Tea/Noodles,10/23/2020,4,5,NY,196 Smith St,11201
+"90 Canal St,New York, NY 10002",Möge Tee,New York,8/1/2018,Bubble Tea,10/27/2020,4,92,NY,90 Canal St,10002
+"89A Bayard St,New York, NY 10013",Alimama,New York,,Desserts/Donuts/Tea Rooms,10/31/2020,4,1109,NY,89A Bayard St,10013
+"44-68 21st St,Long Island City, NY 11101",Yi Fang Taiwan Fruit Tea,Long Island City,4/24/2019,Bubble Tea/Tea Rooms,10/15/2020,4,86,NY,44-68 21st St,11101
+"49 Bayard St,New York, NY 10013",Vivi Bubble Tea,New York,7/8/2007,Bubble Tea,10/19/2020,4,642,NY,49 Bayard St,10013
+"4319 Bell Blvd,Bayside, NY 11364",Moge Tee - Bayside,Bayside,2/9/2020,Coffee & Tea/Bubble Tea,10/29/2020,4,64,NY,4319 Bell Blvd,11364
+"774 58th St,Brooklyn, NY 11220",YiFang Taiwan Fruit Tea,Brooklyn,5/11/2019,Bubble Tea,11/1/2020,3,72,NY,774 58th St,11220
+"4010 Main St,Ste A,Flushing, NY 11354",Tiger Sugar,Flushing,5/10/2019,Bubble Tea/Desserts/Coffee & Tea,10/26/2020,4,684,NY,4010 Main St,11354
+"217 Thompson St,New York, NY 10012",Debutea,New York,2/16/2018,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/25/2020,4,193,NY,217 Thompson St,10012
+"467 Dekalb Ave,Brooklyn, NY 11205",Initial Tea,Brooklyn,5/23/2019,Desserts/Bubble Tea/Ice Cream & Frozen Yogurt,10/4/2020,5,47,NY,467 Dekalb Ave,11205
+"44 Willoughby St,Downtown Brooklyn, NY 11201",Hawa Smoothies & Bubble Tea,Downtown Brooklyn,6/14/2015,Bubble Tea/Juice Bars & Smoothies/Acai Bowls,9/17/2020,4,75,NY,44 Willoughby St,11201
+"73 Mott St,New York, NY 10013",Ten Ren's Tea Time,New York,10/31/2004,Bubble Tea,9/10/2020,4,643,NY,73 Mott St,10013
+"8306 Broadway,Elmhurst, NY 11373",Quickly,Elmhurst,4/19/2009,Coffee & Tea/Taiwanese,10/22/2020,3,148,NY,8306 Broadway,11373
+"790 Manhattan Ave,Brooklyn, NY 11222",ViVi Bubble Tea,Brooklyn,9/9/2014,Bubble Tea,8/15/2020,4,74,NY,790 Manhattan Ave,11222
+"8612 5th Ave,Brooklyn, NY 11209",Coco Fresh Tea & Juice,Brooklyn,5/26/2016,Bubble Tea/Juice Bars & Smoothies,10/22/2020,4,58,NY,8612 5th Ave,11209
+"1520 Amsterdam Ave,Manhattan, NY 10031",Tidal Tea,Manhattan,7/31/2019,Bubble Tea,10/25/2020,4,61,NY,1520 Amsterdam Ave,10031
+"32 Union Square E,New York, NY 10003",KOI Thé,New York,8/23/2020,Bubble Tea,10/27/2020,4,11,NY,32 Union Square E,10003
+"992 6th Ave,New York, NY 10018",I Milky 沐白,New York,11/12/2019,Bubble Tea/Japanese/Juice Bars & Smoothies,10/29/2020,4,107,NY,992 6th Ave,10018
+"253 W 51st St,New York, NY 10019",Bibble & Sip,New York,12/9/2014,Coffee & Tea/Bakeries,11/1/2020,4,4831,NY,253 W 51st St,10019
+"28 St Marks Pl,New York, NY 10003",Kung Fu Tea,New York,4/9/2014,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/27/2020,4,245,NY,28 St Marks Pl,10003
+"139 Fulton St,New York, NY 10038",U Tea,New York,11/16/2019,Juice Bars & Smoothies/Coffee & Tea/Bubble Tea,10/26/2020,4,31,NY,139 Fulton St,10038
+"607 9th Ave,New York, NY 10036",ViVi Bubble Tea,New York,8/29/2014,Bubble Tea,10/24/2020,3,289,NY,607 9th Ave,10036
+"42-32 Crescent St,Long Island City, NY 11101",Möge Tee,Long Island City,5/15/2019,Bubble Tea/Coffee & Tea,10/19/2020,4,100,NY,42-32 Crescent St,11101
+"805 8th Ave,New York, NY 10019",Ho Ho Té,New York,6/30/2019,Bubble Tea,10/31/2020,4,107,NY,805 8th Ave,10019
+"118 Smith St,Brooklyn, NY 11201",TenIchi Mart,Brooklyn,6/26/2020,Bubble Tea/International Grocery,10/29/2020,4,13,NY,118 Smith St,11201
+"205 Allen St,New York, NY 10002",Vivi Bubble Tea,New York,10/19/2014,Bubble Tea,8/11/2020,4,274,NY,205 Allen St,10002
+"73 Chrystie St,New York, NY 10002",Kung Fu Tea,New York,9/11/2011,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,11/1/2020,4,389,NY,73 Chrystie St,10002
+"124B Hester St,New York, NY 10002",BAMBU,New York,3/13/2020,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/31/2020,4,48,NY,124B Hester St,10002
+"135-17 38th Ave,Flushing, NY 11354",Teazzi Tea Shop,Flushing,10/15/2020,Bubble Tea,10/30/2020,3,18,NY,135-17 38th Ave,11354
+"31 Waverly Pl,Unit 5,New York, NY 10003",Kung Fu Tea,New York,8/13/2013,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,10/27/2020,4,206,NY,31 Waverly Pl,10003
+"379 First Ave,New York, NY 10010",Moge Tee,New York,1/13/2020,Bubble Tea,9/16/2020,4,11,NY,379 First Ave,10010
+"471 5th Ave,Brooklyn, NY 11228",Sip N' Play,Brooklyn,1/2/2020,Tabletop Games/Coffee & Tea/Bubble Tea,10/30/2020,5,37,NY,471 5th Ave,11228
+"110 3rd Ave,New York, NY 10003",One Zo - New York,New York,9/22/2019,Bubble Tea,10/9/2020,4,52,NY,110 3rd Ave,10003
+"3111 Broadway,New York, NY 10027",Culture Tea Bar,New York,2/4/2013,Bubble Tea/Bakeries/Tea Rooms,10/4/2020,4,109,NY,3111 Broadway,10027
+"206 Grand St,New York, NY 10013",Yaya Tea Garden,New York,10/19/2016,Bubble Tea/Japanese/Coffee & Tea,10/21/2020,4,264,NY,206 Grand St,10013
+"101 MacDougal St,New York, NY 10012",Mi Tea,New York,2/6/2019,Bubble Tea,10/29/2020,4,63,NY,101 MacDougal St,10012
+"209 E 14th St,New York, NY 10003",The Whale Tea,New York,2/1/2020,Bubble Tea,5/5/2020,4,6,NY,209 E 14th St,10003
+"236 7th Ave,Brooklyn, NY 11215",One More Charm,Brooklyn,7/11/2020,Thai/Coffee & Tea/Bubble Tea,11/1/2020,4,35,NY,236 7th Ave,11215
+"197 Canal St,New York, NY 10013",Tiger Sugar,New York,9/11/2019,Bubble Tea/Coffee & Tea/Desserts,10/31/2020,4,347,NY,197 Canal St,10013
+"38-21 Main St,Flushing, NY 12354",Song Tea,Flushing,7/4/2020,Bubble Tea,10/28/2020,5,12,NY,38-21 Main St,12354
+"76 5th Ave,Brooklyn, NY 11217",Kung Fu Tea,Brooklyn,6/17/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/15/2020,4,28,NY,76 5th Ave,11217
+"925 Lexington Ave,New York, NY 10065",Gong Cha,New York,11/29/2019,Bubble Tea,10/20/2020,5,23,NY,925 Lexington Ave,10065
+"124 W 72nd St,New York, NY 10023",Coco Fresh Tea & Juice,New York,3/21/2019,Bubble Tea/Juice Bars & Smoothies,9/19/2020,4,15,NY,124 W 72nd St,10023
+"178 Lincoln Pl,Brooklyn, NY 11217",Banhmigos,Brooklyn,11/24/2012,Bubble Tea/Vietnamese/Sandwiches,10/31/2020,4,284,NY,178 Lincoln Pl,11217
+"156 Lawrence St,Brooklyn, NY 11201",Gong Cha,Brooklyn,7/17/2017,Bubble Tea,9/17/2020,4,53,NY,156 Lawrence St,11201
+"5903 8th Ave,Brooklyn, NY 11220",Tiger Sugar,Brooklyn,8/14/2019,Coffee & Tea/Bubble Tea/Desserts,9/14/2020,4,160,NY,5903 8th Ave,11220
+"295 Broadway,Brooklyn, NY 11211",Hawa Smoothies & Bubble Tea,Brooklyn,5/26/2016,Juice Bars & Smoothies/Bubble Tea/Coffee & Tea,8/3/2020,4,34,NY,295 Broadway,11211
+"75 W 38th St,New York, NY 10018",Gong Cha,New York,9/14/2014,Bubble Tea,10/20/2020,4,418,NY,75 W 38th St,10018
+"26 Rutgers St,New York, NY 10002",Mee Cafe,New York,8/20/2011,Cafes/Bubble Tea,10/26/2020,4,85,NY,26 Rutgers St,10002
+"2878 Broadway,New York, NY 10025",Tea Magic,New York,11/16/2009,Coffee & Tea/Juice Bars & Smoothies/Tea Rooms,10/31/2020,3,211,NY,2878 Broadway,10025
+"538 2nd Ave,New York, NY 10016",Surreal Creamery,New York,6/6/2020,Ice Cream & Frozen Yogurt/Bubble Tea,10/30/2020,4,116,NY,538 2nd Ave,10016
+"227 E 14th St,New York, NY 10003",PaTea,New York,8/6/2016,Bubble Tea/Tea Rooms,10/26/2020,4,232,NY,227 E 14th St,10003
+"2508 Queens Plaza S,Long Island City, NY 11101",Gong Cha,Long Island City,9/22/2020,Bubble Tea,10/21/2020,5,19,NY,2508 Queens Plaza S,11101
+"261 Canal St,New York, NY 10013",Lazy Sundaes,New York,10/16/2020,Cafes/Bubble Tea/Shaved Ice,10/31/2020,4,3,NY,261 Canal St,10013
+"40 Hoyt St,Brooklyn, NY 11201",Kung Fu Tea,Brooklyn,11/2/2014,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,8/16/2020,4,110,NY,40 Hoyt St,11201
+"1271 Broadway,New York, NY 10001",BIAO Sugar,New York,1/12/2020,Bubble Tea,10/31/2020,4,155,NY,1271 Broadway,10001
+"295 7th Ave,Brooklyn, NY 11215",Brew Memories,Brooklyn,6/14/2020,Coffee & Tea/Bubble Tea/Breakfast & Brunch,10/25/2020,5,21,NY,295 7th Ave,11215
+"60 E 4th St,New York, NY 10003",Hello Always Tea,New York,6/17/2019,Bubble Tea,10/15/2020,5,85,NY,60 E 4th St,10003
+"208 Grand St,New York, NY 10013",Truedan,New York,4/23/2020,Bubble Tea,11/1/2020,4,35,NY,208 Grand St,10013
+"113 Court St,Ste A,Brooklyn, NY 11201",Vivi Bubble Tea,Brooklyn,7/26/2016,Bubble Tea,10/11/2020,4,41,NY,113 Court St,11201
+"168 Bleecker St,New York, NY 10012",Möge Tee Greenwich Village,New York,11/22/2019,Bubble Tea/Coffee & Tea,10/3/2020,5,26,NY,168 Bleecker St,10012
+"33-17 30th Ave,Astoria, NY 11103",The Teapsy New York,Astoria,7/17/2016,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/20/2020,4,161,NY,33-17 30th Ave,11103
+"7 E 14th St,New York, NY 10003",Trutea,New York,9/19/2020,Bubble Tea,10/24/2020,5,7,NY,7 E 14th St,10003

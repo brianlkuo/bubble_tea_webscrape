@@ -1,0 +1,53 @@
+address,business_name,city,first_review_date,food_tags,last_review_date,rating,review_num,state,street,zip5
+"4425 Convoy St,Ste 200A,San Diego, CA 92111",Cali Banh Mi - Convoy St,San Diego,,Sandwiches/Acai Bowls/Coffee & Tea,,4,,CA,4425 Convoy St,92111
+"181 W Market St,San Diego, CA 92101",Skybound Coffee & Dessert Lounge,San Diego,,Desserts/Coffee & Tea/Bakeries,10/20/2020,4,,CA,181 W Market St,92101
+"8342 Pkwy Dr,La Mesa, CA 91942",Pho SuperBowl & Tea Station,La Mesa,,Vietnamese/Coffee & Tea,10/30/2020,3,,CA,8342 Pkwy Dr,91942
+"4637 Market St,San Diego, CA 92102",Aunty Lynne's,San Diego,,Food Trucks/Shaved Ice/American (New),12/18/2019,4,,CA,4637 Market St,92102
+"10450 Friars Rd,Ste E,San Diego, CA 92120",Saigon Star,San Diego,,Vietnamese/Asian Fusion/Chinese,,4,,CA,10450 Friars Rd,92120
+"9225 Mira Mesa Blvd,Ste 102,San Diego, CA 92126",Cali Baguette Express,San Diego,,Vietnamese/Sandwiches,10/30/2020,4,,CA,9225 Mira Mesa Blvd,92126
+"4007 30th St,San Diego, CA 92104",Donut Factory,San Diego,,Donuts/Sandwiches/Bagels,,4,,CA,4007 30th St,92104
+"2326 Proctor Valley Rd,Ste 103,Chula Vista, CA 91914",Halo Halo Cafe & Ice Cream Parlor,Chula Vista,,Ice Cream & Frozen Yogurt/Filipino/Bubble Tea,10/5/2020,4,,CA,2326 Proctor Valley Rd,91914
+"2110 Birch Rd,Ste 103,Chula Vista, CA 91915",Happy Lemon - Eastlake,Chula Vista,,Bubble Tea/Juice Bars & Smoothies/Coffee & Tea,,3,,CA,2110 Birch Rd,91915
+"4366 Bonita Rd,Bonita, CA 91902",Tapioca Express,Bonita,7/16/2012,Juice Bars & Smoothies/Bubble Tea/Chicken Wings,10/31/2020,3,,CA,4366 Bonita Rd,91902
+"9330 Mira Mesa Blvd,Ste A,San Diego, CA 92126",Tim Ky Noodle,San Diego,1/3/2015,Vietnamese/Chinese/Noodles,11/1/2020,4,,CA,9330 Mira Mesa Blvd,92126
+"5416 El Cajon Blvd,San Diego, CA 92115",Berry Fresh,San Diego,3/24/2019,Acai Bowls/Bubble Tea/Juice Bars & Smoothies,10/2/2019,5,,CA,5416 El Cajon Blvd,92115
+"4646 Convoy St,Ste 113,San Diego, CA 92111",Yogurt World,San Diego,3/4/2007,Ice Cream & Frozen Yogurt,,4,,CA,4646 Convoy St,92111
+"677 S Rancho Santa Fe Rd,San Marcos, CA 92078",Bubble Tea,San Marcos,,Coffee & Tea,,3,,CA,677 S Rancho Santa Fe Rd,92078
+"9005 Mira Mesa Blvd,San Diego, CA 92126",Banh Mi Blvd,San Diego,10/30/2017,Sandwiches/Coffee & Tea,10/22/2020,4,,CA,9005 Mira Mesa Blvd,92126
+"5375 Napa St,Ste 104B,San Diego, CA 92110",Pho Kitchen,San Diego,3/9/2016,Vietnamese,10/26/2020,4,,CA,5375 Napa St,92110
+"2820 Historic Decatur Rd,San Diego, CA 92106",Mama Made,San Diego,10/31/2013,Thai,10/11/2020,3,,CA,2820 Historic Decatur Rd,92106
+"1125 6th Ave,San Diego, CA 92101",Pho Xpress,San Diego,1/30/2010,Vietnamese,9/18/2020,4,612,CA,1125 6th Ave,92101
+"3030 Plaza Bonita Rd,F18, Fl 2,National City, CA 91950",Poppy Kitchen,National City,9/16/2019,Bubble Tea/Vietnamese,7/17/2020,4,18,CA,3030 Plaza Bonita Rd,91950
+"4370 Palm Ave,Ste Q,San Diego, CA 92154",Tapioca Express,San Diego,12/13/2012,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/24/2020,3,,CA,4370 Palm Ave,92154
+"4444 El Cajon Blvd,Ste 1,San Diego, CA 92115",Yum Yum Yo,San Diego,10/9/2009,Sandwiches/Coffee & Tea/Juice Bars & Smoothies,1/9/2020,4,85,CA,4444 El Cajon Blvd,92115
+"9500 Gilman Dr,Price Center,La Jolla, CA 92093",Tapioca Express,La Jolla,1/7/2009,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,7/28/2020,3,,CA,9500 Gilman Dr,92093
+"7398 Clairemont Mesa Blvd,San Diego, CA 92111",Ajisen Ramen,San Diego,11/5/2016,Ramen,10/29/2020,4,1405,CA,7398 Clairemont Mesa Blvd,92111
+"7655 Clairemont Mesa Blvd,Ste 501,San Diego, CA 92111",Taegukgi Korean BBQ House,San Diego,4/29/2013,Korean/Barbeque/Seafood,10/31/2020,4,1556,CA,7655 Clairemont Mesa Blvd,92111
+"200 E Barham Dr,Ste 104,San Marcos, CA 92078",Tapioca Express,San Marcos,9/29/2014,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/17/2020,3,151,CA,200 E Barham Dr,92078
+"9225 Carlton Hills Blvd,Ste 19,Santee, CA 92071",Chai Waii Chinese Food,Santee,7/1/2013,Bubble Tea/Cantonese,10/20/2020,3,146,CA,9225 Carlton Hills Blvd,92071
+"742 Otay Lakes Rd,Chula Vista, CA 91910",Tapioca Express,Chula Vista,1/10/2019,Bubble Tea/Juice Bars & Smoothies/Chicken Wings,10/23/2020,3,70,CA,742 Otay Lakes Rd,91910
+"6 Creekside Dr,Ste 500,San Marcos, CA 92078",Ding Tea San Marcos,San Marcos,2/9/2020,Coffee & Tea/Bubble Tea/Desserts,10/19/2020,4,74,CA,6 Creekside Dr,92078
+"11808 Rancho Bernardo Rd,Ste 100,San Diego, CA 92128",Pho Ca Dao & Grill,San Diego,9/23/2009,Vietnamese/Comfort Food,10/27/2020,4,1217,CA,11808 Rancho Bernardo Rd,92128
+"1025 Highland Ave,National City, CA 91950",Pho 7 Cow,National City,2/28/2017,Vietnamese/Soup/Noodles,10/29/2020,4,495,CA,1025 Highland Ave,91950
+"623 Pearl St,La Jolla, CA 92037",China Chef,La Jolla,8/22/2006,Chinese,,3,238,CA,623 Pearl St,92037
+"7330 Clairemont Mesa Blvd,Ste 103,San Diego, CA 92111",Sam Woo BBQ Restaurant,San Diego,11/16/2005,Chinese/Barbeque,10/24/2020,3,814,CA,7330 Clairemont Mesa Blvd,92111
+"7330 Clairemont Mesa Blvd,San Diego, CA 92111",99 Ranch Market,San Diego,10/28/2005,Seafood Markets/Fruits & Veggies/International Grocery,10/31/2020,3,709,CA,7330 Clairemont Mesa Blvd,92111
+"242 W Mission Ave,Ste E,Escondido, CA 92025",The Frozen Factory,Escondido,5/30/2020,Ice Cream & Frozen Yogurt/Bubble Tea/Coffee & Tea,8/16/2020,4,7,CA,242 W Mission Ave,92025
+"285 E Orange Ave,Chula Vista, CA 91911",Tapioca Express,Chula Vista,9/8/2013,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,8/29/2020,3,37,CA,285 E Orange Ave,91911
+"555 Broadway,Ste 2028,Chula Vista, CA 91910",Goody Goody Ice Cream & Candy,Chula Vista,9/1/2013,Desserts/Bubble Tea/Ice Cream & Frozen Yogurt,12/26/2019,3,13,CA,555 Broadway,91910
+"3120 E Plaza Blvd,National City, CA 91950",House of Pho,National City,6/3/2015,Vietnamese/Bubble Tea,9/8/2020,4,100,CA,3120 E Plaza Blvd,91950
+"4698 Convoy St,Ste 105,San Diego, CA 92111",Yifang Taiwan Fruit Tea,San Diego,8/22/2019,Tea Rooms,8/9/2020,4,127,CA,4698 Convoy St,92111
+"4463 Camino De La Plz,Ste 107,San Ysidro, CA 92173",Panda Express,San Ysidro,11/12/2014,Chinese/Fast Food/Bubble Tea,6/14/2020,2,34,CA,4463 Camino De La Plz,92173
+"285 E Orange Ave,Chula Vista, CA 91911",Seafood City Supermarket,Chula Vista,2/16/2011,Seafood Markets/Filipino/International Grocery,9/16/2020,3,127,CA,285 E Orange Ave,91911
+"14837 Pomerado Rd,Atlas Market Food Court,Poway, CA 92064",Gotcha Tea,Poway,5/10/2019,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,6/13/2020,4,83,CA,14837 Pomerado Rd,92064
+"8687 La Mesa Blvd,La Mesa, CA 91942",Chopsticks Inn Restaurant,La Mesa,8/17/2007,Thai/Dim Sum/Vegetarian,10/23/2020,4,296,CA,8687 La Mesa Blvd,91942
+"3904 Convoy St,Ste 112,San Diego, CA 92111",Mekong Cuisine Lao and Thai,San Diego,3/18/2016,Laotian/Thai,10/6/2020,4,501,CA,3904 Convoy St,92111
+"8038 Clairemont Mesa Blvd,San Diego, CA 92111",Pho Fusion,San Diego,4/1/2010,Asian Fusion/Vietnamese/Chinese,10/18/2020,4,627,CA,8038 Clairemont Mesa Blvd,92111
+"4235 Convoy St,San Diego, CA 92111",DaYung's Tea - Convoy,San Diego,5/16/2019,Bubble Tea/Juice Bars & Smoothies/Tea Rooms,10/28/2020,4,178,CA,4235 Convoy St,92111
+"4619 Convoy St,San Diego, CA 92111",Boba Bar and Desserts,San Diego,7/23/2016,Desserts/Bubble Tea/Waffles,10/24/2020,4,924,CA,4619 Convoy St,92111
+"1001 Garnet Ave,Ste 105,San Diego, CA 92109",Bubble Up Boba and Waffles,San Diego,7/7/2020,Bubble Tea/Waffles,10/20/2020,4,21,CA,1001 Garnet Ave,92109
+"4488 Convoy St,Ste H,San Diego, CA 92111",R&B Tea,San Diego,1/17/2020,Bubble Tea/Coffee & Tea,10/29/2020,4,229,CA,4488 Convoy St,92111
+"8155 Mira Mesa Blvd,Ste 4,San Diego, CA 92126",Bobalicious,San Diego,4/1/2007,Juice Bars & Smoothies/Bubble Tea,10/31/2020,4,524,CA,8155 Mira Mesa Blvd,92126
+"4869 Convoy St,San Diego, CA 92111",Kung Fu Tea,San Diego,2/19/2016,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/19/2020,4,1347,CA,4869 Convoy St,92111
+"10756 Westview Pkwy,San Diego, CA 92126",Tastea,San Diego,9/20/2020,Bubble Tea/Coffee & Tea/Juice Bars & Smoothies,10/31/2020,4,85,CA,10756 Westview Pkwy,92126
+"5265 Linda Vista Rd,Ste 201,San Diego, CA 92110",Sharetea,San Diego,4/19/2017,Coffee & Tea/Bubble Tea/Juice Bars & Smoothies,10/18/2020,4,348,CA,5265 Linda Vista Rd,92110
