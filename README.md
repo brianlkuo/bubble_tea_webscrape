@@ -1,8 +1,10 @@
 # Bubble Tea Industry Web Scrapping Project
+### Blog post: [Link](https://nycdatascience.com/blog/?p=95764&preview=true)
+
 > Exploring trend on the bubble tea industry in the US
 
-
 The bubble tea industry has been growing since the early 2000s and it is still a market currently growing at a very fast rate. This project scrapped Yelp.com's related business establishments in the top 10 populous cities in the US and finds interesting insights on this particular market.
+
 
 ## Conclusion
 > As of December, 2020
